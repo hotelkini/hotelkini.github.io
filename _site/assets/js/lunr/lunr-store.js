@@ -143,6 +143,12 @@ var store = [{
         "url": "http://localhost:4000/jobs/konstable-polis-bantuan-lexis-hotels-resorts-sdn-bhd-4399885/",
         "teaser": null
       },{
+        "title": "Mimpi Perhentian Resort Terengganu Vacancies Oct 2020",
+        "excerpt":"Mimpi Perhentian Resort is currently looking for suitable person to fill in the below vacancies which positioned at Terengganu and Kuala Besut Island. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Positions Available Based at Resort (Island)...","categories": ["Jobs"],
+        "tags": ["Terengganu"],
+        "url": "http://localhost:4000/jobs/mimpi-perhentian-vacancies-oct-2020/",
+        "teaser": null
+      },{
         "title": "Mad Group Sdn Bhd Vacancies Operation Supervisor",
         "excerpt":"Mad Group Sdn Bhd is looking for new potential candidates to fill in for Operation Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Responsibilities:To assist, manage and oversee operations of the villa/training center....","categories": ["Jobs"],
         "tags": ["Kuala Lumpur","Bentong","Selangor"],
