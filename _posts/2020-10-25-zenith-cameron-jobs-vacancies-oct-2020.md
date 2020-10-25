@@ -10,41 +10,41 @@ toc_icon: "fire"
 --- 
 **Zenith Cameron** is looking for a team player, highly motivated, passionate and able to work independently to create an unique experience to our guests beyond their expectations with pride and honor.
 
-#### About Zenith Cameron
+### About Zenith Cameron
 
 **Zenith Cameron** is looking to make its mark in Cameron Highlands. With a prestigious 5 Star Rating, offers 175 rooms and suites along with a diverse variety of cuisine and services.
 {% include link-adsense.html %} 
 ### Available Positions
 What Positions We are Looking For:
 
-#### Executive Office
+**Executive Office**
 - Hotel Manager
 - Executive Administrative Assistant
 
-#### Finance
+**Finance**
 - Accounts Executive
 - Accounts Officers
 - Cost Controller
 - Purchasing Officer
 - IT Officer / Assistant
 
-#### Human Resources
+**Human Resources**
 - Assistant HR Manager
 - HR Assistant
 
-#### Sales & Marketing
+**Sales & Marketing**
 - Sales Coordinators
 
-#### Security
+**Security**
 - Assistant Safety & Security Manager
 - Security Supervisor
 {% include article-adsense.html %} 
-#### Engineering
+**Engineering**
 - Maintenance Manager
 - Engineering Supervisors
 - Technicians
 
-#### Front Office
+**Front Office**
 - Front Office Manager
 - Duty Managers
 - Reservation Officer
@@ -53,18 +53,18 @@ What Positions We are Looking For:
 - Bell Supervisor
 - Bell Attendants
 
-#### Housekeeping
+**Housekeeping**
 - Housekeeping Supervisors
 - Laundry Supervisor
 - Public Area / Room Attendants
 
-#### Food & Beverage (F&B)
+**Food & Beverage (F&B)**
 - F&B Manager
 - Restaurant Manager
 - F&B Supervisors
 - Waiter / Waitress / Bartender
 
-#### Kitchen
+**Kitchen**
 - Sous Chef (Italian Restaurant)
 - Junior Sous Chef
 - Assistant Chief Steward
