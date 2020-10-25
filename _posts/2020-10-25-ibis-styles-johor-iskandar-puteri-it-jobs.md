@@ -14,7 +14,7 @@ toc_icon: "fire"
 **IT Executive/IT Assistant Manager**
 
 ### Job Requirements
-![ibis sytles johor IT Jobs!](/assets/images/2020-10/ibis-styles-johor-iskandar-puteri-it-jobs-2020 "ibis sytles johor IT Jobs")
+![ibis sytles johor IT Jobs!](/assets/images/2020-10/ibis-styles-johor-iskandar-puteri-it-jobs-2020.jpg "ibis sytles johor IT Jobs")
 
 ### HOW TO APPLY
 Please send in your detailed resume copy of certificates with current and expected salary to : **hr@ibisstyles-johor-iskandarputeri.com**
