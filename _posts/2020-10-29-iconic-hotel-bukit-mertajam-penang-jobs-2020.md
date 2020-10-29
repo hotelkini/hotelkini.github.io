@@ -1,11 +1,11 @@
 ---
 title: "Iconic Hotel Bukit Mertajam Penang Jobs Vacancies 2020" 
 category: Jobs 
-date: 2020-10-25 
+date: 2020-10-29
 excerpt: "Iconic Hotel Bukit Mertajam Penang is looking for suitable candidates for many positions available this 2020" 
 tags: [Penang] 
 toc: true 
-toc_label: TOC 
+toc_label: TOC
 toc_icon: "fire" 
 --- 
 **Iconic Hotel Bukit Mertajam Penang** is looking for suitable candidates for many positions available this 2020.
