@@ -1,7 +1,7 @@
 ---
 title: "IXORA Hotel Penang Room Attendant, Security, Steward Jobs Vacancies 2020" 
 category: Jobs 
-date: 2020-10-25 
+date: 2020-10-29
 excerpt: "IXORA Hotel Penang is looking for suitable candidates for Room Attendant (Pengemas Bilik), Security (Pengawal Keselamatan), Steward positions available this 2020" 
 tags: [Penang] 
 toc: true 

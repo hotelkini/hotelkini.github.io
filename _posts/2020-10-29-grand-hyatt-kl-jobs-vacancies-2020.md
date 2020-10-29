@@ -1,7 +1,7 @@
 ---
 title: "Hard Rock Hotel Penang Front Office and F&B Production Crew Jobs Vacancies 2020" 
 category: Jobs 
-date: 2020-10-25 
+date: 2020-10-29
 excerpt: "Hard Rock Hotel Penang is looking for suitable candidates for Front Office and F&B Production Crew positions available this 2020" 
 tags: [Penang] 
 toc: true 
