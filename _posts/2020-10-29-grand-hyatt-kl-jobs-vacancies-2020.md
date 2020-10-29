@@ -1,8 +1,8 @@
 ---
-title: "Hard Rock Hotel Penang Front Office and F&B Production Crew Jobs Vacancies 2020" 
+title: "Grand Hyatt Kuala Lumpur Pastry Chef and Graphic Artist Jobs Vacancies 2020" 
 category: Jobs 
 date: 2020-10-29
-excerpt: "Hard Rock Hotel Penang is looking for suitable candidates for Front Office and F&B Production Crew positions available this 2020" 
+excerpt: "Grand Hyatt Kuala Lumpur is looking for suitable candidates for Pastry Chef and Graphic Artist positions available this 2020" 
 tags: [Penang] 
 toc: true 
 toc_label: TOC 
