@@ -21,4 +21,18 @@ toc_icon: "fire"
 If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
 Hope you find your dream hotel job in Kuala Lumpur. <br/> 
 <a href="https://www.jobstreet.com.my/en/job/concierge-front-of-house-4414177?jobId=jobstreet-my-job-4414177&sectionRank=1&token=0~6997cd39-1968-4cc0-8ccc-6b049f65bc56&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+
+<div class="notice--warning">
+<p><b>SUPPORT HotelKini.com</b></p>
+Join HotelKini social media group right now !!<br/>
+Get the latest Malaysia hotel jobs information directly from your fav social media, either
+  <a href="https://instagram.com/hotelkini" rel="noopenner nofollow" target="_blank"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span> Instagram</span></a> / 
+
+  <a href="https://t.me/hotelkini" rel="noopenner nofollow" target="_blank"><i class="fab fa-fw fa-telegram" aria-hidden="true"></i><span> Telegram</span></a> /
+
+  <a href="https://www.facebook.com/jawatankosonghotel" rel="noopenner nofollow" target="_blank"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a> / 
+
+  <a href="https://www.linkedin.com/company/hotelkini" rel="noopenner nofollow" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</div>
+
 {% include link-adsense.html %} 

@@ -10,8 +10,10 @@ permalink: /contact/
 Enmail: myhotelkini@gmail.com<br/>
 Facebook: [https://www.facebook.com/jawatankosonghotel/][f] <br/>
 Instagram: [https://www.instagram.com/hotelkini][i]<br/>
+Linkedin: [https://www.linkedin.com/company/hotelkini][le]<br/>
 
 Please allowed us to reply your email by 3 days at most if we are in good shape. Otherwise, please be patience with us.
 
 [f]:https://www.facebook.com/jawatankosonghotel/
 [i]:https://www.instagram.com/hotelkini
+[le]:https://www.linkedin.com/company/hotelkini
