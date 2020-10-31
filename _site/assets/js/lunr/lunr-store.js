@@ -460,4 +460,34 @@ var store = [{
         "tags": ["Langkawi","Kedah"],
         "url": "http://localhost:4000/jobs/westin-langkawi-resorts-spa-housekeeper-job/",
         "teaser": null
+      },{
+        "title": "Bangi Resort Hotel Selangor Jobs Vacancies 2020",
+        "excerpt":"Bangi Resort Hotel Selangor is hiring for this positions: Assistant Golf Course Superintendent , Golf Course Supervisor, Mechanic / Technician, Cost Control Executive, Kitchen Operations Executive. About Bangi Resort Hotel A picturesque 5-star conference resort, conveniently located midway between Kuala Lumpur International Airport and Kuala Lumpur city centre. Built atop...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/bangi-resort-hotel-jobs-2020/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Front Desk Agent",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Front Desk Agent position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Gallivant HotelWe are looking to hire an upbeat Front Desk...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/front-desk-agent-jora-jobs-414850/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Hospitality Intern",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Hospitality Intern position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Gallivant HotelJob DescriptionResponsible for maintaining a standard of cleanliness throughout a...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/hospitality-intern-jora-jobs-414856/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Housekeeping Supervisor",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Gallivant HotelJob DescriptionTrain housekeepers on cleaning and maintenance tasksOversee staff on...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/housekeping-supervisor-jora-jobs-41484/",
+        "teaser": null
+      },{
+        "title": "Mimpi Perhentian Resort Jobs Vacancies 2021",
+        "excerpt":"Mimpi Perhentian Resort is hiring for 2021 season. Many positions available such as Concierge, Room Attendance, F&amp;B , Chef, Steward, Maintenance Officer, Technician and Recreation Assistant. About Mimpi Perhentian Resort MIMPI PERHENTIAN in Long Beach on Pulau Perhentian Kecil, features 4-star accommodations with a garden and a restaurant. Directly accessible...","categories": ["Jobs"],
+        "tags": ["Terengganu"],
+        "url": "http://localhost:4000/jobs/mimpi-perhentian-jobs-2021-season/",
+        "teaser": null
       }]

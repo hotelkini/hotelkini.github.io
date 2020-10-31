@@ -36,19 +36,5 @@ Marriott International is an equal opportunity employer that does not discrimina
 of disability, veteran status or any other basis protected under federal, state or local laws.</div>
 Only shortlisted candidates will be notified.
 
-<div class="notice--warning">
-<p><b>SUPPORT HotelKini.com</b></p>
-Join HotelKini social media group right now !!<br/>
-Get the latest Malaysia hotel jobs information directly from your fav social media, either
-  <a href="https://instagram.com/hotelkini" rel="noopenner nofollow" target="_blank"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span> Instagram</span></a> / 
-
-  <a href="https://t.me/hotelkini" rel="noopenner nofollow" target="_blank"><i class="fab fa-fw fa-telegram" aria-hidden="true"></i><span> Telegram</span></a> /
-
-  <a href="https://www.facebook.com/jawatankosonghotel" rel="noopenner nofollow" target="_blank"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a> / 
-
-  <a href="https://www.linkedin.com/company/hotelkini" rel="noopenner nofollow" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
-</div>
-
-
 {% include link-adsense.html %} 
 
