@@ -490,4 +490,40 @@ var store = [{
         "tags": ["Terengganu"],
         "url": "http://localhost:4000/jobs/mimpi-perhentian-jobs-2021-season/",
         "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Housekeeping Personnel",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Personnel position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Jen HomestayPerforms cleaning duties in all guest areas and back of houseConsistently...","categories": ["Jobs"],
+        "tags": ["Terengganu"],
+        "url": "http://localhost:4000/jobs/housekeping-personel-jora-jobs-415134/",
+        "teaser": null
+      },{
+        "title": "Sovotel Malaysia Sdn Bhd Vacancies Operation Executive",
+        "excerpt":"Sovotel Malaysia Sdn Bhd is looking for new potential candidates to fill in for Operation Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Top Boutique HotelGood Working EnvironmentSupportive team and fun environment Additional...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Selangor"],
+        "url": "http://localhost:4000/jobs/operation-executive-sovotel-malaysia-sdn-bhd-41019/",
+        "teaser": null
+      },{
+        "title": "Amari Johor Bahru Job 2020 Director Position",
+        "excerpt":"Amari Johor Bahru is hiring Director (Revenue and Distribution) position. About Amari Johor Bahru Thailand -based, ONYX Hospitality Group operates the 242-room Amari Johor Bahru, the first Amari in, Malaysia which is owned by Exquisite Mode Sdn. Bhd. (a subsidiary of United Malayan Land Bhd). The hotel offers a selection...","categories": ["Jobs"],
+        "tags": ["Johor Bahru"],
+        "url": "http://localhost:4000/jobs/amari-johor-bahru-hotel-director-job/",
+        "teaser": null
+      },{
+        "title": "Quinton Group Sdn Bhd Vacancies BUSINESS DEVELOPMENT CONSULTANT",
+        "excerpt":"Quinton Group Sdn Bhd is looking for new potential candidates to fill in for BUSINESS DEVELOPMENT CONSULTANT position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights 5 working daysPositive working environmentGreat career advancement Additional Information...","categories": ["Jobs"],
+        "tags": ["Kedah","Kelantan","Melaka","Negeri Sembilan","Bayan Lepas","Pahang","Perak","Perlis","Terengganu"],
+        "url": "http://localhost:4000/jobs/busines-development-consultant-quinton-group-sdn-bhd-409406/",
+        "teaser": null
+      },{
+        "title": "Hotel Taiping Perdana Jobs Vacancies 2020",
+        "excerpt":"Hotel Taiping Perdana is hiring for 2020 season for this positions Sales Executive - MICE/ROOMS, Technician, HouseReping Attendance. About Mimpi Perhentian Resort Hotel Taiping Perdana is one of the top companies in Malaysia that owns and operates Malaysia’s premier Hotel in Taiping. Vacancies To meet the needs of our growth...","categories": ["Jobs"],
+        "tags": ["Perak"],
+        "url": "http://localhost:4000/jobs/hotel-taiping-perdana-jobs-2020/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies HOUSEKEEPING ASSISTANT",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for HOUSEKEEPING ASSISTANT position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description ORIENTAL CRYSTAL HOTELTasks &amp; Responsibilities include:To assist your Supervisor in the daily...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/housekeping-asistant-jora-jobs-407810/",
+        "teaser": null
       }]
