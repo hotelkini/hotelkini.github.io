@@ -1,0 +1,22 @@
+---
+title: "One & Only Desaru Coast Vacancies Team Leader, Wellness, Fitness and Yoga" 
+category: Jobs 
+date: 2020-11-03 
+excerpt: "One & Only Desaru Coast is currently looking for suitable person to fill in the Team Leader, Wellness, Fitness and Yoga which positioned at Johor" 
+tags: [Johor] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>One & Only Desaru Coast is looking for new potential candidates to fill in for <b>Team Leader, Wellness, Fitness and Yoga</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div>This role has responsibility for driving and leading the operational and financial direction of the Spa &amp; Recreation/Leisure department ensuring complete viability of the responsible departments, maximizing all opportunities and resources.</div><div><div><div>Your responsibility will include :</div><div><ul><li>To ensure that the highest standards of services are adhered to at all times and that guest experience exceeds expectation</li><li>To work closely with the Spa Operator/Consultant, Sports &amp; Recreation and third parties in establishing and maintaining marketing objectives, operating criteria, programming, budgeting, VIP guest visits, colleague relations and training programs</li><li>Yoga knowledge and&#160; skills are compulsory for this position.</li><li>To promote the overall philosophy and services of the Spa in order to reinforce the reputation and profile of the Resort for providing a quality total destination spa experience</li><li>Oversee, carry out and assist in games and activities in the Kids Club.</li><li>Have full training in emergency procedures and child first aid</li><li>Coordinate and assist children in meal periods in the designated restaurant, communicating with F&amp;B number of children and menu requests</li><li>Attend to all children checked in to the One&amp;Only Desaru Coast Kids Club as per resort standard policies and procedures at all times</li></ul><div>We are looking for a candidate with Spa/Sport &amp; Leisure Management experience gained in a luxury 5-star Resort, solid commercial acumen, the desire to focus on the development of our team, and a warm, welcoming and outgoing personality; ensuring we deliver the highest of standards consistently and that our guests who visit our resorts have amazing experiences and everlasting memories. The candidate would have previously gained experience as Yoga Instructor with knowledge of the history, and ethics of yoga.</div><div><div><div>As Malaysian national only, if you have a passion for Hospitality, we would love to hear from you!</div><div><div>If this sounds like you, we would love to hear from you, and with an incredible portfolio of ultra-luxury One&amp;Only resorts located across the globe and exciting expansion planned, this is an opportunity not to be missed!&#160;</div></div></div></div></div></div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>"Kerzner International Holdings Limited (&#8220;Kerzner&#8221;), the owner of the ultra-luxury One&amp;Only Resorts and iconic Atlantis Resort &amp; Residences brands worldwide is pleased to announce the introduction of One&amp;Only Desaru Coast in Malaysia.&#160;&#160;</div>
+<div>A 128-acre beachfront development, this ultimate bespoke lifestyle experience will include 42 suites, 2 luxury suites and an exclusive 4-bedroom villa, as well as approximately 50 One&amp;Only Private Homes available for purchase. This will be the first One&amp;Only in Malaysia as part of the expanding One&amp;Only collection, as the brand continues to grow and develop internationally. Kerzner manages a portfolio of globally renowned, landmark destination resorts, luxury hotels and residences and innovative entertainment experiences."</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Johor. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/team-leader-wellness-fitness-and-yoga-4404853?jobId=jobstreet-my-job-4404853&sectionRank=5&token=0~27f5c2c5-2793-4cc9-a60d-3a216a01f2d1&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
