@@ -526,4 +526,136 @@ var store = [{
         "tags": ["Selangor"],
         "url": "http://localhost:4000/jobs/housekeping-asistant-jora-jobs-407810/",
         "teaser": null
+      },{
+        "title": "Anantara Desaru Coast Resort & Villas Vacancies Chef de Cuisine",
+        "excerpt":"Anantara Desaru Coast Resort &amp; Villas is looking for new potential candidates to fill in for Chef de Cuisine position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights 5 working days per weekAccommodation providedMedical and...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/chef-de-cuisine-anantara-desaru-coast-resort-vilas-415803/",
+        "teaser": null
+      },{
+        "title": "Rubikq Sdn. Bhd. Vacancies Head Butler for Private Club",
+        "excerpt":"Rubikq Sdn. Bhd. is looking for new potential candidates to fill in for Head Butler for Private Club position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Preferably:Former Cabin crew from airline industryAge &lt;30 years...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/head-butler-for-private-club-rubikq-sdn-bhd-415709/",
+        "teaser": null
+      },{
+        "title": "Company Confidential Vacancies HOTEL MANAGER",
+        "excerpt":"Company Confidential is looking for new potential candidates to fill in for HOTEL MANAGER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description HOTEL MANAGERMelakaResponsibilities:Oversees all operations and day-today activities in a hotel organization. Provide...","categories": ["Jobs"],
+        "tags": ["Melaka"],
+        "url": "http://localhost:4000/jobs/hotel-manager-company-confidential-41546/",
+        "teaser": null
+      },{
+        "title": "Rompin Park Resort Sdn Bhd Vacancies Operations Executive",
+        "excerpt":"Rompin Park Resort Sdn Bhd is looking for new potential candidates to fill in for Operations Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description We are looking for energetic, responsible individuals with a...","categories": ["Jobs"],
+        "tags": ["Pahang - Others"],
+        "url": "http://localhost:4000/jobs/operations-executive-rompin-park-resort-sdn-bhd-417126/",
+        "teaser": null
+      },{
+        "title": "The Stanley Hotel and Suites Vacancies Reservations Manager",
+        "excerpt":"The Stanley Hotel and Suites is looking for new potential candidates to fill in for Reservations Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Are you a Reservations Manager looking for your next...","categories": ["Jobs"],
+        "tags": ["Papua New Guinea"],
+        "url": "http://localhost:4000/jobs/reservations-manager-the-stanley-hotel-and-suites-415617/",
+        "teaser": null
+      },{
+        "title": "MFM Restaurant Sdn Bhd Vacancies Restaurant Manager",
+        "excerpt":"MFM Restaurant Sdn Bhd is looking for new potential candidates to fill in for Restaurant Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Overall responsible for smooth operations and profitability of the assigned...","categories": ["Jobs"],
+        "tags": ["Johor","Kuala Lumpur","Selangor","Putrajaya"],
+        "url": "http://localhost:4000/jobs/restaurant-manager-mfm-restaurant-sdn-bhd-416709/",
+        "teaser": null
+      },{
+        "title": "One & Only Desaru Coast Vacancies Team Leader, Wellness, Fitness and Yoga",
+        "excerpt":"One &amp; Only Desaru Coast is looking for new potential candidates to fill in for Team Leader, Wellness, Fitness and Yoga position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description This role has responsibility for...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/team-leader-welnes-fitnes-and-yoga-one-only-desaru-coast-404853/",
+        "teaser": null
+      },{
+        "title": "Northern Park Holdings Sdn. Bhd. Vacancies Hotel Manager",
+        "excerpt":"Northern Park Holdings Sdn. Bhd. is looking for new potential candidates to fill in for Hotel Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Preferably Diploma in Business or Hotel Management/Hospitality management.To have...","categories": ["Jobs"],
+        "tags": ["Kulim"],
+        "url": "http://localhost:4000/jobs/hotel-manager-northern-park-holdings-sdn-bhd-41756/",
+        "teaser": null
+      },{
+        "title": "Renaissance Hotel Johor Bahru Jobs Engineering, Kitchn, Housekeeping",
+        "excerpt":"Renaissance Hotel Johor Bahru is wanting you! Demi Chef (Pastry) and Housekeeping Supervisor positions available. About Renaissance Hotel Johor Bahru At Renaissance Hotels, we believe inspiration comes from the unexpected. We create a work environment that values diversity, inclusion, spontaneity and discovery, with unmatched growth opportunities. Join a welcoming and...","categories": ["Jobs"],
+        "tags": ["Johor Bahru"],
+        "url": "http://localhost:4000/jobs/renaissance-johor-bahru-hotel-jobs/",
+        "teaser": null
+      },{
+        "title": "Royale Chulan Penang Jobs For DemiChef and Housekeeping Supervisor",
+        "excerpt":"Royale Chulan Penang is wanting you! Demi Chef (Pastry) and Housekeeping Supervisor positions available. About Royale Chulan Penang Royale Chulan Penang Hotel is at the heart of UNESCO Heritage Site in George Town, Penang, Malaysia. This 4-star heritage property offers a charming fusion of history through its colonial architecture and...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/royale-chulan-penang-jobs-demichef-housekeeping/",
+        "teaser": null
+      },{
+        "title": "HerbaLine Global Wellness Group Vacancies HOTEL MANAGER",
+        "excerpt":"HerbaLine Global Wellness Group is looking for new potential candidates to fill in for HOTEL MANAGER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job DescriptionsPlan, implement and manage overall hotel, spa centre and...","categories": ["Jobs"],
+        "tags": ["Melaka","Ipoh","Shah Alam/Subang"],
+        "url": "http://localhost:4000/jobs/hotel-manager-herbaline-global-welnes-group-417969/",
+        "teaser": null
+      },{
+        "title": "AMI SUITES Vacancies Housekeeping Team Lead",
+        "excerpt":"AMI SUITES is looking for new potential candidates to fill in for Housekeeping Team Lead position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Medical &amp; ParkingYearly BonusWrok Life Balance Additional Information Career LevelSenior ExecutiveQualificationPrimary/Secondary...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/housekeping-team-lead-ami-suites-40851/",
+        "teaser": null
+      },{
+        "title": "R&F Development Sdn Bhd Vacancies Cleaning Assistant",
+        "excerpt":"R&amp;F Development Sdn Bhd is looking for new potential candidates to fill in for Cleaning Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights International Working EnvironmentDaily Meal ProvidedGood Staff Benefits Additional Information Career...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/cleaning-asistant-r-f-development-sdn-bhd-409058/",
+        "teaser": null
+      },{
+        "title": "Profit Consortium Sdn Bhd Vacancies Guest Service Associate (客服人员)",
+        "excerpt":"Profit Consortium Sdn Bhd is looking for new potential candidates to fill in for Guest Service Associate (客服人员) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights TOP 50 Developer in ChinaLandmark ProjectCareer Advancement Additional...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/guest-service-asociate-profit-consortium-sdn-bhd-41939/",
+        "teaser": null
+      },{
+        "title": "One & Only Desaru Coast Vacancies Server",
+        "excerpt":"One &amp; Only Desaru Coast is looking for new potential candidates to fill in for Server position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description JOB SUMMARYThe Server focus will be to provide a warm...","categories": ["Jobs"],
+        "tags": ["Johor - Others"],
+        "url": "http://localhost:4000/jobs/server-one-only-desaru-coast-419475/",
+        "teaser": null
+      },{
+        "title": "Anantara Desaru Coast Resort & Villas Vacancies Recreation Supervisor ( Yoga & Fitness Instructor )",
+        "excerpt":"Anantara Desaru Coast Resort &amp; Villas is looking for new potential candidates to fill in for Recreation Supervisor ( Yoga &amp; Fitness Instructor ) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Work 5...","categories": ["Jobs"],
+        "tags": ["Johor - Others"],
+        "url": "http://localhost:4000/jobs/recreation-supervisor-yoga-fitnes-instructor-anantara-desaru-coast-resort-vilas-412520/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Vacancies Cage Cashier (Temporary)",
+        "excerpt":"Genting Malaysia Berhad is looking for new potential candidates to fill in for Cage Cashier (Temporary) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Responsibilities:Record all cash transactions, handle chip exchanges, and perform...","categories": ["Jobs"],
+        "tags": ["Pahang"],
+        "url": "http://localhost:4000/jobs/cage-cashier-temporary-genting-malaysia-berhad-41803/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Vacancies Croupier / Dealer (Temporary)",
+        "excerpt":"Genting Malaysia Berhad is looking for new potential candidates to fill in for Croupier / Dealer (Temporary) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Responsibilities:Carry out gaming-related duties, provide efficient customer service...","categories": ["Jobs"],
+        "tags": ["Pahang"],
+        "url": "http://localhost:4000/jobs/croupier-dealer-temporary-genting-malaysia-berhad-41807/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Vacancies Slot Assistant (Temporary)",
+        "excerpt":"Genting Malaysia Berhad is looking for new potential candidates to fill in for Slot Assistant (Temporary) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job DescriptionProvide excellent customer service, actively promote Slot programs and...","categories": ["Jobs"],
+        "tags": ["Pahang"],
+        "url": "http://localhost:4000/jobs/slot-asistant-temporary-genting-malaysia-berhad-418010/",
+        "teaser": null
+      },{
+        "title": "Maximerge Capital Sdn Bhd Vacancies Hotel Manager",
+        "excerpt":"Maximerge Capital Sdn Bhd is looking for new potential candidates to fill in for Hotel Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/hotel-manager-maximerge-capital-sdn-bhd-421657/",
+        "teaser": null
+      },{
+        "title": "Company Confidential Vacancies ISLAND HOTEL, RESORT MANAGER",
+        "excerpt":"Company Confidential is looking for new potential candidates to fill in for ISLAND HOTEL, RESORT MANAGER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description - With at least 5 years experience in hotel management...","categories": ["Jobs"],
+        "tags": ["Perak - Others"],
+        "url": "http://localhost:4000/jobs/island-hotel-resort-manager-company-confidential-421084/",
+        "teaser": null
+      },{
+        "title": "Adena Beach Resort Kuantan Vacancies OPERATIONS MANAGER",
+        "excerpt":"Adena Beach Resort Kuantan is looking for new potential candidates to fill in for OPERATIONS MANAGER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Career AdvancementGreat and Friendly EnvironmentA Fair Work-Life Balance Culture Additional...","categories": ["Jobs"],
+        "tags": ["Kuantan"],
+        "url": "http://localhost:4000/jobs/operations-manager-adena-beach-resort-kuantan-42050/",
+        "teaser": null
       }]
