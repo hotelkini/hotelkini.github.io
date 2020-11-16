@@ -1,7 +1,7 @@
 ---
 title: "Hilton Garden Inn Singapore Hotel Jobs Vacancies 2020" 
 category: Jobs 
-date: 2020-11-13 
+date: 2020-11-14
 excerpt: "Hilton Garden Inn is currently looking for suitable person to fill few position such as F&B, Front Office, Guest Service Executive, Engineering, Technician which positioned at Singapore" 
 tags: [Singapore] 
 toc: true 
