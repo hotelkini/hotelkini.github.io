@@ -25,7 +25,6 @@ administration of human resources are in order
 - Any other tasks as required by the Management from time to time.
 
 {% include article-adsense.html %} 
-![Classic Hotel Muar Jobs Ads 2020!](/assets/images/2020-11/classic-hotel-muar-front-office-assistant.jpg "Classic Hotel Muar Jobs 2020")
 
 ### How To Apply 
 If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
