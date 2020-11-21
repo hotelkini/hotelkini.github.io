@@ -1,0 +1,21 @@
+---
+title: "Marriott International Vacancies Duty Manager" 
+category: Jobs 
+date: 2020-11-21 
+excerpt: "Marriott International is currently looking for suitable person to fill in the Duty Manager which positioned at Penang" 
+tags: [Penang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Marriott International is looking for new potential candidates to fill in for <b>Duty Manager</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><br>Job Description :<br><b>Job Category</b> Rooms and Guest Services Operations<br><b>Location</b> Courtyard Penang, 218D Jalan Macalister, George Town, Penang, Malaysia, Malaysia<br><b>Brand</b> Courtyard by Marriott<br><b>Schedule</b> Full-time<br><b>Position Type</b> Non-Management/Hourly<br><b><br>Start Your Journey With Us</b><br>With more than 330 managed locations in more than 20 countries Courtyard by Marriott offers a refreshing environment that helps guests stay connected and balanced. Working at Courtyard, you'll ensure guests have a smooth, productive stay that meets their personal and business needs. Find Your World&#8482; at Courtyard by Marriott.<br>Process all guest check-ins, verifying guest identity, form of payment, assigning room, and activating/issuing room key. Set up accurate accounts for each guest according to their requirements. Enter Marriott Rewards information. Ensure rates match market codes, document exceptions. Secure payment prior to issuing room key, verify/adjust billing. Compile and review daily reports/logs/contingency lists. Complete cashier and closing reports. Supply guests with directions and property information. Accommodate guest requests, contacting appropriate staff if necessary. Follow up to ensure requests have been met. Process all payment types, vouchers, paid-outs, and charges. Balance and drop receipts. Count and secure bank at beginning and end of shift. Obtain manual authorizations and follow all Accounting procedures. Notify Loss Prevention/Security of any guest reports of theft. Assist management in training, evaluating, counseling, motivating and coaching employees; serve as a role model and first point of contact of the Guarantee of Fair Treatment/Open Door Policy process. Develop/maintain positive working relationships; support team to reach common goals; listen and respond appropriately to employee concerns.<br>Follow company policies and procedures; report accidents, injuries, and unsafe work conditions to manager; complete safety training and certifications; ensure personal appearance is clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge guests; anticipate and address guests service needs; assist individuals with disabilities; thank guests with genuine appreciation. Speak using clear and professional language; prepare and review written documents accurately and completely; answer telephones using appropriate etiquette. Ensure adherence to quality standards. Enter and locate information using computers/POS systems. Stand, sit, or walk for an extended period of time. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.<i>Marriott International is an equal opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture. Marriott International does not discriminate on the basis of disability, veteran status or any other basis protected under federal, state or local laws.</i><br></div> 
+{% include article-adsense.html %} 
+<div><div><div><div><div> <h4>About <span>Marriott International</span></h4></div> <div><p>Marriott International</p></div></div></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Penang. <br/> 
+<a href="https://www.monster.com.my/seeker/job-apply?id=1968631&autoApply=true" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

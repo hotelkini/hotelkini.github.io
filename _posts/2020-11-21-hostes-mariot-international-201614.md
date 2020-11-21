@@ -1,0 +1,21 @@
+---
+title: "Marriott International Vacancies Hostess" 
+category: Jobs 
+date: 2020-11-21 
+excerpt: "Marriott International is currently looking for suitable person to fill in the Hostess which positioned at Kuala Lumpur , Malaysia" 
+tags: [Kuala Lumpur , Malaysia] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Marriott International is looking for new potential candidates to fill in for <b>Hostess</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include link-adsense.html %} 
+<div><br>Job Description :<br><b>Job Category</b> Food and Beverage &amp; Culinary<br><b>Location</b> The St. Regis Kuala Lumpur, Jalan Stesen Sentral &amp; Jalan Travers, Kuala Lumpur, Malaysia, Malaysia<br><b>Brand</b> St. Regis Hotels &amp; Resorts<br><b>Schedule</b> Full-time<br><b>Relocation</b> No<br><b>Position Type</b> Non-Management/Hourly<br><b><br>Start Your Journey With Us</b><br>The St. Regis brand first established luxury hospitality more than 110 years ago, with the opening of the St. Regis New York. From the moment John Jacob Astor IV opened the doors of his Beaux-Arts masterpiece on New York&#8217;s Fifth Avenue, St. Regis has stood as a symbol of uncompromising elegance and bespoke service. Today, with more than 40 of the best addresses around the world, St. Regis is a place where trends are born, boundaries are broken and guests can simply live exquisite. We invite you to explore careers at St. Regis.<br>Complete closing duties, including storing all reusable goods, breaking down goods, cleaning all equipment and areas, returning equipment to proper locations, locking refrigerators, restocking items, turning off lights, locking doors, and completing daily cleaning checklist. Set up, stock, and maintain work areas. Inspect the cleanliness and presentation of all china, glass, and silver prior to use. Maintain cleanliness of work areas throughout the day, practicing clean-as-you-go procedures.<br>Follow all company and safety and security policies and procedures; report any maintenance problems, safety hazards, accidents, or injuries; complete safety training and certifications. Ensure uniform and personal appearance are clean and professional. Maintain confidentiality of proprietary information; protect company assets. Support all co-workers and treat them with dignity and respect. Support team to reach common goals. Comply with quality assurance expectations and standards. Move, lift, carry, push, pull, and place objects weighing less than or equal to 50 pounds without assistance. Stand, sit, or walk for an extended period of time or for an entire work shift. Read and visually verify information in a variety of formats (e. g., small print). Grasp, turn, and manipulate objects of varying and weight, requiring fine motor skills and hand-eye coordination. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Move over sloping, uneven, or slippery surfaces and steps. Move up and down stairs and/or service ramps. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Perform other reasonable job duties as requested by Supervisors.<i>Marriott International is an equal opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture. Marriott International does not discriminate on the basis of disability, veteran status or any other basis protected under federal, state or local laws.</i><br></div> 
+{% include article-adsense.html %} 
+<div><div><div><div><div> <h4>About <span>Marriott International</span></h4></div></div></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Kuala Lumpur , Malaysia. <br/> 
+<a href="https://www.monster.com.my/seeker/job-apply?id=2011614&autoApply=true" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 

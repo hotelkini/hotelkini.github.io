@@ -658,4 +658,256 @@ var store = [{
         "tags": ["Kuantan"],
         "url": "http://localhost:4000/jobs/operations-manager-adena-beach-resort-kuantan-42050/",
         "teaser": null
+      },{
+        "title": "DHG Vacancies INTERNSHIP FOR MARKETING, BUSINESS MANAGEMENT, FINANCE & HOSPITALITY STUDENTS",
+        "excerpt":"DHG is looking for new potential candidates to fill in for INTERNSHIP FOR MARKETING, BUSINESS MANAGEMENT, FINANCE &amp; HOSPITALITY STUDENTS position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least Bachelor's...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/internship-for-marketing-busines-management-finance-hospitality-students-dhg-423230/",
+        "teaser": null
+      },{
+        "title": "FJPJP SDN BHD Vacancies Front Desk Officer/Personal Assistant/Food/Beverage (Kitchen)",
+        "excerpt":"FJPJP SDN BHD is looking for new potential candidates to fill in for Front Desk Officer/Personal Assistant/Food/Beverage (Kitchen) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Front Desk officer &#8226; Handling arrival, check in...","categories": ["Jobs"],
+        "tags": ["Bayan Lepas"],
+        "url": "http://localhost:4000/jobs/front-desk-oficer-personal-asistant-fod-beverage-kitchen-fjpjp-sdn-bhd-424057/",
+        "teaser": null
+      },{
+        "title": "Hilton Garden Inn Singapore Hotel Jobs Vacancies 2020",
+        "excerpt":"Hilton Garden Inn is currently looking for suitable person to fill few position such as F&amp;B, Front Office, Guest Service Executive, Engineering, Technician which positioned at Singapore. At Hilton Garden Inn, you’ll find an open, inviting atmosphere with warm, glowing service from the first hello to the next. Positions Join...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/hilton-garden-inn-singapore-jobs-2020/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Front Office Assistant",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Front Office Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Liu Men HotelJob Description:Handle guest check in and check out tasks...","categories": ["Jobs"],
+        "tags": ["Melaka"],
+        "url": "http://localhost:4000/jobs/front-ofice-asistant-jora-jobs-42475/",
+        "teaser": null
+      },{
+        "title": "Ixora Penang Hotel Assistant Front Office Manager Vacancy",
+        "excerpt":"Ixora Penang Hotel is currently looking for suitable person to fill in a **Assistant Front Office Manager** position. About Conveniently located, Ixora Hotel Penang is near public transportation that allows easy access to main attractions including Penang Bridge, Penang-Butterworth Positions We are seeking for a dynamic and PENANG MALAYSIA experienced...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/ixora-hotel-penang-asst-front-office-manager/",
+        "teaser": null
+      },{
+        "title": "One & Only Desaru Coast Vacancies Butler",
+        "excerpt":"One &amp; Only Desaru Coast is looking for new potential candidates to fill in for Butler position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description JOB SUMMARYThe Butler is the ambassador of the resort and...","categories": ["Jobs"],
+        "tags": ["Johor - Others"],
+        "url": "http://localhost:4000/jobs/butler-one-only-desaru-coast-425015/",
+        "teaser": null
+      },{
+        "title": "Anantara Desaru Coast Resort & Villas Vacancies Chef de Cuisine",
+        "excerpt":"Anantara Desaru Coast Resort &amp; Villas is looking for new potential candidates to fill in for Chef de Cuisine position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights 5 working days per weekAccommodation providedMedical and...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/chef-de-cuisine-anantara-desaru-coast-resort-vilas-415803/",
+        "teaser": null
+      },{
+        "title": "Classic Hotel Muar Vacancy for Front Office Assistant",
+        "excerpt":"Classic Hotel Muar is currently looking for suitable person to fill in a Assistant Front Office Assistant position. About Nestled strategically in the heart of Johor’s royal town - Muar, this hotel is located just next to the town’s premier shopping mall (Wetex Parade) and the ever-famous food stalls of...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/classic-hotel-muar-front-office-assistant/",
+        "teaser": null
+      },{
+        "title": "Duke Hotel Sdn Bhd Vacancy for HR Manager",
+        "excerpt":"Duke Hotel pre-opening which schedule to open in November 2021 is currently looking for suitable person to fill in a HR Manager position. Positions Come &amp; explore an opportunity in hospitality with Duke Hotel. We invite kind &amp; aspiring talents to join us Human Resource Manager Qualifications Looking for someone...","categories": ["Jobs"],
+        "tags": ["N/A"],
+        "url": "http://localhost:4000/jobs/duke-hotel-sdn-bhd-hr-manager/",
+        "teaser": null
+      },{
+        "title": "One & Only Desaru Coast Vacancies Guest Relation Agent",
+        "excerpt":"One &amp; Only Desaru Coast is looking for new potential candidates to fill in for Guest Relation Agent position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description JOB SUMMARY:&#160;As a Guest Relations Officer, you will...","categories": ["Jobs"],
+        "tags": ["Johor - Others"],
+        "url": "http://localhost:4000/jobs/guest-relation-agent-one-only-desaru-coast-425060/",
+        "teaser": null
+      },{
+        "title": "Glomex Resort Sdn Bhd Vacancies Management Trainee",
+        "excerpt":"Glomex Resort Sdn Bhd is looking for new potential candidates to fill in for Management Trainee position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description A management trainee is one who works under the supervision...","categories": ["Jobs"],
+        "tags": ["Bukit Mertajam"],
+        "url": "http://localhost:4000/jobs/management-traine-glomex-resort-sdn-bhd-426296/",
+        "teaser": null
+      },{
+        "title": "Trinidad Puteri Harbour Johor Luxury Hotel Vacancies 2020",
+        "excerpt":"Trinidad Puteri Harbour, a luxury hotel in Johor is on the lookout for dynamic individuals who are passionate about the hospitality industry for the following positions. Positions Human Resource Executive Finance - General Ledger Finance - Accounts Receivable Marketing Communication Executive. How To Apply If you confident and feel that...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/trinidad-puteri-harbour-johor-luxury-hotel-vacancies/",
+        "teaser": null
+      },{
+        "title": "Forte Employment Services Pte Ltd Vacancies Cook Western Food/$1800-2600) - island wide",
+        "excerpt":"Forte Employment Services Pte Ltd is looking for new potential candidates to fill in for Cook Western Food/$1800-2600) - island wide position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job DescriptionAttractive benefitsMeals providedSalary: Gross:...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/cok-western-fod-180-260-island-wide-forte-employment-services-pte-ltd-tern-fo/",
+        "teaser": null
+      },{
+        "title": "WNJ Services Sdn Bhd Vacancies Front Desk Concierge For Hospitality",
+        "excerpt":"WNJ Services Sdn Bhd is looking for new potential candidates to fill in for Front Desk Concierge For Hospitality position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description &#160; &#160; &#160; &#160; RequirementCandidate must possess...","categories": ["Jobs"],
+        "tags": ["Tanjung Bungah/Teluk Bahang","Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/front-desk-concierge-for-hospitality-wnj-services-sdn-bhd-427952/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Accounting Supervisor",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Accounting Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Finance and Accounting Location JW Marriott Hotel Kuala Lumpur,...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/acounting-supervisor-mariot-international-2032735/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Assistant Accounts Manager",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Assistant Accounts Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Finance and Accounting Location Miri Marriott Resort &amp;...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/asistant-acounts-manager-mariot-international-1985798/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Assistant Manager, Concierge / Service Express",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Assistant Manager, Concierge / Service Express position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Rooms and Guest Services Operations...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/asistant-manager-concierge-service-expres-mariot-international-198579/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies B&F Sales Manager 饮食销售",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for B&amp;F Sales Manager 饮食销售 position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Sales and Marketing Location JW Marriott Hotel...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/b-f-sales-manager-mariot-international-1960832/",
+        "teaser": null
+      },{
+        "title": "Hyatt Vacancies Bartender",
+        "excerpt":"Hyatt is looking for new potential candidates to fill in for Bartender position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Summary : At Hyatt, we believe our guests select Hyatt because of our caring and attentive...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/bartender-hyat-190501/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Chef de Partie",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Chef de Partie position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location The Westin...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/chef-de-partie-mariot-international-2031214/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Chef de Partie",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Chef de Partie position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location Courtyard Penang,...","categories": ["Jobs"],
+        "tags": ["Penang","Malaysia"],
+        "url": "http://localhost:4000/jobs/chef-de-partie-mariot-international-2032736/",
+        "teaser": null
+      },{
+        "title": "Inter Island Manpower Pte Ltd Vacancies Chef Management Trainee",
+        "excerpt":"Inter Island Manpower Pte Ltd is looking for new potential candidates to fill in for Chef Management Trainee position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Requirements:-Prepare food items for customers as requested,...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/chef-management-traine-inter-island-manpower-pte-ltd-agement/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Commis",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Commis position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location The St. Regis Kuala...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/comis-mariot-international-2018136/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Duty Manager",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Duty Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Rooms and Guest Services Operations Location Courtyard Penang, 218D...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/duty-manager-mariot-international-1968631/",
+        "teaser": null
+      },{
+        "title": "Hyatt Vacancies Event Service - Technician",
+        "excerpt":"Hyatt is looking for new potential candidates to fill in for Event Service - Technician position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Summary : At Hyatt, we believe our guests select Hyatt because of our...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/event-service-technician-hyat-1591701/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Executive Chef",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Executive Chef position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location Courtyard Penang, 218D...","categories": ["Jobs"],
+        "tags": ["Penang","Malaysia"],
+        "url": "http://localhost:4000/jobs/executive-chef-mariot-international-2018137/",
+        "teaser": null
+      },{
+        "title": "Inter Island Manpower Pte Ltd Vacancies F&B Attendant - 5Stars Casino Hotel",
+        "excerpt":"Inter Island Manpower Pte Ltd is looking for new potential candidates to fill in for F&amp;B Attendant - 5Stars Casino Hotel position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Descriptions:-Assist fellow Team Members...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/f-b-atendant-5stars-casino-hotel-inter-island-manpower-pte-ltd-ndant-5/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies F&B Attendant",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for F&amp;B Attendant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location Renaissance Johor Bahru...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/f-b-atendant-mariot-international-1960835/",
+        "teaser": null
+      },{
+        "title": "Inter Island Manpower Pte Ltd Vacancies Facility Service Specialist - Houskeeping Department",
+        "excerpt":"Inter Island Manpower Pte Ltd is looking for new potential candidates to fill in for Facility Service Specialist - Houskeeping Department position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Resonsibilites:-You will be responsible...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/facility-service-specialist-houskeping-department-inter-island-manpower-pte-ltd-servic/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Front Office Agent",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Front Office Agent position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Rooms and Guest Services Operations Location Courtyard Penang,...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/front-ofice-agent-mariot-international-1968630/",
+        "teaser": null
+      },{
+        "title": "Hyatt Vacancies Gallery Host",
+        "excerpt":"Hyatt is looking for new potential candidates to fill in for Gallery Host position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Summary : We are looking for people who are passionate and able to deliver excellent...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/galery-host-hyat-1591676/",
+        "teaser": null
+      },{
+        "title": "Hyatt Vacancies Guest Ambassador",
+        "excerpt":"Hyatt is looking for new potential candidates to fill in for Guest Ambassador position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Summary : At Hyatt, we believe our guests select Hyatt because of our caring and...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/guest-ambasador-hyat-1591696/",
+        "teaser": null
+      },{
+        "title": "Hyatt Vacancies Host - Technician",
+        "excerpt":"Hyatt is looking for new potential candidates to fill in for Host - Technician position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Summary : We are currently looking for a qualified maintenance technician to join us...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/host-technician-hyat-19050/",
+        "teaser": null
+      },{
+        "title": "Hyatt Vacancies Hostess",
+        "excerpt":"Hyatt is looking for new potential candidates to fill in for Hostess position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Summary : At Hyatt, we believe our guests select Hyatt because of our caring and attentive...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/hostes-hyat-1591697/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Hostess",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Hostess position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location The St. Regis Kuala...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/hostes-mariot-international-201614/",
+        "teaser": null
+      },{
+        "title": "Tiara Desaru Residence Sdn Bhd Vacancies Hotel Manager",
+        "excerpt":"Tiara Desaru Residence Sdn Bhd is looking for new potential candidates to fill in for Hotel Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights We nature the best values in our team of...","categories": ["Jobs"],
+        "tags": ["Kota Tinggi"],
+        "url": "http://localhost:4000/jobs/hotel-manager-tiara-desaru-residence-sdn-bhd-428607/",
+        "teaser": null
+      },{
+        "title": "Inter Island Manpower Pte Ltd Vacancies Housekeeping Attendant - 5Stars Casino Hotel",
+        "excerpt":"Inter Island Manpower Pte Ltd is looking for new potential candidates to fill in for Housekeeping Attendant - 5Stars Casino Hotel position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description JOB SCOPEPerform thorough cleaning of...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/housekeping-atendant-5stars-casino-hotel-inter-island-manpower-pte-ltd-ping-at/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Human Resources Manager",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Human Resources Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Human Resources Location Four Points by Sheraton Kuala...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/human-resources-manager-mariot-international-183250/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Junior Sous Chef",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Junior Sous Chef position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location Renaissance Johor...","categories": ["Jobs"],
+        "tags": ["Johor","Malaysia"],
+        "url": "http://localhost:4000/jobs/junior-sous-chef-mariot-international-2024183/",
+        "teaser": null
+      },{
+        "title": "TDOX Clinic Vacancies Operation Manager",
+        "excerpt":"TDOX Clinic is looking for new potential candidates to fill in for Operation Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description To communicate management&#8217;s and medical director&#8217;s objective to the team and to...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/operation-manager-tdox-clinic-428592/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Pastry Chef",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Pastry Chef position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location The St. Regis...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/pastry-chef-mariot-international-157181/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Purchasing Executive",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Purchasing Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Procurement, Purchasing, and Quality Assurance Location The St. Regis...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Malaysia"],
+        "url": "http://localhost:4000/jobs/purchasing-executive-mariot-international-2031213/",
+        "teaser": null
       }]
