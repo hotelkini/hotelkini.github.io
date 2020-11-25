@@ -1,15 +1,15 @@
 ---
-title: "Grant Hyatt Kuala Lumpur Hotel Vacancies - Bartender and Pastry Chef" 
+title: "Grand Hyatt Kuala Lumpur Hotel Vacancies - Bartender and Pastry Chef" 
 category: Jobs 
 date: 2020-11-25
-excerpt: "Grant Hyatt Kuala Lumpur Hotel is currently looking for suitable person to fill Bartender and Pastry Chef positions." 
+excerpt: "Grand Hyatt Kuala Lumpur Hotel is currently looking for suitable person to fill Bartender and Pastry Chef positions." 
 tags: [Kuala Lumpur] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-<p>Grant Hyatt Kuala Lumpur Hotel is currently looking for suitable person to fill Bartender and Pastry Chef positions.
+<p>Grand Hyatt Kuala Lumpur Hotel is currently looking for suitable person to fill Bartender and Pastry Chef positions.
 </p>{% include link-adsense.html %} 
 
 #### Vacancies
@@ -44,7 +44,7 @@ We provide the following:
 - Complimentary Stays Worldwide
 - Career Advancement & Transfer Opportunities.
 
-![Grant Hyatt KL Jobs Ad 2020!](/assets/images/2020-11/grant-hyatt-kl-bartender-pastry-chef.jpg "Grant Hyatt KL Jobs 2020")
+![Grand Hyatt KL Jobs Ad 2020!](/assets/images/2020-11/grand-hyatt-kl-bartender-pastry-chef.jpg "Grand Hyatt KL Jobs 2020")
 
 
 Only applicable to Malaysian citizen and permanent resident of Malaysia.
