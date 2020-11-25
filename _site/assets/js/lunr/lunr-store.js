@@ -893,12 +893,6 @@ var store = [{
         "url": "http://localhost:4000/jobs/junior-sous-chef-mariot-international-2024183/",
         "teaser": null
       },{
-        "title": "TDOX Clinic Vacancies Operation Manager",
-        "excerpt":"TDOX Clinic is looking for new potential candidates to fill in for Operation Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description To communicate management&#8217;s and medical director&#8217;s objective to the team and to...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/operation-manager-tdox-clinic-428592/",
-        "teaser": null
-      },{
         "title": "Marriott International Vacancies Pastry Chef",
         "excerpt":"Marriott International is looking for new potential candidates to fill in for Pastry Chef position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location The St. Regis...","categories": ["Jobs"],
         "tags": ["Malaysia"],
@@ -909,5 +903,95 @@ var store = [{
         "excerpt":"Marriott International is looking for new potential candidates to fill in for Purchasing Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Procurement, Purchasing, and Quality Assurance Location The St. Regis...","categories": ["Jobs"],
         "tags": ["Kuala Lumpur","Malaysia"],
         "url": "http://localhost:4000/jobs/purchasing-executive-mariot-international-2031213/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Housekeeping Personnel",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Personnel position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Jen HomestayPerforms cleaning duties in all guest areas and back of houseConsistently...","categories": ["Jobs"],
+        "tags": ["Terengganu"],
+        "url": "http://localhost:4000/jobs/housekeping-personel-jora-jobs-415134/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Assistant Human Resources Manager",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Assistant Human Resources Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Human Resources Location The Ritz-Carlton, Langkawi, PO...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/asistant-human-resources-manager-mariot-international-205198/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Demi Chef de Partie",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Demi Chef de Partie position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Food and Beverage &amp; Culinary Location Courtyard...","categories": ["Jobs"],
+        "tags": ["Penang","Malaysia"],
+        "url": "http://localhost:4000/jobs/demi-chef-de-partie-mariot-international-205196/",
+        "teaser": null
+      },{
+        "title": "Hotel S Vacancies General Manager;Assistant General Manager",
+        "excerpt":"Hotel S is looking for new potential candidates to fill in for General Manager;Assistant General Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Responsibilities: Managing daily company operations to ensure positive, safe and...","categories": ["Jobs"],
+        "tags": ["Macau"],
+        "url": "http://localhost:4000/jobs/general-manager-asistant-general-manager-hotel-s-429548/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Multi Property IT Manager",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Multi Property IT Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Information Technology Location Miri Marriott Resort &amp;...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/multi-property-it-manager-mariot-international-20519/",
+        "teaser": null
+      },{
+        "title": "Marriott International Vacancies Paymaster (Contract)",
+        "excerpt":"Marriott International is looking for new potential candidates to fill in for Paymaster (Contract) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description : Job Category Finance and Accounting Location The Westin Desaru Coast Resort,...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/paymaster-contract-mariot-international-205197/",
+        "teaser": null
+      },{
+        "title": "Koperasi Kakitangan Bank Rakyat Berhad Vacancies PENGURUSAN CLUBHOUSE SEKATA APARTMENT",
+        "excerpt":"Koperasi Kakitangan Bank Rakyat Berhad is looking for new potential candidates to fill in for PENGURUSAN CLUBHOUSE SEKATA APARTMENT position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least Bachelor's Degree/Post...","categories": ["Jobs"],
+        "tags": ["Cameron Highlands"],
+        "url": "http://localhost:4000/jobs/pengurusan-clubhouse-sekata-apartment-koperasi-kakitangan-bank-rakyat-berhad-4251/",
+        "teaser": null
+      },{
+        "title": "Koperasi Kakitangan Bank Rakyat Berhad Vacancies PENYAMBUT TETAMU CLUBHOUSE SEKATA APARTMENT",
+        "excerpt":"Koperasi Kakitangan Bank Rakyat Berhad is looking for new potential candidates to fill in for PENYAMBUT TETAMU CLUBHOUSE SEKATA APARTMENT position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least Primary/Secondary...","categories": ["Jobs"],
+        "tags": ["Cameron Highlands"],
+        "url": "http://localhost:4000/jobs/penyambut-tetamu-clubhouse-sekata-apartment-koperasi-kakitangan-bank-rakyat-berhad-42598/",
+        "teaser": null
+      },{
+        "title": "Koperasi Kakitangan Bank Rakyat Berhad Vacancies PENYELIA CLUBHOUSE SEKATA APARTMENT",
+        "excerpt":"Koperasi Kakitangan Bank Rakyat Berhad is looking for new potential candidates to fill in for PENYELIA CLUBHOUSE SEKATA APARTMENT position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least Bachelor's Degree/Post...","categories": ["Jobs"],
+        "tags": ["Cameron Highlands"],
+        "url": "http://localhost:4000/jobs/penyelia-clubhouse-sekata-apartment-koperasi-kakitangan-bank-rakyat-berhad-4257/",
+        "teaser": null
+      },{
+        "title": "Company Confidential Vacancies Re-Opening Hotel Vacancies",
+        "excerpt":"Company Confidential is looking for new potential candidates to fill in for Re-Opening Hotel Vacancies position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description We're searching for higly motivated talents for a Re-opening hotel in...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/re-opening-hotel-vacancies-company-confidential-429536/",
+        "teaser": null
+      },{
+        "title": "One & Only Desaru Coast Vacancies Assistant Manager, Guest Service",
+        "excerpt":"One &amp; Only Desaru Coast is looking for new potential candidates to fill in for Assistant Manager, Guest Service position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description JOB SUMMARYA guest services manager at a...","categories": ["Jobs"],
+        "tags": ["Johor - Others"],
+        "url": "http://localhost:4000/jobs/asistant-manager-guest-service-one-only-desaru-coast-43086/",
+        "teaser": null
+      },{
+        "title": "Best View Hotel Subang Jaya Jobs Vacancies",
+        "excerpt":"Best View Hotel Subang Jaya is currently looking for few persons for these positions. About Best View Hotel Subang Jaya is located at SS15/5A road, Subang Jaya and near to popular shopping and leisure malls like Subang Parade, Summit Usj, Aeon Big, Empire Shopping Gallery, Mydin Subang Jaya, The 19...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/best-view-hotel-subang-jaya-jobs/",
+        "teaser": null
+      },{
+        "title": "JSK Group Of Companies Vacancies Capsule Hotel Operations Manager",
+        "excerpt":"JSK Group Of Companies is looking for new potential candidates to fill in for Capsule Hotel Operations Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights International Group of CompaniesCross Industry Career OpportunitiesWide Exposure...","categories": ["Jobs"],
+        "tags": ["Kota Kinabalu"],
+        "url": "http://localhost:4000/jobs/capsule-hotel-operations-manager-jsk-group-of-companies-430831/",
+        "teaser": null
+      },{
+        "title": "Grant Hyatt Kuala Lumpur Hotel Vacancies - Bartender and Pastry Chef",
+        "excerpt":"Grant Hyatt Kuala Lumpur Hotel is currently looking for suitable person to fill Bartender and Pastry Chef positions. Vacancies Bartender Responsible for providing libations and offering customized recommendations. The right person should be familiar with the latest in mixology. bar equipment and sanitation standards. with a focus on maintaining an...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/grant-hyatt-kl-bartender-pastry-chef/",
+        "teaser": null
+      },{
+        "title": "Only World Group Vacancies Indoor Themepark Crew - 1 year contract",
+        "excerpt":"Only World Group is looking for new potential candidates to fill in for Indoor Themepark Crew - 1 year contract position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Please note that due to CMCO...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/indor-themepark-crew-1-year-contract-only-world-group-429790/",
         "teaser": null
       }]

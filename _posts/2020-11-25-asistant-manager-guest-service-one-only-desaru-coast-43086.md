@@ -1,0 +1,22 @@
+---
+title: "One & Only Desaru Coast Vacancies Assistant Manager, Guest Service" 
+category: Jobs 
+date: 2020-11-25 
+excerpt: "One & Only Desaru Coast is currently looking for suitable person to fill in the Assistant Manager, Guest Service which positioned at Johor - Others" 
+tags: [Johor - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>One & Only Desaru Coast is looking for new potential candidates to fill in for <b>Assistant Manager, Guest Service</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><div><div><strong>JOB SUMMARY</strong></div><div>A guest services manager at a hotel is responsible for ensuring that all aspects of a customer's stay at their hotel is not only satisfactory but exceeds their expectations. The guest services manager oversees booking processes and handles the reservation and scheduling of offered amenities (like spa treatments) and is also responsible for ensuring efficient handling of room service orders. They generally work with other managers in departments such as housekeeping to ensure that all hotel guests have enjoyable and memorable experiences.</div><div><strong>JOB DESCRIPTION</strong></div><ul><li>Ensure and provide flawless, upscale, professional, and high-class guest service experiences.</li><li>Analyze customer feedback and provide strategic direction to continuously improve overall rating.</li><li>Respond to guests needs and anticipate their unstated ones.</li><li>Coordinate and manage communication between guests and staff and follow up to ensure complete service recovery.</li><li>Oversee and managing butler services as and when required.</li><li>Oversee and coordinate all arrivals and departures of special guests.</li><li>Coordinate with Valet complete all room moves, ensuring all moves are done on time with less disruption and guests are comfortably accommodated.</li></ul><div><strong>JOB REQUIREMENT</strong></div><ul><li>Candidate must possess at least Diploma/Advanced/Higher/Graduate Diploma in Hospitality/Tourism/Hotel Management or equivalent.</li><li>Able to communicate and written fluently in English and Bahasa Malaysia.</li><li>Pleasant personality and self-grooming are essentials.</li><li>At least 3&#160;Years of working experience in a similar role with a luxury resort/hotel.</li><li>Night Audit working experience would be carry added advantages</li><li>Able to work in a fast-paced environment.</li><li>Applicable for Citizen of Malaysia and/or valid Permanent Residents of Malaysia only.</li></ul></div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>"Kerzner International Holdings Limited (&#8220;Kerzner&#8221;), the owner of the ultra-luxury One&amp;Only Resorts and iconic Atlantis Resort &amp; Residences brands worldwide is pleased to announce the introduction of One&amp;Only Desaru Coast in Malaysia.&#160;&#160;</div>
+<div>A 128-acre beachfront development, this ultimate bespoke lifestyle experience will include 42 suites, 2 luxury suites and an exclusive 4-bedroom villa, as well as approximately 50 One&amp;Only Private Homes available for purchase. This will be the first One&amp;Only in Malaysia as part of the expanding One&amp;Only collection, as the brand continues to grow and develop internationally. Kerzner manages a portfolio of globally renowned, landmark destination resorts, luxury hotels and residences and innovative entertainment experiences."</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Johor - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/assistant-manager-guest-service-4430086?jobId=jobstreet-my-job-4430086&sectionRank=4&token=0~bb56468e-9348-436c-851c-de61076b662b&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
