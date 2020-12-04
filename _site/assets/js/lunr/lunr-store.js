@@ -983,15 +983,159 @@ var store = [{
         "url": "http://localhost:4000/jobs/capsule-hotel-operations-manager-jsk-group-of-companies-430831/",
         "teaser": null
       },{
-        "title": "Grant Hyatt Kuala Lumpur Hotel Vacancies - Bartender and Pastry Chef",
-        "excerpt":"Grant Hyatt Kuala Lumpur Hotel is currently looking for suitable person to fill Bartender and Pastry Chef positions. Vacancies Bartender Responsible for providing libations and offering customized recommendations. The right person should be familiar with the latest in mixology. bar equipment and sanitation standards. with a focus on maintaining an...","categories": ["Jobs"],
+        "title": "Grand Hyatt Kuala Lumpur Hotel Vacancies - Bartender and Pastry Chef",
+        "excerpt":"Grand Hyatt Kuala Lumpur Hotel is currently looking for suitable person to fill Bartender and Pastry Chef positions. Vacancies Bartender Responsible for providing libations and offering customized recommendations. The right person should be familiar with the latest in mixology. bar equipment and sanitation standards. with a focus on maintaining an...","categories": ["Jobs"],
         "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/grant-hyatt-kl-bartender-pastry-chef/",
+        "url": "http://localhost:4000/jobs/grand-hyatt-kl-bartender-pastry-chef/",
         "teaser": null
       },{
         "title": "Only World Group Vacancies Indoor Themepark Crew - 1 year contract",
         "excerpt":"Only World Group is looking for new potential candidates to fill in for Indoor Themepark Crew - 1 year contract position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Please note that due to CMCO...","categories": ["Jobs"],
         "tags": ["Selangor"],
         "url": "http://localhost:4000/jobs/indor-themepark-crew-1-year-contract-only-world-group-429790/",
+        "teaser": null
+      },{
+        "title": "Chatrium Hotel Riverside Bangkok for Engineering and Technican",
+        "excerpt":"Chatrium Hotel Riverside Bangkok is currently looking for suitable person to fill Engineer and Technician position. About Chatrium Hotel Riverside Bangkok is our multiple award-winning 5-star hotel situated by the legendary Chao Phraya River. Vacancies Engienering Technician How To Apply If you confident and feel that this job is suitable...","categories": ["Jobs"],
+        "tags": ["Bangkok"],
+        "url": "http://localhost:4000/jobs/chatrium-hotel-bangkok-riverside-engineer-technician/",
+        "teaser": null
+      },{
+        "title": "Holiday Inn Johor Bahru Hotel Sales Manager Vacancy",
+        "excerpt":"Holiday Inn Johor Bahru Hotel is currently looking for suitable person to fill Sales Manager position. At Holiday Inn Johor Bahru City Centre, We're looking for a passionate Sales Manager that notices the little things that make a difference. About The Holiday Inn Johor Bahru City Centre hotel is located...","categories": ["Jobs"],
+        "tags": ["Johor Bahru"],
+        "url": "http://localhost:4000/jobs/holiday-inn-johor-bahru-sales-manager-vacancy/",
+        "teaser": null
+      },{
+        "title": "Hotel Indigo Bangkok Wireless Road Vacancies for Waiter and Chef",
+        "excerpt":"Hotel Indigo Bangkok Wireless Road is currently looking for suitable person to fill Waiter and Chef position. Discover a new career path. Are you vibrant, energetic with your own style? Excited for a new opportunity? About Hotel Indigo Bangkok Wireless Road is a 5-star boutique hotel intersecting herigate and modernity....","categories": ["Jobs"],
+        "tags": ["Bangkok"],
+        "url": "http://localhost:4000/jobs/indigo-hotel-bangkok-vacancies-restaurant-kitchen/",
+        "teaser": null
+      },{
+        "title": "The Ruma Hotel and Residences Kuala Lumpur Financial Controller Vacancy",
+        "excerpt":"The Ruma Hotel and Residences Kuala Lumpur is currently looking for suitable person to fill Financial Controller position. About Located in one of the last few pockets of serenity in Kuala Lumpur, The RuMa Hotel &amp; Residences sits on Jalan Kia Peng, which is populated by stately houses and tree-lined...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/the-ruma-hotel-kuala-lumpur-financial-controller/",
+        "teaser": null
+      },{
+        "title": "Borneo Convention Centre Kuching Vacancies DIRECTOR OF OPERATIONS",
+        "excerpt":"Borneo Convention Centre Kuching is looking for new potential candidates to fill in for DIRECTOR OF OPERATIONS position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Requirements:-Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional...","categories": ["Jobs"],
+        "tags": ["Kuching"],
+        "url": "http://localhost:4000/jobs/director-of-operations-borneo-convention-centre-kuching-430636/",
+        "teaser": null
+      },{
+        "title": "Company Confidential Vacancies Serviced Residence Pre-Opening Team in Kuala Lumpur",
+        "excerpt":"Company Confidential is looking for new potential candidates to fill in for Serviced Residence Pre-Opening Team in Kuala Lumpur position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights REPUTABLE COMPANYATTRACTIVE REMUNERATION PACKAGE WITH BENEFITSCAREER ADVANCEMENT...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/serviced-residence-pre-opening-team-in-kuala-lumpur-company-confidential-431080/",
+        "teaser": null
+      },{
+        "title": "Desaru Coast Johor Jobs Vacancies 2021",
+        "excerpt":"Desaru Coast Johor is currently looking for suitable person to fill in many positions for year 2021. We're consolidating the team and looking to fill a number of vacancies for 2021 - yes, we're being optimistic! About Vacancies Vacancies at Desaru Development Holdings One Sdn Bhd (Desaru Coast) If you...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/desaru-coast-jobs-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "Grand BlueWave Hotel Shah Alam Vacancy for Halal Executive",
+        "excerpt":"Grand BlueWave Hotel Shah Alam is currently looking for suitable person to fill Halal Executive position. Vacancy Halal Executive The requirements are: Muslim Malaysia Citizen Halal Executive Training under Halal Professional Board (HPB) Registered Halal Trainer for the Halal Professional Board Courses (JAKIM) Familiar with HACCP &amp; HALAL Familiar with...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/grand-bluewave-hotel-shah-alam-halal-executive/",
+        "teaser": null
+      },{
+        "title": "Holiday Inn Express & Suites Johor Bahru Hotel Vacancies",
+        "excerpt":"Holiday Inn Express &amp; Suites Johor Bahru is currently looking for suitable person to fill in management positions below. Vacancies Are you the right fit for Holiday Inn Express &amp; Suites Johor Bahru? Look what opportunity we have for you! Assistant Director of Sales Finance &amp; Business Support Manager Housekeeping...","categories": ["Jobs"],
+        "tags": ["Johor Bahru"],
+        "url": "http://localhost:4000/jobs/holiday-inn-express-suites-johor-jobs/",
+        "teaser": null
+      },{
+        "title": "Company Confidential Vacancies HOTEL - DIRECTOR OF SALES & MARKETING",
+        "excerpt":"Company Confidential is looking for new potential candidates to fill in for HOTEL - DIRECTOR OF SALES &amp; MARKETING position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Candidate MUST possess INTERNATIONAL HOTEL HANDS...","categories": ["Jobs"],
+        "tags": ["Johor Bahru"],
+        "url": "http://localhost:4000/jobs/hotel-director-of-sales-marketing-company-confidential-43754/",
+        "teaser": null
+      },{
+        "title": "Company Confidential Vacancies Hotel Manager",
+        "excerpt":"Company Confidential is looking for new potential candidates to fill in for Hotel Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Summary:- We are seeking a professional and customer-focused Hotel Manager to...","categories": ["Jobs"],
+        "tags": ["Segamat"],
+        "url": "http://localhost:4000/jobs/hotel-manager-company-confidential-4310/",
+        "teaser": null
+      },{
+        "title": "PARKROYAL on Beach Road Vacancies Housekeeping Supervisor",
+        "excerpt":"PARKROYAL on Beach Road is looking for new potential candidates to fill in for Housekeeping Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Position SummaryThe incumbent is responsible for meeting guest satisfaction by...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/housekeping-supervisor-parkroyal-on-beach-road-ping-su/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Duty Manager cum Operation Executive",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Duty Manager cum Operation Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Areca Hotel PenangManages, supervises and coordinates the daily operation...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/duty-manager-cum-operation-executive-jora-jobs-435697/",
+        "teaser": null
+      },{
+        "title": "Suasana Suites Bukit Ceylon Vacancies GUEST SERVICE OFFICER",
+        "excerpt":"Suasana Suites Bukit Ceylon is looking for new potential candidates to fill in for GUEST SERVICE OFFICER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description JOB DESCRIPTION&#8226; Greet and escort customers to their tables...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/guest-service-oficer-suasana-suites-bukit-ceylon-434503/",
+        "teaser": null
+      },{
+        "title": "Empire Hotel Subang Vacancies Housekeeping Supervisor",
+        "excerpt":"Empire Hotel Subang is looking for new potential candidates to fill in for Housekeeping Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description JOB REQUIREMENTSCandidate must possess at least a Primary/Secondary School/SPM/\"O\" Level, any...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/housekeping-supervisor-empire-hotel-subang-434289/",
+        "teaser": null
+      },{
+        "title": "KLOE Hotel Kuala Lumpur Jobs Vacancies",
+        "excerpt":"KLOE Hotel Kuala Lumpur is currently looking for suitable person to fill few positions. KLoé is a boutique hotel for creative nomads. Located in Kuala Lumpur, a 9-minute walk from Dinner In The Sky Malaysia, KLoe Hotel features a bar and views of the city. Vacancies Come and explore an...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/kloe-hotel-kuala-lumpur-jobs/",
+        "teaser": null
+      },{
+        "title": "Sodexo Malaysia Sdn Bhd Vacancies Workplace Manager",
+        "excerpt":"Sodexo Malaysia Sdn Bhd is looking for new potential candidates to fill in for Workplace Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Serves as primary interface with Business Division(s) and client disciplines...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/workplace-manager-sodexo-malaysia-sdn-bhd-435347/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Concierge cum Front Desk Executive",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Concierge cum Front Desk Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Corner Club PenangJob informationCorner Club PenangGeorge Town, Pulau PinangFull...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/concierge-cum-front-desk-executive-jora-jobs-436813/",
+        "teaser": null
+      },{
+        "title": "Grand Hyatt Kuala Lumpur Waiter / Waitress Part Time",
+        "excerpt":"Are you looking for part-time jobs to fill in your time? Or are you a student wanting to gain real experience whilst studying and earn some side income? Then, look no further. Grand Hyatt Kuala Lumpur is currently offering part-time as a Waiter / Waitress as well as being in...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/grand-hyatt-kuala-lumpur-waiter-waitress-parttime/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Guest Services Assistant",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Guest Services Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Cormar Suites Job DescriptionDelivering mail and messages.Processing guest payments.Coordinating with bell...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/guest-services-asistant-jora-jobs-436808/",
+        "teaser": null
+      },{
+        "title": "Jora Jobs Vacancies Housekeeping Assistant",
+        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Asystech Sdn BhdJob DescriptionExperience in Hotel Housekeeping is compulsary.Willing to work on...","categories": ["Jobs"],
+        "tags": ["Terengganu"],
+        "url": "http://localhost:4000/jobs/housekeping-asistant-jora-jobs-436271/",
+        "teaser": null
+      },{
+        "title": "Level Up Fitness Sdn Bhd Vacancies Housekeeping Attendant",
+        "excerpt":"Level Up Fitness Sdn Bhd is looking for new potential candidates to fill in for Housekeeping Attendant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description TANGGUNGJAWAB: &#8226; Menjaga kebersihan gimnasium &#8226; Melaksanakan semua tugas...","categories": ["Jobs"],
+        "tags": ["Kuching","Kota Kinabalu"],
+        "url": "http://localhost:4000/jobs/housekeping-atendant-level-up-fitnes-sdn-bhd-43635/",
+        "teaser": null
+      },{
+        "title": "Boustead Weld Quay Sdn Bhd (Royale Chulan Penang Hotel) Vacancies Housekeeping Supervisor",
+        "excerpt":"Boustead Weld Quay Sdn Bhd (Royale Chulan Penang Hotel) is looking for new potential candidates to fill in for Housekeeping Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description JOB REQUIREMENTS Candidate must possess...","categories": ["Jobs"],
+        "tags": ["George Town"],
+        "url": "http://localhost:4000/jobs/housekeping-supervisor-boustead-weld-quay-sdn-bhd-royale-chulan-penang-hotel-43616/",
+        "teaser": null
+      },{
+        "title": "Kapas Living Vacancies Reservations Executive",
+        "excerpt":"Kapas Living is looking for new potential candidates to fill in for Reservations Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Reservations ExecutiveJoin a fast growing startup!Young and vibrant team Additional Information Career...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/reservations-executive-kapas-living-436294/",
         "teaser": null
       }]
