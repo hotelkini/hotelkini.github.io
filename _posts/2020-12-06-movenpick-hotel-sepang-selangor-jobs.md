@@ -2,7 +2,7 @@
 title: "Mövenpick Hotel & Convention Centre KLIA Jobs Vacancies" 
 category: Jobs 
 date: 2020-12-06
-excerpt: "Grand Hyatt Kuala Lumpur is currently offering Bartender position" 
+excerpt: "Mövenpick Hotel & Convention Centre KLIA Jobs is currently offering Kitchen positions" 
 tags: [Kuala Lumpur] 
 toc: true 
 toc_label: TOC 
