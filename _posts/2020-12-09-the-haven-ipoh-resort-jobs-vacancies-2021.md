@@ -9,9 +9,6 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-**GRAND HYATT KUALA LUMPUR INVITING talents**.
-This is an invitation to candidates who have never had the chance of doing something really challenging.
-
 The Haven Resort Ipoh have various positions for suitable candidates of various seniorities. Great prospects and incentives accompany these positions.
 
 {% include link-adsense.html %} 
