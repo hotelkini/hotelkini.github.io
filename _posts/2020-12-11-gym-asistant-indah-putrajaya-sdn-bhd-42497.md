@@ -1,0 +1,23 @@
+---
+title: "Indah Putrajaya Sdn Bhd Vacancies Gym Assistant" 
+category: Jobs 
+date: 2020-12-11 
+excerpt: "Indah Putrajaya Sdn Bhd is currently looking for suitable person to fill in the Gym Assistant which positioned at Putrajaya" 
+tags: [Putrajaya] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Indah Putrajaya Sdn Bhd is looking for new potential candidates to fill in for <b>Gym Assistant</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>{% include 300-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><p><strong>Responsibilities</strong></p><ul><li>Performs and supports all tasks and duties for the proper management and cleanliness of the gym, swimming pool and related facilities and general maintenance of equipment in the gym to ensure a clean and safe environment in accordance with the standard operating procedure;</li><li>Handle gymnasium reception duties including answering telephone calls and enquiries about operating hours, facilities, classes, activities etc;</li><li>Attend to guest/member requests;</li><li>Guide and assist guests/members on usage of equipment and facilities and explain/enforce the policies and rules for the proper care and use of the facilities;</li><li>Promote and sell memberships, classes and activities as well as plan and execute other marketing tasks;</li><li>Plan, schedule and organise classes, events and activities accordingly;</li><li>Liaising, coordinating and assisting trainers and facilitators for events, activities and classes etc;</li><li>Handling registration of guests/members and maintenance of database/data;</li><li>Cashiering for guests or members, ensure all billings and cash float are accurate;</li><li>Attend and respond to guests&#8217; or members&#8217; comments or complaints tactfully and restore guest satisfaction; and</li><li>Performs checks for stand-by readiness of all equipment, facilities and safety of the gymnasium, swimming pool and assigned areas.</li><li>To complete other assignments given from time to time.&#160;</li></ul><p><strong>Requirements</strong></p><ul><li>Candidate must possess at least SPM/"O" Level, Higher Secondary/STPM/"A" Level/Pre-U or Diploma/Bachelor's Degree holder in Sports Science &amp; Management or equivalent.</li><li>Credits in English &amp; Mathematics for SPM (compulsory)</li><li>Required language(s):&#160;English, Bahasa Malaysia</li><li>At least 1&#160;Year(s) of working experience in the related field is required for this position.</li><li>Fresh diploma graduates and STPM/SPM school leavers&#160;are encouraged to apply. are encouraged to apply</li><li>Required Skill(s): Resourceful, professional, possess good communication skills, &amp; preferably certified in basic first-aid and swimming</li><li>Willing to work in shifts</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div><strong>Located in the heart of Putrajaya, The Everly Putrajaya is a 4 star-hotel with 380 guests rooms, a ballroom, eight meeting rooms, a restaurant, a cafe lounge, a swimming pool, an executive lounge and an air crew lounge. The hotel is managed by the EVERLY GROUP.</strong></div>
+<div>The hotel was officially opened in April 2013 and attracts steady enquiries for business from both the government and private sectors. With Putrajaya being the hub/host for certain large scale events in Malaysia, there has been constant flux of visitors all year long.</div>
+<div>In terms of recruitment, the Company seeks to develop people at all levels, both professionally and personally. In a world that is constantly changing, we are implementing best practices to find better ways of doing our jobs and carrying out our responsibilities in order to deliver better value for our stakeholders.&#160;</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Putrajaya. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/gym-assistant-4442497?jobId=jobstreet-my-job-4442497&sectionRank=5&token=0~bb2f6166-b477-4710-ac7a-8ede44cf4c6f&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
