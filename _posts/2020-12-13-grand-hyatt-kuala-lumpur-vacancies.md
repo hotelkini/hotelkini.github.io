@@ -1,7 +1,7 @@
 ---
 title: "Grand Hyatt Kuala Lumpur Jobs Vacancies" 
 category: Jobs 
-date: 2020-12-08
+date: 2020-12-13
 excerpt: "Grand Hyatt Kuala Lumpur is currently offering Guest Service Officer, Housekeeping, Security Officer, Bartender and Graphic Artist" 
 tags: [Kuala Lumpur] 
 toc: true 
