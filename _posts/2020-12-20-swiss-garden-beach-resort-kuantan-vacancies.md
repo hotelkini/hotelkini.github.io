@@ -1,8 +1,8 @@
 ---
-title: "Swiss Garden Beach Resort Kuantan is hiring for Front Office, Housekeeping and F&B Associates." 
+title: "Swiss Garden Beach Resort Kuantan is hiring for Front Office, Housekeeping and FnB Associates." 
 category: Jobs 
 date: 2020-12-20
-excerpt: "Swiss Garden Beach Resort Kuantan is currently offering position for Front Office, Housekeeping and F&B Associates." 
+excerpt: "Swiss Garden Beach Resort Kuantan is currently offering position for Front Office, Housekeeping and FnB Associates." 
 tags: [Kuantan] 
 toc: true 
 toc_label: TOC 
