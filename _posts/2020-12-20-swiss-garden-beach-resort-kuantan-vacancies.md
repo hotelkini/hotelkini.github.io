@@ -16,7 +16,7 @@ Swiss Garden Beach Resort Kuantan is hiring ! There are few positins available r
 ### About
 Swiss-Garden Beach Resort Kuantan is a first class resort hotel in Kuantan with direct access to the beach, providing an idyllic holiday destination.
 
-### Vacancy
+### Vacancies
 - Front Office Manager
 - Guest Service Coordinator - Front Office (3)
 - Housekeeping Associate (4)

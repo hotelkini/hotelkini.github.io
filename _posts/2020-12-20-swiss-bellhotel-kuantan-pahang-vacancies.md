@@ -1,5 +1,5 @@
 ---
-title: "Swiss-Bellhotel Kuantan Pahang Jobs Vacancies for Front Office, Housekeeping, F&B, Kitchen, Stewarding, Recreation, Security." 
+title: "Swiss-Bellhotel Kuantan Pahang Jobs Vacancies for Front Office, Housekeeping, F&B, Kitchen, Stewarding,etc." 
 category: Jobs 
 date: 2020-12-20
 excerpt: "Swiss-Bellhotel Kuantan Pahang is currently offering position for Front Office, Housekeeping, F&B, Kitchen, Stewarding, Recreation, Security"] 
@@ -15,7 +15,7 @@ Swiss-Bellhotel Kuantan Pahang is hiring ! There are few positins available righ
 ### About
 Swiss-Belhotel Kuantan is a four-star property directly on the seafront at Tanjung Lumpur in Malaysia's Pahang State.
 
-### Vacancy
+### Vacancies
 Swiss-Belhotel International, a rapidly expanding Global Hotel chain is currently searching for enthusiastic, energetic and highly motivated candidates to join our team in Pahang, Malaysia - Swiss-Belhotel Kuantan.
 
 GET IN TOUCH WITH US IF YOU ARE KEEN IN ANY OF THE ROLES BELOW:
@@ -49,8 +49,7 @@ GET IN TOUCH WITH US IF YOU ARE KEEN IN ANY OF THE ROLES BELOW:
 **SAFETY & SECURITY**
 - Security Assistant
 
-![Swiss Belhotel Kuantan Pahang Jobs!](/assets/images/2020-12/swiss-belhotel-kuantan-pahang-vacancies.jpg "KSwiss Belhotel Kuantan Pahang Jobs")
-
+![Swiss Belhotel Kuantan Pahang Jobs!](/assets/images/2020-12/swiss-belhotel-kuantan-pahang-vacancies.jpg "Swiss Belhotel Kuantan Pahang Jobs")
 
 ### How To Apply
 Send your resume with a recent photograph of yourself to recruitmentsbkt@swiss-belhotel.com
