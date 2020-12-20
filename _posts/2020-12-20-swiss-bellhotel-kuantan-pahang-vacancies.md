@@ -30,7 +30,7 @@ GET IN TOUCH WITH US IF YOU ARE KEEN IN ANY OF THE ROLES BELOW:
 - Housekeeping Supervisor (PA)
 - Housekeeping Attendant (Room)
 - Housekeeping Attendant (Public Area)
-
+{% include 300-adsense.html %} 
 **FOOD & BEVERAGE**
 - F&B Supervisor
 - F&B Captain
