@@ -1,5 +1,5 @@
 ---
-title: "Swiss-Bellhotel Kuantan Pahang Jobs Vacancies for Front Office, Housekeeping, F&B, Kitchen, Stewarding,etc." 
+title: "Swiss-Bellhotel Kuantan Pahang Jobs Vacancies - Front Office, Housekeeping, F&B" 
 category: Jobs 
 date: 2020-12-20
 excerpt: "Swiss-Bellhotel Kuantan Pahang is currently offering position for Front Office, Housekeeping, F&B, Kitchen, Stewarding, Recreation, Security"] 
