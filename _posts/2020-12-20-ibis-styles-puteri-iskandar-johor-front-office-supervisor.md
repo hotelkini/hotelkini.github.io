@@ -1,15 +1,15 @@
 ---
-title: "ibis Styles Johor Iskandar Puteri (Pre-opening Hotel) Vacancy - Frront Office Supervisor." 
+title: "ibis Styles Johor Iskandar Puteri (Pre-opening Hotel) Vacancy - Front Office Supervisor." 
 category: Jobs 
 date: 2020-12-20
-excerpt: "ibis Styles Johor Iskandar Puteri (Pre-opening Hotel) is currently offering position for Frront Office Supervisor." 
+excerpt: "ibis Styles Johor Iskandar Puteri (Pre-opening Hotel) is currently offering position for Front Office Supervisor." 
 tags: [Johor] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-ibis Styles Johor Iskandar Puteri (Pre-opening Hotel) is currently offering position for Frront Office Supervisor.
+ibis Styles Johor Iskandar Puteri (Pre-opening Hotel) is currently offering position for Front Office Supervisor.
 
 {% include link-adsense.html %} 
 
