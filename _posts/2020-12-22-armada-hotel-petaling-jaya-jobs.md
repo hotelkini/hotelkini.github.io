@@ -1,7 +1,7 @@
 ---
 title: "Armada Hotel Petaling Jaya Vacancies Sous Chef and Pastry, Demi Chef, Commis" 
 category: Jobs 
-date: 2020-12-21
+date: 2020-12-22
 excerpt: "Armada Hotel Petaling Jaya is currently offering few positions for Coffee House Sous Chef and Pastry - Demi Chef, Commis." 
 tags: [Selangor] 
 toc: true 
