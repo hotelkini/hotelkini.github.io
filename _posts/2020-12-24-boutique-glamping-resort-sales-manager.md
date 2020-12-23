@@ -1,7 +1,7 @@
 ---
 title: "Boutique Glamping Resort Vacancy as Sales Manager" 
 category: Jobs 
-date: 2020-12-23
+date: 2020-12-24
 excerpt: "Boutique Glamping Resort Vacancy as Sales Manager" 
 tags: [Selangor] 
 toc: true 
