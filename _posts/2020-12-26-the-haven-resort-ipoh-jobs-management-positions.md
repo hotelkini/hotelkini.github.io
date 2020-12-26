@@ -1,7 +1,7 @@
 ---
 title: "The Haven Resorts Ipoh Jobs for Managements Team" 
 category: Jobs 
-date: 2020-12-24
+date: 2020-12-26
 excerpt: "The Haven Resorts Ipoh Jobs is looking for potential candidates for Management teams" 
 tags: [Ipoh] 
 toc: true 
