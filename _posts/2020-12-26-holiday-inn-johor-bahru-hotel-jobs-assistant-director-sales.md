@@ -1,8 +1,8 @@
 ---
-title: "Holiday Inn Johor Bahru Hotel Sales Manager Vacancy" 
+title: "Holiday Inn Johor Bahru Hotel Jobs Assistant Director of Sales" 
 category: Jobs 
-date: 2020-11-27
-excerpt: "Holiday Inn Johor Bahru Hotel is currently looking for suitable person to fill Sales Manager position." 
+date: 2020-12-26
+excerpt: "Holiday Inn Johor Bahru Hotel is currently looking for suitable person to fill Assistant Director of Sales position." 
 tags: [Johor Bahru] 
 toc: true 
 toc_label: TOC 
