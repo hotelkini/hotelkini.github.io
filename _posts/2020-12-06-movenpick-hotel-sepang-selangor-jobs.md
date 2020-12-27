@@ -1,8 +1,8 @@
 ---
-title: "Mövenpick Hotel & Convention Centre KLIA Jobs Vacancies" 
+title: "Movenpick Hotel & Convention Centre KLIA Jobs Vacancies" 
 category: Jobs 
 date: 2020-12-06
-excerpt: "Mövenpick Hotel & Convention Centre KLIA Jobs is currently offering Kitchen positions" 
+excerpt: "Movenpick Hotel & Convention Centre KLIA Jobs is currently offering Kitchen positions" 
 tags: [Kuala Lumpur] 
 toc: true 
 toc_label: TOC 
@@ -10,7 +10,7 @@ toc_icon: "fire"
 --- 
 
 ### About
-**Mövenpick Hotel & Convention Centre Klia** is a contemporary Kuala Lumpur hotel with Islamic design influences, just 10 minutes to the KLIA and klia2 airports, 7 minutes to the Sepang International Circuit and 5 minutes to Mitsui Premium Outlet Park.
+**Movenpick Hotel & Convention Centre Klia** is a contemporary Kuala Lumpur hotel with Islamic design influences, just 10 minutes to the KLIA and klia2 airports, 7 minutes to the Sepang International Circuit and 5 minutes to Mitsui Premium Outlet Park.
 
 This upper scale hotel and convention center offers comfort, style, and exclusivity with 333 rooms, five restaurants, and spa and poolside facilities.
 {% include link-adsense.html %} 
