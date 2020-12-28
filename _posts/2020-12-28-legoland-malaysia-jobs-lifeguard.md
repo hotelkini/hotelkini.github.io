@@ -24,8 +24,9 @@ Explore Theme Park, Water Park, Aquarium & Hotel in a unique LEGO® themed desti
 - You We have the opportunity to meet ond interact with different people and to deliver a Memorable experience to our guests.
 
 ### Experience Required
-You must be able to swim, enjoy working with children, ability to command In basic English &
-one that loves FUN!
+You must be able to swim, enjoy working with children, ability to command In basic English & one that loves FUN!
+
+![Legoland Malaysia Jobs - Lifeguard!](/assets/images/2020-12/legoland-malaysia-jobs-lifeguard.jpg "Legoland Malaysia Jobs - Lifeguard")
 
 ### How To Apply
 Email your application and CV to: dianhafini.yusoff@legoland.my
