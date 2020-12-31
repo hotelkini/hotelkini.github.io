@@ -1,5 +1,5 @@
 ---
-title: "Classic Hotel Muar Johor ob Vacancies for Front Office" 
+title: "Classic Hotel Muar Johor Job Vacancies for Front Office" 
 category: Jobs 
 date: 2020-12-31
 excerpt: "Classic Hotel Muar Johor job Vacancies available for Front Office Assistant and Executive" 
@@ -30,7 +30,7 @@ Come & explore an opportunity in hospitality with us. We invite kind & aspiring 
 ### How To Apply
 Interested candidate may send latest updated resume, with current & expected salary to enquirieseclassichotelmuar.com or call us at +606 954 7000 ext 3005.
 
-**Classic Hotel Muar** 
+**Classic Hotel Muar** <br/>
 Address: No 69, Jalan Ali, Pekan Muar, 84000 Muar, Johor
 
 Open to Malaysians and Malaysian Permanent Residents only. Only shortlisted candidates will be notified.

@@ -26,10 +26,10 @@ Tunamaya Beach & Spa Resort is an idyllic location for leisurely days under the 
 - F&B Assistant
 
 ### How To Apply
-Interested candidate kindly send your resume to career.tbsr@careluxuryhotels.com
+Interested candidate kindly send your resume to career.tbsr@careluxuryhotels.com<br/>
 +607 766 8888 | 8887 | 8886
-
+<br/>
 Only applicable for Malaysian applicant.
-
+<br/>
 Address: Lot 20 & 21, Sarang Burung, Kg. Mukut, 26800 Pulau Tioman, Pahang
 {% include link-adsense.html %} 

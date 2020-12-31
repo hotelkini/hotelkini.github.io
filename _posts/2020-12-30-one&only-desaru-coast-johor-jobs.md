@@ -24,8 +24,8 @@ One&Only Desaru Coast is a perfect hideaway with azure waters and lush landscape
 
 ### How To Apply
 Interested candidate kindly send your resume to careers.one&onlydesarucoast@kerzner.com
-
+<br/>
 Only applicable for Malaysian applicant.
-
+<br/>
 Address: Darul Ta’zim, Persiaran Damai, Desaru Coast Bandar Penawar, 90, 81930, Johor
 {% include link-adsense.html %} 

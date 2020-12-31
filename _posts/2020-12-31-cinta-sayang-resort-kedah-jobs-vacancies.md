@@ -33,11 +33,10 @@ Positions are available to Malaysian citizens only.
 ![Cinta Sayang Resort Jobs Vacancies!](/assets/images/2020-12/cinta-sayang-resort-kedah-job-vacancies.jpg "Cinta Sayang Resort Jobs Vacancies")
 
 ### How To Apply
-Contact us right now:
-
+Contact us right now:<br/>
 Ms. Rozila: ahrm@cintasayangresort.com / Ms. Wendy: rea@cintasayangresort.com
 
-**Cinta Sayang Resort** 
+**Cinta Sayang Resort** <br/>
 Address: Persiaran Cinta Sayang, 08000 Sungai Petani, Kedah.
 
 Positions are open to Malaysian citizens only. Only shortlisted candidates will be notified.

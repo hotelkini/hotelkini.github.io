@@ -25,8 +25,8 @@ If you have experience in identifying and building long-term relationships with 
 
 ### How To Apply
 Kindly send in your resume to angieng@scapeshotel.com
-
+<br/>
 Only shortlisted candidate will be notified.
-
+<br/>
 Address: Jalan Jaya Permai, Midhills, 69000 Genting Highlands, Pahang
 {% include link-adsense.html %} 

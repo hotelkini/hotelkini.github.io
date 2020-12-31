@@ -41,9 +41,9 @@ Casual employment is available for Hotel functions / events, kindly contact the 
 If you are interested to join the team, kindly send us your latest resume to: tlip.hr@travelodgemy.com
 
 **Travelodge Hotel Ipoh**
-Human Resources Department
-Jalan Raja Dihilir,
-30350 Ipoh, Perak
+Human Resources Department<br/>
+Jalan Raja Dihilir,<br/>
+30350 Ipoh, Perak<br/>
 Tel No: +605-242 8888
 
 {% include link-adsense.html %} 
