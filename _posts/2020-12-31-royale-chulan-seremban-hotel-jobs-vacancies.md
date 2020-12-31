@@ -33,6 +33,7 @@ Royale Chulan Seremban hotel is hiring for below departments:
 - Banquet Manager
 - Waiter / Waitress
 - Cashier
+{% include 300-adsense.html %} 
 
 **SALES & MARKETING**
 - Sales Manager
