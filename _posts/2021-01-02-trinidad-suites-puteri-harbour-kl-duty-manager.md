@@ -1,7 +1,7 @@
 ---
 title: "Trinidad Suites Puteri Harbour Duty Manager Vacancy in Johor" 
 category: Jobs 
-date: 2020-12-12
+date: 2021-01-02
 excerpt: "Trinidad Suites Puteri Harbour Johor is currently offering Duty Manager position" 
 tags: [Johor] 
 toc: true 
@@ -28,7 +28,6 @@ The hotel offers wonderful recreational facilities such as a a fitness centre an
 
 ### How To Apply
 If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
-Hope you find your dream hotel job in Johor <br/> 
-<a href="https://www.linkedin.com/jobs/view/2324131218/" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+Email me your CV at jaber.salehi@trinidadputeriharbour.com
 
 {% include link-adsense.html %} 
