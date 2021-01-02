@@ -1,15 +1,15 @@
 ---
-title: "Novotel Kuala Lumpur City Center Job Vacancy for Executive Chef" 
+title: "Novotel Kuala Lumpur City Centre Job Vacancy for Executive Chef" 
 category: Jobs 
 date: 2021-01-02
-excerpt: "Novotel Kuala Lumpur City Center job vacancy available for Executive Chef" 
+excerpt: "Novotel Kuala Lumpur City Centre job vacancy available for Executive Chef" 
 tags: [Kuala Lumpur] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-Novotel Kuala Lumpur City Center job vacancy available for Executive Chef.
+Novotel Kuala Lumpur City Centre job vacancy available for Executive Chef.
 {% include 300-adsense.html %} 
 
 ### About
@@ -25,7 +25,7 @@ Hiring for Executive Chef.
 ### How To Apply
 Interested candidates send their resume to H6324-HR@accor.com
 
-**Novotel Kuala Lumpur City Center** <br/>
+**Novotel Kuala Lumpur City Centre** <br/>
 Address: 2, Jalan Kia Peng, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
 
 Only shortlisted candidates will be notified.
