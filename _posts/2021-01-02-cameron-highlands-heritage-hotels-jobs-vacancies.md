@@ -20,7 +20,7 @@ Cameron Highlands Heritage Hotel is hiring for:
 - Commis III
 - Front Office Assistant
 
-![Cameron Highlands Heritage Hotel Jobs Vacancies!](/assets/images/2021-01/cameron-highlands-heritage-hotel-jobs-commis-front-office.jpg "Cameron Highlands Heritage Hotel Jobs Vacancies")
+![Cameron Highlands Heritage Hotel Jobs Vacancies!](/assets/images/2021-01/cameron-highlands-heritage-hotel-jobs-commis-front-office.png "Cameron Highlands Heritage Hotel Jobs Vacancies")
 
 ### How To Apply
 For interested candidates, kindly e-mail your resume to our HR Department at
