@@ -1,15 +1,15 @@
 ---
-title: "Hotel Tenera Bandar Bari Bangi Job Vacancies for F&B and Rooms Division" 
+title: "Hotel Tenera Bandar Baru Bangi Job Vacancies for F&B and Rooms Division" 
 category: Jobs 
 date: 2021-01-02
-excerpt: "Hotel Tenera Bandar Bari Bangi job Vacancies available for F&B and Room Division" 
+excerpt: "Hotel Tenera Bandar Baru Bangi job Vacancies available for F&B and Room Division" 
 tags: [Selangor] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-Hotel Tenera Bandar Bari Bangi job Vacancies available for F&B and Room division as below.
+Hotel Tenera Bandar Baru Bangi job Vacancies available for F&B and Room division as below.
 {% include 300-adsense.html %} 
 
 ### About
