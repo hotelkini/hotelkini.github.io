@@ -9,6 +9,8 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
+Trinidad Suites Puteri Harbour Johor is currently offering Duty Manager position this 2021 year.
+
 ### About
 Offering quality accommodations in the lifestyle, shopping, and family-fun district of Inskandar Puteri's Puteri Harbour, Trinidad Suites Puteri Harbour is a popular choice for both business and leisure travelers. 
 
