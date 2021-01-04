@@ -1,8 +1,8 @@
 ---
-title: "Zenith Cameron Hotel Vacancies for HR Executive and Assistant Security Manager" 
+title: "Zenith Cameron Hotel Vacancies 2021 - Open Interview 07-Jan-2021" 
 category: Jobs 
 date: 2021-01-04
-excerpt: "Zenith Cameron Hotel is looking-out for the following pre-opening positions HR Executive / Assistant Manager and Assistant Security Manager" 
+excerpt: "In collaboration with SOCSO Tapah Office, Zenith Hotel pleased to invite all job seekers to attend our open interview on 7 January 2021 (Thursday) in Zenith Cameron." 
 tags: [Pahang] 
 toc: true 
 toc_label: TOC 
