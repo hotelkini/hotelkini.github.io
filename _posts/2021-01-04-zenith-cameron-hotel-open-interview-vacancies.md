@@ -1,7 +1,7 @@
 ---
 title: "Zenith Cameron Hotel Vacancies for HR Executive and Assistant Security Manager" 
 category: Jobs 
-date: 2020-12-26
+date: 2021-01-04
 excerpt: "Zenith Cameron Hotel is looking-out for the following pre-opening positions HR Executive / Assistant Manager and Assistant Security Manager" 
 tags: [Pahang] 
 toc: true 
