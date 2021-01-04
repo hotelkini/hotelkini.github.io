@@ -1,0 +1,23 @@
+---
+title: "AMAN TIOMAN BEACH RESORT SDN. BHD. Job Vacancies 2021 - Guest Service Assistant (Hotel Industry)" 
+category: Jobs 
+date: 2021-01-05 
+excerpt: "AMAN TIOMAN BEACH RESORT SDN. BHD. is currently looking for suitable person to fill in the Guest Service Assistant (Hotel Industry) which positioned at Pahang - Others" 
+tags: [Pahang - Others] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>AMAN TIOMAN BEACH RESORT SDN. BHD. is looking for new potential candidates to fill in for <b>Guest Service Assistant (Hotel Industry)</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>Jawatan kosong AMAN TIOMAN BEACH RESORT SDN. BHD. 2021 terkini untuk kekosongan <b>Guest Service Assistant (Hotel Industry)</b>. 
+{% include 300-adsense.html %} 
+<div><div><div><h4>Job Description</h4></div></div><div><div><span><div><div><strong>Job Requirement</strong></div><ul><li>Candidate must possess at least Primary/Secondary School/SPM/"O" Level in Hospitality/Tourism/Hotel Management or equivalent.</li><li>At least 2 Year(s) of working experience in the related field is required for this position.</li><li>Preferably Junior Executive specialized in Hotel Management/Tourism Services or equivalent.</li><li><div>Able to work during public holiday or festive holiday season.</div></li><li><div><strong>**Able to based in Tioman Island, Pahang Malaysia.</strong></div></li><li><div>Able to work hard &amp; willing to learn.</div></li><li><div>Self-discipline.</div></li><li><div><div>Team player &amp; service-oriented.</div><div><strong>Work Benefit&#160;</strong></div></div><div>&#12299;Accommodation &amp; Travelling Allowance provided by the Resort</div><div>&#12299;Attractive starting salary plus service point</div></li></ul><div><strong>Job Responsibilities</strong></div><ul><li>Register guests and assigns rooms. Accommodates special requests whenever possible.</li><li>Assists in preregistration and blocking of rooms for reservations.</li><li>Thoroughly understand and adheres to proper credit, check-cashing, and cash handling policies. &#8203;</li><li>Knows room locations, types of rooms available, and room rates.</li><li>Must be sales-minded. Presents options and alternatives to guests and offers assistance in making choices.</li><li>Uses suggestive selling techniques to sell rooms and to promote other services of the hotel.</li><li>Knows the location and types of available rooms as well as the activities and services of the property.</li><li>Coordinates room status updates with the housekeeping department by notification housekeeping of all check outs, late checkouts, early chek-ins, special requests, and day use rooms.</li><li>Possess working knowledge about reservations department. Takes same day reservations and future reservations when necessary. Knows cancellation procedures.</li><li>Maintains guest room key storage, and maintains and supervises access to safe deposit boxes.</li><li>Knows how to use front office equipment.</li><li>Performing cashier related functions like posting charges to guest accounts, raising paid out's, currency exchange.</li><li>Works closely with the housekeeping department in the keeping room status reports up to date and coordinates requests for maintenance and repair work.</li><li>Uses proper telephone etiquette.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><div><h4>Company Overview</h4></div></div><div><div><span><div><div>Aman Tioman Beach Resort is a Resort located at the Tranquil Kampung Paya, Tioman Island.The resort consists of a 119 rooms accommodations with an in-house dive centre the middle of a lush tropical surrounding fronting the beautiful beach side. A perfect destination for young adventurous traveller, family and avid diver.</div>
+<div>We are inviting young &amp; enthusiastic candidates to join us to experience a unique working environment where the opportunities are endless.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Pahang - Others. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/guest-service-assistant-hotel-industry-4446858?jobId=jobstreet-my-job-4446858&sectionRank=29&token=0~f5edbdcf-146e-4f5c-ad43-39ce887850f3&fr=SRP%20View%20In%20New%20Ta" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
