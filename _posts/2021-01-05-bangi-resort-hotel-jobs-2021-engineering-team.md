@@ -1,7 +1,7 @@
 ---
 title: "Bangi Resort Hotel Jobs Vacancies 2021 for Engineering Team" 
 category: Jobs 
-date: 2021-05-05
+date: 2021-01-05
 excerpt: "Bangi Resort Hotel jobs vacancies 2021 for Engineering Team" 
 tags: [Selangor] 
 toc: true 
