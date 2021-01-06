@@ -3,7 +3,7 @@ title: "Grand Hyatt Kuala Lumpur Hotel Jobs Vacancies 2021"
 category: Jobs 
 date: 2021-01-05
 excerpt: "Grand Hyatt Kuala Lumpur Hotel jobs vacancies for January 2021 for Front Office, Telephone Operator, Housekeeping, Bartender, Waiter/Waitress, Security Officer and IT Executive" 
-tags: [Kuala Lumpur] 
+tags: [Kuala Lumpur,Feature] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 

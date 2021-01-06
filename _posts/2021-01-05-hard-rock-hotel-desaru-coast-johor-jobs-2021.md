@@ -3,7 +3,7 @@ title: "Hard Rock Desaru Coast Hotel Jobs Vacancies 2021"
 category: Jobs 
 date: 2021-01-05
 excerpt: "Hard Rock Desaru Coast Hotel jobs vacancies 2021 for Room Attendant, Chef de Partie (Western and Pastry), Commis 1, Front Office Attendant" 
-tags: [Johor] 
+tags: [Johor,Feature] 
 toc: true
 toc_label: TOC 
 toc_icon: "fire" 

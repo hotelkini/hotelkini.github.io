@@ -3,7 +3,7 @@ title: "Bangi Resort Hotel Jobs Vacancies 2021 for Sales, Kitchen, Food and Beve
 category: Jobs 
 date: 2021-01-06
 excerpt: "Bangi Resort Hotel jobs vacancies 2021 for Sales, Kitchen, Food and Beverage Teams" 
-tags: [Selangor] 
+tags: [Selangor,Feature] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 

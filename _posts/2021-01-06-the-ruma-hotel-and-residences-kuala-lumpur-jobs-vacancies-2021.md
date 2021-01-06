@@ -3,7 +3,7 @@ title: "The Ruma Hotel and Residences Kuala Lumpur Jobs Vacancies 2021"
 category: Jobs 
 date: 2021-01-06
 excerpt: "The Ruma Hotel and Residences Kuala Lumpur Jobs Vacancies 2021" 
-tags: [Kuala Lumpur] 
+tags: [Kuala Lumpur, Feature] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
@@ -22,6 +22,7 @@ What you can expect:
 - Training, personal development and career growth
 - Empowerment
 {% include 300-adsense.html %} 
+
 #### Vacancies
 **Food and Beverage**
 - ATAS Manager / Assistant Outlet Manager
