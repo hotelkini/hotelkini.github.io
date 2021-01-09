@@ -16,6 +16,7 @@ Impiana Hotel Senai Johor jobs vacancies 2021. Impiana Hotel Senai is looking fo
 Impiana Hotel Senai is first business hotel in Senai which is 10 minutes driving distance to Senai International Airport. Along Federal Route 1, this upscale hotel is 31 km from Legoland Malaysia Resort.
 
 WE ARE HIRING!
+
 **KITCHEN**
 - Demi Chef
 - Commis 2
