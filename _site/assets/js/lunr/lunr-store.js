@@ -1,490 +1,4 @@
 var store = [{
-        "title": "Emerging View Hotels Management Sdn Bhd Vacancies Acting Duty Manager",
-        "excerpt":"Emerging View Hotels Management Sdn Bhd is looking for new potential candidates to fill in for Acting Duty Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description To assist the Front Office Assistance in...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/acting-duty-manager-emerging-view-hotels-management-sdn-bhd-4403366/",
-        "teaser": null
-      },{
-        "title": "Company Confidential Vacancies Business Admin Executive",
-        "excerpt":"Company Confidential is looking for new potential candidates to fill in for Business Admin Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Your responsibilities:Welcome visitors in a warm and friendly manner, and answer...","categories": ["Jobs"],
-        "tags": ["Cheras"],
-        "url": "http://localhost:4000/jobs/business-admin-executive-company-confidential-4405925/",
-        "teaser": null
-      },{
-        "title": "Forte Employment Services Pte Ltd Vacancies Cook Western Food/$1800-2600) - island wide",
-        "excerpt":"Forte Employment Services Pte Ltd is looking for new potential candidates to fill in for Cook Western Food/$1800-2600) - island wide position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job DescriptionAttractive benefitsMeals providedSalary: Gross:...","categories": ["Jobs"],
-        "tags": ["Singapore"],
-        "url": "http://localhost:4000/jobs/cook-western-food-1800-2600-island-wide-forte-employment-services-pte-ltd-tern-fo/",
-        "teaser": null
-      },{
-        "title": "Company Confidential Vacancies Executive Housekeeper",
-        "excerpt":"Company Confidential is looking for new potential candidates to fill in for Executive Housekeeper position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Responsibilities:To manage and coordinate the operations of the Housekeeping DepartmentHire, train,...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur","Negeri Sembilan","Penang"],
-        "url": "http://localhost:4000/jobs/executive-housekeeper-company-confidential-4399950/",
-        "teaser": null
-      },{
-        "title": "Inter Island Manpower Pte Ltd Vacancies F&B Attendant - 5Stars Casino Hotel",
-        "excerpt":"Inter Island Manpower Pte Ltd is looking for new potential candidates to fill in for F&amp;B Attendant - 5Stars Casino Hotel position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Descriptions:-Assist fellow Team Members...","categories": ["Jobs"],
-        "tags": ["Singapore"],
-        "url": "http://localhost:4000/jobs/f-b-attendant-5stars-casino-hotel-inter-island-manpower-pte-ltd-ndant-5/",
-        "teaser": null
-      },{
-        "title": "Emerging View Hotels Management Sdn Bhd Vacancies Front Office Assistant",
-        "excerpt":"Emerging View Hotels Management Sdn Bhd is looking for new potential candidates to fill in for Front Office Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description To assist in managing day to day...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/front-office-assistant-emerging-view-hotels-management-sdn-bhd-4403373/",
-        "teaser": null
-      },{
-        "title": "Arte Original Sdn Bhd Vacancies Front Office Guest Services Agent",
-        "excerpt":"Arte Original Sdn Bhd is looking for new potential candidates to fill in for Front Office Guest Services Agent position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at leastAt least 3...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/front-office-guest-services-agent-arte-original-sdn-bhd-4401237/",
-        "teaser": null
-      },{
-        "title": "Arte Original Sdn Bhd Vacancies Front Office Manager",
-        "excerpt":"Arte Original Sdn Bhd is looking for new potential candidates to fill in for Front Office Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Description: Directly supervise all front office personnel and...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/front-office-manager-arte-original-sdn-bhd-4398241/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Front Office Receptionist",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Front Office Receptionist position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Ming Star HotelAnswer questions and address complaintsAnswer all incoming calls and...","categories": ["Jobs"],
-        "tags": ["Terengganu"],
-        "url": "http://localhost:4000/jobs/front-office-receptionist-jora-jobs-4400599/",
-        "teaser": null
-      },{
-        "title": "Hotel Excelsior (Ipoh) Sdn Bhd Vacancies General Manager / Assistant General Manager",
-        "excerpt":"Hotel Excelsior (Ipoh) Sdn Bhd is looking for new potential candidates to fill in for General Manager / Assistant General Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Prepare, review and assess monthly...","categories": ["Jobs"],
-        "tags": ["Ipoh"],
-        "url": "http://localhost:4000/jobs/general-manager-assistant-general-manager-hotel-excelsior-ipoh-sdn-bhd-4404451/",
-        "teaser": null
-      },{
-        "title": "Victoria Home Vacancies Guest Experience, Assistant Manager (Assistant Operation Manager)",
-        "excerpt":"Victoria Home is looking for new potential candidates to fill in for Guest Experience, Assistant Manager (Assistant Operation Manager) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Great Benefits and PerksInnovative and result driven...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/guest-experience-assistant-manager-assistant-operation-manager-victoria-home-4402399/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Guest Service Officer",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Guest Service Officer position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Somerset Sdn BhdPrepares for guest arrivals and departure at the Guest...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/guest-service-officer-jora-jobs-4406500/",
-        "teaser": null
-      },{
-        "title": "Wistron Technology (Malaysia) Sdn Bhd Vacancies Hostel Manager",
-        "excerpt":"Wistron Technology (Malaysia) Sdn Bhd is looking for new potential candidates to fill in for Hostel Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Description :To&#160;develops, manages and trains staffs to be...","categories": ["Jobs"],
-        "tags": ["Klang/Port Klang"],
-        "url": "http://localhost:4000/jobs/hostel-manager-wistron-technology-malaysia-sdn-bhd-4403188/",
-        "teaser": null
-      },{
-        "title": "Startek Vacancies Hotel & Flight Booking Customer Care - Mandarin & Cantonese Speaker",
-        "excerpt":"Startek is looking for new potential candidates to fill in for Hotel &amp; Flight Booking Customer Care - Mandarin &amp; Cantonese Speaker position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description RESPONSIBILITIES:To handle all inbound...","categories": ["Jobs"],
-        "tags": ["Selangor"],
-        "url": "http://localhost:4000/jobs/hotel-flight-booking-customer-care-mandarin-cantonese-speaker-startek-4406027/",
-        "teaser": null
-      },{
-        "title": "Arte Original Sdn Bhd Vacancies Hotel Bell Attendant",
-        "excerpt":"Arte Original Sdn Bhd is looking for new potential candidates to fill in for Hotel Bell Attendant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at leastAt least 2 Year(s) of...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/hotel-bell-attendant-arte-original-sdn-bhd-4401239/",
-        "teaser": null
-      },{
-        "title": "IRDK GROUP Vacancies Hotel Manager",
-        "excerpt":"IRDK GROUP is looking for new potential candidates to fill in for Hotel Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Attractive remuneration packagePositive Working EnvironmentCareer Advancement Additional Information Career LevelManagerQualificationProfessional Certificate, Diploma,...","categories": ["Jobs"],
-        "tags": ["Selangor"],
-        "url": "http://localhost:4000/jobs/hotel-manager-irdk-group-4399979/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Housekeeping Assistant",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Asystech Sdn BhdExperience in Hotel Housekeeping is compulsary.Willing to work on shift...","categories": ["Jobs"],
-        "tags": ["Terengganu"],
-        "url": "http://localhost:4000/jobs/housekeeping-assistant-jora-jobs-4403507/",
-        "teaser": null
-      },{
-        "title": "Arte Original Sdn Bhd Vacancies Housekeeping Attendant",
-        "excerpt":"Arte Original Sdn Bhd is looking for new potential candidates to fill in for Housekeeping Attendant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at leastAt least 2 Year(s) of working...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/housekeeping-attendant-arte-original-sdn-bhd-4401267/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Housekeeping Attendant",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Attendant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Shaftsbury Stellar CyberjayaDUTIES AND REPONSIBILITIESReports to the Housekeeping Office before the start...","categories": ["Jobs"],
-        "tags": ["Selangor"],
-        "url": "http://localhost:4000/jobs/housekeeping-attendant-jora-jobs-4398841/",
-        "teaser": null
-      },{
-        "title": "Arte Original Sdn Bhd Vacancies Housekeeping Manager",
-        "excerpt":"Arte Original Sdn Bhd is looking for new potential candidates to fill in for Housekeeping Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at leastAt least 4 Year(s) of working...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/housekeeping-manager-arte-original-sdn-bhd-4401264/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Housekeeping Supervisor",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Ming Star HotelJob Qualifications:Proven housekeeping or hospitality experience.Working knowledge of housekeeping.Proficient in...","categories": ["Jobs"],
-        "tags": ["Terengganu"],
-        "url": "http://localhost:4000/jobs/housekeeping-supervisor-jora-jobs-4400603/",
-        "teaser": null
-      },{
-        "title": "Pinetree Marina Resort Vacancies Internship for Hospitality/Tourism Management Students",
-        "excerpt":"Pinetree Marina Resort is looking for new potential candidates to fill in for Internship for Hospitality/Tourism Management Students position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description To handle daily duty of Front Office To...","categories": ["Jobs"],
-        "tags": ["Johor"],
-        "url": "http://localhost:4000/jobs/internship-for-hospitality-tourism-management-students-pinetree-marina-resort-4399808/",
-        "teaser": null
-      },{
-        "title": "Agensi Pekerjaan AN Asia Sdn Bhd Vacancies Japanese Speaking Customer Service Support",
-        "excerpt":"Agensi Pekerjaan AN Asia Sdn Bhd is looking for new potential candidates to fill in for Japanese Speaking Customer Service Support position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job DescriptionPlanning, implementation and management...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/japanese-speaking-customer-service-support-agensi-pekerjaan-an-asia-sdn-bhd-4405476/",
-        "teaser": null
-      },{
-        "title": "Lexis Hotels & Resorts Sdn Bhd Vacancies KONSTABLE POLIS BANTUAN",
-        "excerpt":"Lexis Hotels &amp; Resorts Sdn Bhd is looking for new potential candidates to fill in for KONSTABLE POLIS BANTUAN position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description KONSTABEL POLIS BANTUANPermohonan adalah dipelawa kepada warganegara...","categories": ["Jobs"],
-        "tags": ["Port Dickson"],
-        "url": "http://localhost:4000/jobs/konstable-polis-bantuan-lexis-hotels-resorts-sdn-bhd-4399885/",
-        "teaser": null
-      },{
-        "title": "Mimpi Perhentian Resort Terengganu Vacancies Oct 2020",
-        "excerpt":"Mimpi Perhentian Resort is currently looking for suitable person to fill in the below vacancies which positioned at Terengganu and Kuala Besut Island. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Positions Available Based at Resort (Island)...","categories": ["Jobs"],
-        "tags": ["Terengganu"],
-        "url": "http://localhost:4000/jobs/mimpi-perhentian-vacancies-oct-2020/",
-        "teaser": null
-      },{
-        "title": "Mad Group Sdn Bhd Vacancies Operation Supervisor",
-        "excerpt":"Mad Group Sdn Bhd is looking for new potential candidates to fill in for Operation Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Responsibilities:To assist, manage and oversee operations of the villa/training center....","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur","Bentong","Selangor"],
-        "url": "http://localhost:4000/jobs/operation-supervisor-mad-group-sdn-bhd-4405827/",
-        "teaser": null
-      },{
-        "title": "Miki Travel Sdn Bhd Vacancies Quotation Coordinator (Japanese Speaking)",
-        "excerpt":"Miki Travel Sdn Bhd is looking for new potential candidates to fill in for Quotation Coordinator (Japanese Speaking) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Roles and ResponsibilitiesTo conduct research and searching of...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/quotation-coordinator-japanese-speaking-miki-travel-sdn-bhd-4385668/",
-        "teaser": null
-      },{
-        "title": "NUSMETRO Vacancies Revenue Manager",
-        "excerpt":"NUSMETRO is looking for new potential candidates to fill in for Revenue Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at leastAt least 5 Year(s) of working experience in the...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/revenue-manager-nusmetro-4401281/",
-        "teaser": null
-      },{
-        "title": "Company Confidential Vacancies TRAINING MANAGER",
-        "excerpt":"Company Confidential is looking for new potential candidates to fill in for TRAINING MANAGER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Training ManagerJob DescriptionConduct Training need assessments to enhance employee job performance.Update and...","categories": ["Jobs"],
-        "tags": ["Port Dickson"],
-        "url": "http://localhost:4000/jobs/training-manager-company-confidential-4399899/",
-        "teaser": null
-      },{
-        "title": "Startek Vacancies Travel & Hospitality Consultant - Mandarin and Cantonese Speaker",
-        "excerpt":"Startek is looking for new potential candidates to fill in for Travel &amp; Hospitality Consultant - Mandarin and Cantonese Speaker position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description RESPONSIBILITIES:To handle all inbound calls pertaining...","categories": ["Jobs"],
-        "tags": ["Selangor"],
-        "url": "http://localhost:4000/jobs/travel-hospitality-consultant-mandarin-and-cantonese-speaker-startek-4406016/",
-        "teaser": null
-      },{
-        "title": "Flamingo Hotel by the beach, Penang Vacancies DUTY MANAGER",
-        "excerpt":"Flamingo Hotel by the beach, Penang is looking for new potential candidates to fill in for DUTY MANAGER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Responsibilities: Ensures high standards of personal presentation...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/duty-manager-flamingo-hotel-by-the-beach-penang-4407888/",
-        "teaser": null
-      },{
-        "title": "Flamingo Hotel by the beach, Penang Vacancies EXECUTIVE HOUSEKEEPER",
-        "excerpt":"Flamingo Hotel by the beach, Penang is looking for new potential candidates to fill in for EXECUTIVE HOUSEKEEPER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Responsibilities: Ensure smooth and efficient operation of...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/executive-housekeeper-flamingo-hotel-by-the-beach-penang-4407885/",
-        "teaser": null
-      },{
-        "title": "Search Index Pte Ltd Vacancies Front Desk Customer Service / Orchard / 5 days / Ex-Cabin Crew Welcome",
-        "excerpt":"Search Index Pte Ltd is looking for new potential candidates to fill in for Front Desk Customer Service / Orchard / 5 days / Ex-Cabin Crew Welcome position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job...","categories": ["Jobs"],
-        "tags": ["Singapore"],
-        "url": "http://localhost:4000/jobs/front-desk-customer-service-orchard-5-days-ex-cabin-crew-welcome-search-index-pte-ltd-sk-cust/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Front Office Assistant Cum Night Audit",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Front Office Assistant Cum Night Audit position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Asystech Sdn BhdExperience in Hotel Front Office is...","categories": ["Jobs"],
-        "tags": ["Terengganu"],
-        "url": "http://localhost:4000/jobs/front-office-assistant-cum-night-audit-jora-jobs-4407800/",
-        "teaser": null
-      },{
-        "title": "Flamingo Hotel by the beach, Penang Vacancies FRONT OFFICE ASSISTANT",
-        "excerpt":"Flamingo Hotel by the beach, Penang is looking for new potential candidates to fill in for FRONT OFFICE ASSISTANT position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Responsibilities: To assist in managing day...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/front-office-assistant-flamingo-hotel-by-the-beach-penang-4407892/",
-        "teaser": null
-      },{
-        "title": "IOI Group (Property Investment Division) Vacancies General Manager, Hotel Operations",
-        "excerpt":"IOI Group (Property Investment Division) is looking for new potential candidates to fill in for General Manager, Hotel Operations position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Role:Provide strategic leadership expertise that ensures the...","categories": ["Jobs"],
-        "tags": ["Putrajaya"],
-        "url": "http://localhost:4000/jobs/general-manager-hotel-operations-ioi-group-property-investment-division-4407079/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies HOUSEKEEPING ASSISTANT",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for HOUSEKEEPING ASSISTANT position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description ORIENTAL CRYSTAL HOTELTasks &amp; Responsibilities include:To assist your Supervisor in the daily...","categories": ["Jobs"],
-        "tags": ["Selangor"],
-        "url": "http://localhost:4000/jobs/housekeeping-assistant-jora-jobs-4407810/",
-        "teaser": null
-      },{
-        "title": "Flamingo Hotel by the beach, Penang Vacancies SENIOR HOUSEKEEPING SUPERVISOR, HOUSEKEEPING SUPERVISOR",
-        "excerpt":"Flamingo Hotel by the beach, Penang is looking for new potential candidates to fill in for SENIOR HOUSEKEEPING SUPERVISOR, HOUSEKEEPING SUPERVISOR position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description REQUIREMENTS:Candidate must possess at least...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/senior-housekeeping-supervisor-housekeeping-supervisor-flamingo-hotel-by-the-beach-penang-4407882/",
-        "teaser": null
-      },{
-        "title": "Tiara Desaru Residence Sdn Bhd Vacancies Hotel Manager",
-        "excerpt":"Tiara Desaru Residence Sdn Bhd is looking for new potential candidates to fill in for Hotel Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights We nature the best values in our team of...","categories": ["Jobs"],
-        "tags": ["Kota Tinggi"],
-        "url": "http://localhost:4000/jobs/hotel-manager-tiara-desaru-residence-sdn-bhd-4408752/",
-        "teaser": null
-      },{
-        "title": "Tiara Desaru Residence Sdn Bhd Vacancies Hotel Sales Manager",
-        "excerpt":"Tiara Desaru Residence Sdn Bhd is looking for new potential candidates to fill in for Hotel Sales Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights We nurture the best values in our team...","categories": ["Jobs"],
-        "tags": ["Kota Tinggi"],
-        "url": "http://localhost:4000/jobs/hotel-sales-manager-tiara-desaru-residence-sdn-bhd-4408688/",
-        "teaser": null
-      },{
-        "title": "AMI SUITES Vacancies Housekeeping Team Lead",
-        "excerpt":"AMI SUITES is looking for new potential candidates to fill in for Housekeeping Team Lead position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job DescriptionTrain housekeeping assistants on cleaning and maintaining tasksCheck and ensure...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/housekeeping-team-lead-ami-suites-4408511/",
-        "teaser": null
-      },{
-        "title": "Healthpro Life Sdn. Bhd. Vacancies Project Manager (6 months)",
-        "excerpt":"Healthpro Life Sdn. Bhd. is looking for new potential candidates to fill in for Project Manager (6 months) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description We are looking for an experienced Project Manager...","categories": ["Jobs"],
-        "tags": ["Selangor"],
-        "url": "http://localhost:4000/jobs/project-manager-6-months-healthpro-life-sdn-bhd-4408352/",
-        "teaser": null
-      },{
-        "title": "Quinton Group Sdn Bhd Vacancies BUSINESS DEVELOPMENT CONSULTANT",
-        "excerpt":"Quinton Group Sdn Bhd is looking for new potential candidates to fill in for BUSINESS DEVELOPMENT CONSULTANT position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights 5 working daysPositive working environmentGreat career advancement Additional Information...","categories": ["Jobs"],
-        "tags": ["Kedah","Kelantan","Melaka","Negeri Sembilan","Bayan Lepas","Pahang","Perak","Perlis","Terengganu"],
-        "url": "http://localhost:4000/jobs/business-development-consultant-quinton-group-sdn-bhd-4409406/",
-        "teaser": null
-      },{
-        "title": "Holiday Inn Johor Bahru City Centre Vacancies Guest Service Assistant",
-        "excerpt":"Holiday Inn Johor Bahru City Centre is looking for new potential candidates to fill in for Guest Service Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description As a Guest Service Assistant, you are...","categories": ["Jobs"],
-        "tags": ["Johor"],
-        "url": "http://localhost:4000/jobs/guest-service-assistant-holiday-inn-johor-bahru-city-centre-4409259/",
-        "teaser": null
-      },{
-        "title": "Merdeka Palace Hotel & Suites Kuching Vacancies Senior Accounts Manager",
-        "excerpt":"Merdeka Palace Hotel &amp; Suites Kuching is looking for new potential candidates to fill in for Senior Accounts Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least Bachelor's Degree/Post...","categories": ["Jobs"],
-        "tags": ["Kuching"],
-        "url": "http://localhost:4000/jobs/senior-accounts-manager-merdeka-palace-hotel-suites-kuching-4407219/",
-        "teaser": null
-      },{
-        "title": "R&F Development Sdn Bhd Vacancies Cleaning Assistant",
-        "excerpt":"R&amp;F Development Sdn Bhd is looking for new potential candidates to fill in for Cleaning Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights International Working EnvironmentDaily Meal ProvidedGood Staff Benefits Additional Information Career...","categories": ["Jobs"],
-        "tags": ["Johor"],
-        "url": "http://localhost:4000/jobs/cleaning-assistant-r-f-development-sdn-bhd-4409058/",
-        "teaser": null
-      },{
-        "title": "Sovotel Malaysia Sdn Bhd Vacancies Operation Executive",
-        "excerpt":"Sovotel Malaysia Sdn Bhd is looking for new potential candidates to fill in for Operation Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Top Boutique HotelGood Working EnvironmentSupportive team and fun environment Additional...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur","Selangor"],
-        "url": "http://localhost:4000/jobs/operation-executive-sovotel-malaysia-sdn-bhd-4410019/",
-        "teaser": null
-      },{
-        "title": "Zouk Singapore Vacancies Assistant General Manager (Based in Malaysia)",
-        "excerpt":"Zouk Singapore is looking for new potential candidates to fill in for Assistant General Manager (Based in Malaysia) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Assistant General Manager will be based in...","categories": ["Jobs"],
-        "tags": ["Singapore"],
-        "url": "http://localhost:4000/jobs/assistant-general-manager-based-in-malaysia-zouk-singapore-t-gener/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Concierge - Front Desk Executive",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Concierge - Front Desk Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Corner Club PenangThe Clubhouse, established in 1950s, is well...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/concierge-front-desk-executive-jora-jobs-4410678/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Guest Ambassador",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Guest Ambassador position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description WidebedJob Qualifications:Experience in hospitality/ short-term rent industry is a plus (training provided)Friendly...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/guest-ambassador-jora-jobs-4410766/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Homestay Business Partner",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Homestay Business Partner position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description WidebedJob Qualifications:Minimum 2 years experienced in hotel industry&#160; (operation/marketing/management)Familiar with the...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/homestay-business-partner-jora-jobs-4410689/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Homestay Front Desk",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Homestay Front Desk position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description WidebedJob Qualifications:Experience in hospitality/ short-term rent industry is a plus (training...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/homestay-front-desk-jora-jobs-4410941/",
-        "teaser": null
-      },{
-        "title": "Global Marque Holidays Sdn Bhd Vacancies Tele-Operator for Fleet Management",
-        "excerpt":"Global Marque Holidays Sdn Bhd is looking for new potential candidates to fill in for Tele-Operator for Fleet Management position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Candidate must possess at least SPM/ \"O\"...","categories": ["Jobs"],
-        "tags": ["Petaling Jaya"],
-        "url": "http://localhost:4000/jobs/tele-operator-for-fleet-management-global-marque-holidays-sdn-bhd-4410786/",
-        "teaser": null
-      },{
-        "title": "ibis Styles Johor Iskandar Puteri Jobs for IT Executive/IT Assistant Manager",
-        "excerpt":"ibis Styles Johor Iskandar Puteri (Pre-opening Hotel) is looking for qualified candidates for below vacant positions:   Position  IT Executive/IT Assistant Manager   Job Requirements     HOW TO APPLY  Please send in your detailed resume copy of certificates with current and expected salary to : hr@ibisstyles-johor-iskandarputeri.com        ","categories": ["Jobs"],
-        "tags": ["Johor"],
-        "url": "http://localhost:4000/jobs/ibis-styles-johor-iskandar-puteri-it-jobs/",
-        "teaser": null
-      },{
-        "title": "Agensi Pekerjaan AN Asia Sdn Bhd Vacancies Japanese Speaking Customer Service Support",
-        "excerpt":"Agensi Pekerjaan AN Asia Sdn Bhd is looking for new potential candidates to fill in for Japanese Speaking Customer Service Support position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job DescriptionPlanning, implementation and management...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/japanese-speaking-customer-service-suport-agensi-pekerjan-an-asia-sdn-bhd-405476/",
-        "teaser": null
-      },{
-        "title": "Klana Beach Resort Port Dickson Jobs Vacancies 2020",
-        "excerpt":"About Klana Beach Resort Klana Beach Resort, Port Dickson is your perfect family getaway! We offer an array of incredibly exciting and fun activities for the family. Guests can be assured of high quality service and standard, warm hospitality and we will ensure that your stay with us is a...","categories": ["Jobs"],
-        "tags": ["Port Dickson"],
-        "url": "http://localhost:4000/jobs/klana-beach-resort-port-dickson-jobs-2020/",
-        "teaser": null
-      },{
-        "title": "Genting Malaysia Berhad Vacancies Operation Executive (Chin Swee Temple)",
-        "excerpt":"Genting Malaysia Berhad is looking for new potential candidates to fill in for Operation Executive (Chin Swee Temple) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Description:Manage the hotel operation at Chin Swee...","categories": ["Jobs"],
-        "tags": ["Pahang"],
-        "url": "http://localhost:4000/jobs/operation-executive-chin-swe-temple-genting-malaysia-berhad-41305/",
-        "teaser": null
-      },{
-        "title": "OPERO Hotel Johor Bahru Jobs Vacancies 2020",
-        "excerpt":"OPERO Hotel Johor Bahru is looking for suitable candidates for many positions available this 2020. About Opero Hotel At Opero. people are our priority. The hotel is designed uniquely for business and leisure in Southkey, Johor Bahru to create and deliver superior service, luxury and style. We take pride in...","categories": ["Jobs"],
-        "tags": ["Johor"],
-        "url": "http://localhost:4000/jobs/opero-hotel-johor-bahru-jobs-2020/",
-        "teaser": null
-      },{
-        "title": "Zenith Cameron Jobs Vacancies 2020 Many Positions",
-        "excerpt":"Zenith Cameron is looking for a team player, highly motivated, passionate and able to work independently to create an unique experience to our guests beyond their expectations with pride and honor. About Zenith Cameron Zenith Cameron is looking to make its mark in Cameron Highlands. With a prestigious 5 Star...","categories": ["Jobs"],
-        "tags": ["Pahang"],
-        "url": "http://localhost:4000/jobs/zenith-cameron-jobs-vacancies-oct-2020/",
-        "teaser": null
-      },{
-        "title": "Mad Group Sdn Bhd Vacancies Operation Supervisor",
-        "excerpt":"Mad Group Sdn Bhd is looking for new potential candidates to fill in for Operation Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Responsibilities:To assist, manage and oversee operations of the villa/training center....","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur","Bentong","Selangor"],
-        "url": "http://localhost:4000/jobs/operation-supervisor-mad-group-sdn-bhd-405827/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Guest Service Associate",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Guest Service Associate position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Upper HousePerform all check-in and check-out tasksManage online and phone...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/guest-service-asociate-jora-jobs-41249/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Housekeeping Attendant",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Attendant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Upper HouseClean guest bedrooms and bathroomsVacuum rooms and corridorsChange and replenish...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/housekeping-atendant-jora-jobs-41247/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Housekeeping Supervisor",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Upper HouseTrain housekeepers on cleaning and maintenance tasksOversee staff on a...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/housekeping-supervisor-jora-jobs-41214/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Internship for Hospitality",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Internship for Hospitality position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Upper HouseJob RequirementCandidate must possess or currently pursuing a Diploma...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/internship-for-hospitality-jora-jobs-412152/",
-        "teaser": null
-      },{
-        "title": "Anantara Desaru Coast Resort & Villas Vacancies Recreation Supervisor ( Yoga & Fitness Instructor )",
-        "excerpt":"Anantara Desaru Coast Resort &amp; Villas is looking for new potential candidates to fill in for Recreation Supervisor ( Yoga &amp; Fitness Instructor ) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Work 5...","categories": ["Jobs"],
-        "tags": ["Johor - Others"],
-        "url": "http://localhost:4000/jobs/recreation-supervisor-yoga-fitnes-instructor-anantara-desaru-coast-resort-vilas-412520/",
-        "teaser": null
-      },{
-        "title": "Thai Odyssey Group Vacancies SENIOR MANAGER, LICENSING",
-        "excerpt":"Thai Odyssey Group is looking for new potential candidates to fill in for SENIOR MANAGER, LICENSING position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Fast growing organizationQuarterly free/discounted MASSAGE!Outstanding career development opportunities Additional Information...","categories": ["Jobs"],
-        "tags": ["Selangor"],
-        "url": "http://localhost:4000/jobs/senior-manager-licensing-thai-odysey-group-412916/",
-        "teaser": null
-      },{
-        "title": "Resorts World Manila Vacancies VIP Host (Mandarin Speaker)",
-        "excerpt":"Resorts World Manila is looking for new potential candidates to fill in for VIP Host (Mandarin Speaker) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Highlights Create the ThrillJoin the country's first integrated resortStart ASAP!...","categories": ["Jobs"],
-        "tags": ["Pasay City","National Capital Reg"],
-        "url": "http://localhost:4000/jobs/vip-host-mandarin-speaker-resorts-world-manila-mandar/",
-        "teaser": null
-      },{
-        "title": "Flamingo Hotel by the beach, Penang Vacancies EXECUTIVE HOUSEKEEPER",
-        "excerpt":"Flamingo Hotel by the beach, Penang is looking for new potential candidates to fill in for EXECUTIVE HOUSEKEEPER position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Job Responsibilities:Ensure smooth and efficient operation of Housekeeping...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/executive-housekeper-flamingo-hotel-by-the-beach-penang-40785/",
-        "teaser": null
-      },{
-        "title": "Grand Hyatt Kuala Lumpur Pastry Chef and Graphic Artist Jobs Vacancies 2020",
-        "excerpt":"Grand Hyatt Kuala Lumpur is looking for suitable candidates for Pastry Chef and Graphic Artist positions available this 2020. About Grand Hyatt Kuala Lumpur* 5-star hotel located in the heart of Kuala Lumpur and 5-mins walk to KLCC &amp; Bukit Bintang. Ideal for both business and leisure travelers, Grand Hyatt...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/grand-hyatt-kl-jobs-vacancies-2020/",
-        "teaser": null
-      },{
-        "title": "Hard Rock Hotel Penang Front Office and F&B Production Crew Jobs Vacancies 2020",
-        "excerpt":"Hard Rock Hotel Penang is looking for suitable candidates for Front Office and F&amp;B Production Crew positions available this 2020. About Hard Rock Hotel Hard Rock is revolutionary! It is a place for rock stars with a great passion for music, work with the best in the industry and add...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/hardrock-penang-jobs-2020/",
-        "teaser": null
-      },{
-        "title": "Hotel Equatorial Penang Jobs Vacancies 2020",
-        "excerpt":"Hotel Equatorial Penang is looking for suitable candidates for many positions available this 2020. About Hotel Equatorial Penang Hotel Equatorial Penang is conveniently located close to the Bayan Lepas industrial zone, offering easy access to Penang International Airport. Let go of your daily stresses and feel revived when you hit...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/hotel-equatorial-penang-jobs-2020/",
-        "teaser": null
-      },{
-        "title": "Iconic Hotel Bukit Mertajam Penang Jobs Vacancies 2020",
-        "excerpt":"Iconic Hotel Bukit Mertajam Penang is looking for suitable candidates for many positions available this 2020. About Iconic Hotel Bukit Mertajam Located at Icon City Bukit Mertajam, one of the hottest and vibrant areas at Mainland Penang, Iconic Hotel is accessible within 5 minutes from Juru Toll Plaza. Vacancies KITCHEN...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/iconic-hotel-bukit-mertajam-penang-jobs-2020/",
-        "teaser": null
-      },{
-        "title": "IXORA Hotel Penang Room Attendant, Security, Steward Jobs Vacancies 2020",
-        "excerpt":"IXORA Hotel Penang is looking for suitable candidates for Room Attendant (Pengemas Bilik), Security (Pengawal Keselamatan) and Steward positions available this 2020. About IXORA Hotel Penang A short 20-minute drive from the hotel is the Bayan Lepas International Airport and Georgetown via the Penang Bridge. Set next to Megamall Pinang,...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/ixora-hotel-penang-crew-attendant-security-job/",
-        "teaser": null
-      },{
-        "title": "Isonex Sdn Bhd Vacancies Concierge / Front-Of-House",
-        "excerpt":"Isonex Sdn Bhd is looking for new potential candidates to fill in for Concierge / Front-Of-House position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Responsibilities:Manage and control the Concierge operation.Attend and register walk-in visitors,...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur"],
-        "url": "http://localhost:4000/jobs/concierge-front-of-house-isonex-sdn-bhd-41417/",
-        "teaser": null
-      },{
-        "title": "Hard Rock Desaru Coast Hotel Chef and Commis Jobs Vacancies 2020",
-        "excerpt":"Hard Rock Desaru Coast Hotel is looking for suitable candidates for Sous Chef, Demi Chef, Hygiene Officer, Commis positions available this 2020. About Hard Rock Desaru Coast A 15-minute walk from white sands at Desaru Beach, this upscale hotel is a minute on foot from Desaru Coast Adventure Waterpark, and...","categories": ["Jobs"],
-        "tags": ["Johor"],
-        "url": "http://localhost:4000/jobs/hard-rock-hotel-desaru-coast-chef-job/",
-        "teaser": null
-      },{
-        "title": "Aust Global Solutions Sdn Bhd Vacancies Housekeeping Assistant Manager/Manager",
-        "excerpt":"Aust Global Solutions Sdn Bhd is looking for new potential candidates to fill in for Housekeeping Assistant Manager/Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description Jobs Responsibilities:&#160;arranges cleaning scheduleinspects homestay cleanlinesshelps to clean...","categories": ["Jobs"],
-        "tags": ["Kuala Lumpur","Selangor"],
-        "url": "http://localhost:4000/jobs/housekeping-asistant-manager-manager-aust-global-solutions-sdn-bhd-413912/",
-        "teaser": null
-      },{
-        "title": "Westin Langkawi Resorts & Spa Housekeeper Jobs Vacancies 2020",
-        "excerpt":"Westin Langkawi Resorts &amp; Spa is looking for suitable candidates for Executive Housekeeper positions available this 2020. Westin Langkawi Resorts &amp; Spa The Westin Langkawi Resort &amp; Spa features 4 outdoor pools, 6 dining options and a recreation center. This beachfront property offers relaxing stays with free WiFi in the...","categories": ["Jobs"],
-        "tags": ["Langkawi","Kedah"],
-        "url": "http://localhost:4000/jobs/westin-langkawi-resorts-spa-housekeeper-job/",
-        "teaser": null
-      },{
-        "title": "Bangi Resort Hotel Selangor Jobs Vacancies 2020",
-        "excerpt":"Bangi Resort Hotel Selangor is hiring for this positions: Assistant Golf Course Superintendent , Golf Course Supervisor, Mechanic / Technician, Cost Control Executive, Kitchen Operations Executive. About Bangi Resort Hotel A picturesque 5-star conference resort, conveniently located midway between Kuala Lumpur International Airport and Kuala Lumpur city centre. Built atop...","categories": ["Jobs"],
-        "tags": ["Selangor"],
-        "url": "http://localhost:4000/jobs/bangi-resort-hotel-jobs-2020/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Front Desk Agent",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Front Desk Agent position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Gallivant HotelWe are looking to hire an upbeat Front Desk...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/front-desk-agent-jora-jobs-414850/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Hospitality Intern",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Hospitality Intern position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Gallivant HotelJob DescriptionResponsible for maintaining a standard of cleanliness throughout a...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/hospitality-intern-jora-jobs-414856/",
-        "teaser": null
-      },{
-        "title": "Jora Jobs Vacancies Housekeeping Supervisor",
-        "excerpt":"Jora Jobs is looking for new potential candidates to fill in for Housekeeping Supervisor position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Job Description The Gallivant HotelJob DescriptionTrain housekeepers on cleaning and maintenance tasksOversee staff on...","categories": ["Jobs"],
-        "tags": ["Penang"],
-        "url": "http://localhost:4000/jobs/housekeping-supervisor-jora-jobs-41484/",
-        "teaser": null
-      },{
         "title": "Mimpi Perhentian Resort Jobs Vacancies 2021",
         "excerpt":"Mimpi Perhentian Resort is hiring for 2021 season. Many positions available such as Concierge, Room Attendance, F&amp;B , Chef, Steward, Maintenance Officer, Technician and Recreation Assistant. About Mimpi Perhentian Resort MIMPI PERHENTIAN in Long Beach on Pulau Perhentian Kecil, features 4-star accommodations with a garden and a restaurant. Directly accessible...","categories": ["Jobs"],
         "tags": ["Terengganu"],
@@ -1937,6 +1451,12 @@ var store = [{
         "url": "http://localhost:4000/jobs/asistant-security-supervisor-wct-hartanah-sdn-bhd-193fa473b96e3b/",
         "teaser": null
       },{
+        "title": "Inter Island Manpower Pte Ltd Job Vacancies 2021 - Chef Management Trainee SGD 2400 X 30pax",
+        "excerpt":"Inter Island Manpower Pte Ltd is looking for new potential candidates to fill in for Chef Management Trainee SGD 2400 X 30pax position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong Inter Island Manpower Pte...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/chef-management-traine-sgd-240-x-30pax-inter-island-manpower-pte-ltd-agement/",
+        "teaser": null
+      },{
         "title": "Antipodean Cafe (Non Halal) Job Vacancies 2021 - Cook",
         "excerpt":"Antipodean Cafe (Non Halal) job vacancies 2021 for Cook position which based in Kuala Lumpur. Jawatan kosong Antipodean Cafe (Non Halal) 2021 terkini untuk kekosongan Cook penempatan di Kuala Lumpur. Vacancy Cook Responsibilities and Duties Prepare ingredients for cooking, including portioning, chopping, and storing foodWash and peel fresh fruits and...","categories": ["Jobs"],
         "tags": ["Kuala Lumpur"],
@@ -1953,6 +1473,12 @@ var store = [{
         "excerpt":"Widebed job vacancies 2021 for Digital Marketer position which based in Kuala Lumpur. Jawatan kosong Widebed 2021 terkini untuk kekosongan Digital Marketer penempatan di Kuala Lumpur. Vacancy Digital Marketer You : Are you interested in the PROPERTY &amp; TOURISM industry? Are you PASSIONATE about SOCIAL MEDIA MARKETING? Can you work...","categories": ["Jobs"],
         "tags": ["Kuala Lumpur"],
         "url": "http://localhost:4000/jobs/digital-marketer-widebed-827042db80954da0/",
+        "teaser": null
+      },{
+        "title": "Inter Island Manpower Pte Ltd Job Vacancies 2021 - F&B Attendant - SGD 1500++ X 30pax",
+        "excerpt":"Inter Island Manpower Pte Ltd is looking for new potential candidates to fill in for F&amp;B Attendant - SGD 1500++ X 30pax position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong Inter Island Manpower Pte...","categories": ["Jobs"],
+        "tags": ["Singapore"],
+        "url": "http://localhost:4000/jobs/f-b-atendant-sgd-150-x-30pax-inter-island-manpower-pte-ltd-ndant-s/",
         "teaser": null
       },{
         "title": "Katel Kuala Lumpur Job Vacancies 2021 - Front Desk Officer & Guest Experience Ambassador (Part-Time...",
@@ -1977,6 +1503,12 @@ var store = [{
         "excerpt":"Maobulous Cat Boutique Hotel &amp; Spa job vacancies 2021 for FULL TIME Cat Hotel Assistant position which based in Subang Jaya. Jawatan kosong Maobulous Cat Boutique Hotel &amp; Spa 2021 terkini untuk kekosongan FULL TIME Cat Hotel Assistant penempatan di Subang Jaya. Vacancy FULL TIME Cat Hotel Assistant *ONLY SERIOUS...","categories": ["Jobs"],
         "tags": ["Subang Jaya"],
         "url": "http://localhost:4000/jobs/ful-time-cat-hotel-asistant-maobulous-cat-boutique-hotel-spa-8e04d5a701b260d/",
+        "teaser": null
+      },{
+        "title": "Hilton Garden Inn Puchong Jobs Vacancies 2021 - Kitchen",
+        "excerpt":"Hilton Garden Inn Puchong job vacancies 2021 for Sous Chef, Chef de Partie, Commis 2, and Part-Timer (Kitchen / HSK / FB) positions About In a leafy residential area, Hilton Garden Inn Puchong hotel is 6 minutes’ walk from a metro station, 12 km from scenic views at Ayer Hitam...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/hilton-garden-inn-puchong-jobs-2021/",
         "teaser": null
       },{
         "title": "M ROOF HOTEL & RESIDENCES IPOH Job Vacancies 2021 - HOUSEKEEPING ATTENDANT",
@@ -2007,5 +1539,725 @@ var store = [{
         "excerpt":"ICONIX Property &amp; Asset Management SB job vacancies 2021 for Tenant Management / Coordinator position which based in Kota Damansara. Jawatan kosong ICONIX Property &amp; Asset Management SB 2021 terkini untuk kekosongan Tenant Management / Coordinator penempatan di Kota Damansara. Vacancy Tenant Management / Coordinator List-ID: 87901420Today 07:25 Job Description...","categories": ["Jobs"],
         "tags": ["Kota Damansara"],
         "url": "http://localhost:4000/jobs/tenant-management-cordinator-iconix-property-aset-management-sb-50828d3cb2ece697/",
+        "teaser": null
+      },{
+        "title": "The Datai Langkawi Luxury Beach Resort Jobs 2021 - IT Trainee",
+        "excerpt":"The Datai Langkawi Luxury Beach Resort job vacancies 2021 for IT Trainee. About The Datai Langkawi, located in the heart of the rainforest, is a 5 star beach resort with nature, sustainability, wellness and fine dining at its core. On 28 hectares of rainforest and beachfront grounds along Datai Bay,...","categories": ["Jobs"],
+        "tags": ["Langkawi"],
+        "url": "http://localhost:4000/jobs/the-datai-langkawi-job-vacancy-trainee-it/",
+        "teaser": null
+      },{
+        "title": "MAYGOYA (GARDEN HOTEL) SDN BHD Job Vacancies 2021 - ADMIN CLERK",
+        "excerpt":"MAYGOYA (GARDEN HOTEL) SDN BHD job vacancies 2021 for ADMIN CLERK position which based in Sibu. Jawatan kosong MAYGOYA (GARDEN HOTEL) SDN BHD 2021 terkini untuk kekosongan ADMIN CLERK penempatan di Sibu. Vacancy ADMIN CLERK - to carry out general admin work - knowledge of basic accounting - Chinese preferred...","categories": ["Jobs"],
+        "tags": ["Sibu"],
+        "url": "http://localhost:4000/jobs/admin-clerk-maygoya-garden-hotel-sdn-bhd-ef068a3213d0e498/",
+        "teaser": null
+      },{
+        "title": "Horizon Hotel Job Vacancies 2021 - Associates (Various Department)",
+        "excerpt":"Horizon Hotel job vacancies 2021 for Associates (Various Department) position which based in Kota Kinabalu. Jawatan kosong Horizon Hotel 2021 terkini untuk kekosongan Associates (Various Department) penempatan di Kota Kinabalu. Vacancy Associates (Various Department) Join the Team! We are looking for passionate individuals to join our team. We has several...","categories": ["Jobs"],
+        "tags": ["Kota Kinabalu"],
+        "url": "http://localhost:4000/jobs/asociates-various-department-horizon-hotel-d9078f80a3a329e/",
+        "teaser": null
+      },{
+        "title": "CLUB MED CHERATING Job Vacancies 2021 - COMMIS",
+        "excerpt":"CLUB MED CHERATING job vacancies 2021 for COMMIS position which based in Kuantan. Jawatan kosong CLUB MED CHERATING 2021 terkini untuk kekosongan COMMIS penempatan di Kuantan. Vacancy COMMIS As a Commis II you are responsible for the daily food preparation and duties assigned to meet the set standard and qualities...","categories": ["Jobs"],
+        "tags": ["Kuantan"],
+        "url": "http://localhost:4000/jobs/comis-club-med-cherating-32ded591c35750d/",
+        "teaser": null
+      },{
+        "title": "Banyan Tree Hotels & Resorts Job Vacancies 2021 - Demi Chef de Partie",
+        "excerpt":"Banyan Tree Hotels &amp; Resorts job vacancies 2021 for Demi Chef de Partie position which based in Teluk Bahang. Jawatan kosong Banyan Tree Hotels &amp; Resorts 2021 terkini untuk kekosongan Demi Chef de Partie penempatan di Teluk Bahang. Vacancy Demi Chef de Partie The Demi Chef de Partie supports the...","categories": ["Jobs"],
+        "tags": ["Teluk Bahang"],
+        "url": "http://localhost:4000/jobs/demi-chef-de-partie-banyan-tre-hotels-resorts-e28c7f6756f2f16a/",
+        "teaser": null
+      },{
+        "title": "Ming Garden Hotel & Residences Job Vacancies 2021 - Desk Clerk",
+        "excerpt":"Ming Garden Hotel &amp; Residences job vacancies 2021 for Desk Clerk position which based in Kota Kinabalu. Jawatan kosong Ming Garden Hotel &amp; Residences 2021 terkini untuk kekosongan Desk Clerk penempatan di Kota Kinabalu. Vacancy Desk Clerk Perform Desk Clerk Task. Paperwork and operation. Familiar with Microsoft Word and Excel....","categories": ["Jobs"],
+        "tags": ["Kota Kinabalu"],
+        "url": "http://localhost:4000/jobs/desk-clerk-ming-garden-hotel-residences-be3a318493b62e90/",
+        "teaser": null
+      },{
+        "title": "PROJECT 10 SDN. BHD. Job Vacancies 2021 - Front Office Assistant",
+        "excerpt":"PROJECT 10 SDN. BHD. is looking for new potential candidates to fill in for Front Office Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong PROJECT 10 SDN. BHD. 2021 terkini untuk kekosongan Front...","categories": ["Jobs"],
+        "tags": ["George Town"],
+        "url": "http://localhost:4000/jobs/front-ofice-asistant-project-10-sdn-bhd-454894/",
+        "teaser": null
+      },{
+        "title": "REDANG REEF RESORT TRAVEL & TOURS SDN BHD Job Vacancies 2021 - General worker",
+        "excerpt":"REDANG REEF RESORT TRAVEL &amp; TOURS SDN BHD job vacancies 2021 for General worker position which based in Kuala Terengganu. Jawatan kosong REDANG REEF RESORT TRAVEL &amp; TOURS SDN BHD 2021 terkini untuk kekosongan General worker penempatan di Kuala Terengganu. Vacancy General worker List-ID: 87920924Today 10:02 Job Description *JOB AT...","categories": ["Jobs"],
+        "tags": ["Kuala Terengganu"],
+        "url": "http://localhost:4000/jobs/general-worker-redang-ref-resort-travel-tours-sdn-bhd-7a76c2a826464d4/",
+        "teaser": null
+      },{
+        "title": "Kelab Golf Negara Subang Job Vacancies 2021 - Golf Course Marshal (Contract)",
+        "excerpt":"Kelab Golf Negara Subang is looking for new potential candidates to fill in for Golf Course Marshal (Contract) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong Kelab Golf Negara Subang 2021 terkini untuk kekosongan...","categories": ["Jobs"],
+        "tags": ["Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/golf-course-marshal-contract-kelab-golf-negara-subang-452080/",
+        "teaser": null
+      },{
+        "title": "Hatten Hotel Melaka Jobs Career Opportunities 2021",
+        "excerpt":"Join Hatten Hotel and enhance your career as an hotelier this 2021 year! Offering attractive remuneration package and a fun working environment, for potential candidates. About An 8-minute walk from revolving Taming Sari Tower, this chic all-suites hotel is also 2 km from Cheng Hoon Teng Chinese temple and a...","categories": ["Jobs"],
+        "tags": ["Melaka"],
+        "url": "http://localhost:4000/jobs/hatten-hotel-melaka-jobs-career-opportunities-2021/",
+        "teaser": null
+      },{
+        "title": "Hilton Kuala Lumpur Hotel Jobs Vacancies 2021 Room Division",
+        "excerpt":"Hilton Kuala Lumpur Hotel jobs vacancies 2021 for Room Attendant, Rooms Team Leader, and Front Office Assistant. About Hilton Kuala Lumpur Opposite KL Sentral train station, Hilton Kuala Lumpur with views of Lake Perdana is 2 km from Merdeka Square and 5 km from the iconic Petronas Twin Towers. Vacancies...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/hilton-kuala-lumpur-hotel-jobs-vacancies-2021-rooms-division/",
+        "teaser": null
+      },{
+        "title": "H Boutique Hotel Group Job Vacancies 2021 - Hotel Receptionist",
+        "excerpt":"H Boutique Hotel Group job vacancies 2021 for Hotel Receptionist position which based in Sri Petaling. Jawatan kosong H Boutique Hotel Group 2021 terkini untuk kekosongan Hotel Receptionist penempatan di Sri Petaling. Vacancy Hotel Receptionist Perform Check-In and Check-OutWelcome and greet guestCash handlingTaking room reservation for guest by phone,email and...","categories": ["Jobs"],
+        "tags": ["Sri Petaling"],
+        "url": "http://localhost:4000/jobs/hotel-receptionist-h-boutique-hotel-group-48364a5d6960456b/",
+        "teaser": null
+      },{
+        "title": "AVI PANGKOR BEACH RESORT, PULAU PANGKOR, PERAK Job Vacancies 2021 - Internship for Hotel Management",
+        "excerpt":"AVI PANGKOR BEACH RESORT, PULAU PANGKOR, PERAK job vacancies 2021 for Internship for Hotel Management position which based in Manjung. Jawatan kosong AVI PANGKOR BEACH RESORT, PULAU PANGKOR, PERAK 2021 terkini untuk kekosongan Internship for Hotel Management penempatan di Manjung. Vacancy Internship for Hotel Management We are currently looking for...","categories": ["Jobs"],
+        "tags": ["Manjung"],
+        "url": "http://localhost:4000/jobs/internship-for-hotel-management-avi-pangkor-beach-resort-pulau-pangkor-perak-dar-278a52cb8b804a/",
+        "teaser": null
+      },{
+        "title": "MAYGOYA (GARDEN HOTEL) SDN BHD Job Vacancies 2021 - KITCHEN HELPER",
+        "excerpt":"MAYGOYA (GARDEN HOTEL) SDN BHD job vacancies 2021 for KITCHEN HELPER position which based in Sibu. Jawatan kosong MAYGOYA (GARDEN HOTEL) SDN BHD 2021 terkini untuk kekosongan KITCHEN HELPER penempatan di Sibu. Vacancy KITCHEN HELPER - some working experience in the related field - willing to work according to shift,...","categories": ["Jobs"],
+        "tags": ["Sibu"],
+        "url": "http://localhost:4000/jobs/kitchen-helper-maygoya-garden-hotel-sdn-bhd-bd1f83fc3c85d93/",
+        "teaser": null
+      },{
+        "title": "Banyan Tree Hotels & Resorts Job Vacancies 2021 - Steward",
+        "excerpt":"Banyan Tree Hotels &amp; Resorts job vacancies 2021 for Steward position which based in Teluk Bahang. Jawatan kosong Banyan Tree Hotels &amp; Resorts 2021 terkini untuk kekosongan Steward penempatan di Teluk Bahang. Vacancy Steward The Steward takes ownership of all Stewarding activities in ensuring that the Food and Beverage operations...","categories": ["Jobs"],
+        "tags": ["Teluk Bahang"],
+        "url": "http://localhost:4000/jobs/steward-banyan-tre-hotels-resorts-f512756a8784a19/",
+        "teaser": null
+      },{
+        "title": "Crown Garden Hotel Job Vacancies 2021 - Steward",
+        "excerpt":"Crown Garden Hotel job vacancies 2021 for Steward position which based in Kota Bharu. Jawatan kosong Crown Garden Hotel 2021 terkini untuk kekosongan Steward penempatan di Kota Bharu. Vacancy Steward - Boleh bekerja lebih masa - boleh bekerja dibawah tekanan Job Types: Full-time, Permanent, Contract Salary: From RM1,200.00 per month...","categories": ["Jobs"],
+        "tags": ["Kota Bharu"],
+        "url": "http://localhost:4000/jobs/steward-crown-garden-hotel-0148946c60edb7a/",
+        "teaser": null
+      },{
+        "title": "Zenith Cameron Hotel Vacancies 2021 - Open Interview 07-Jan-2021",
+        "excerpt":"Happy 2021! Let’s embrace new hopes, opportunities &amp; positivity this year. In collaboration with SOCSO Tapah Office, Zenith Hotel pleased to invite all job seekers to attend our open interview on 7 January 2021 (Thursday) in Zenith Cameron. Open Interview Date: 07th January 20221 (Thursday) Time: 8.30 - 4.00 PM...","categories": ["Jobs"],
+        "tags": ["Pahang"],
+        "url": "http://localhost:4000/jobs/zenith-cameron-hotel-open-interview-vacancies/",
+        "teaser": null
+      },{
+        "title": "Bangi Resort Hotel Jobs Vacancies 2021 for Engineering Team",
+        "excerpt":"Bangi Resort Hotel jobs vacancies 2021 for Engineering Team. About Bangi Resort Hotel A picturesque 5-star conference resort, conveniently located midway between Kuala Lumpur International Airport and Kuala Lumpur city centre. Built atop Bandar Baru Bangi’s highest peak, it is surrounded by a 27-hole championship golf course, lush tropical greens...","categories": ["Jobs"],
+        "tags": ["Selangor"],
+        "url": "http://localhost:4000/jobs/bangi-resort-hotel-jobs-2021-engineering-team/",
+        "teaser": null
+      },{
+        "title": "Senja Bay Resort Job Vacancies 2021 - Cook/Tukang Masak",
+        "excerpt":"Senja Bay Resort job vacancies 2021 for Cook/Tukang Masak position which based in Besut. Jawatan kosong Senja Bay Resort 2021 terkini untuk kekosongan Cook/Tukang Masak penempatan di Besut. Vacancy Cook/Tukang Masak List-ID: 85431065Yesterday 18:29 Job Description Umur tidak melebihi 50 tahun Pengalaman bekerja memasak tidak kurang dari 2 tahun Ada...","categories": ["Jobs"],
+        "tags": ["Besut"],
+        "url": "http://localhost:4000/jobs/cok-tukang-masak-senja-bay-resort-f827c173713eb4fb/",
+        "teaser": null
+      },{
+        "title": "SOFITEL Job Vacancies 2021 - DIRECTOR OF SALES & MARKETING",
+        "excerpt":"SOFITEL job vacancies 2021 for DIRECTOR OF SALES &amp; MARKETING position which based in Kuala Lumpur. Jawatan kosong SOFITEL 2021 terkini untuk kekosongan DIRECTOR OF SALES &amp; MARKETING penempatan di Kuala Lumpur. Vacancy DIRECTOR OF SALES &amp; MARKETING Job Description Lead the team to drive total hotel revenue and take...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/director-of-sales-marketing-sofitel-d58ce0c9d2acfd2/",
+        "teaser": null
+      },{
+        "title": "DoubleTree Resort By Hilton Penang Jobs Vacancies 2021",
+        "excerpt":"DoubleTree Resort By Hilton Penang job vacancies 2021 for Sales Coordinator, Assistant Chief Steward and Hygiene Executive / Manager position. About Overlooking the Malacca Strait, our hotel is adjacent to Miami Beach, connected by a footbridge. A block from Miami Beach, this upmarket, modern hotel enclosed by forest is 9...","categories": ["Jobs"],
+        "tags": ["Penang"],
+        "url": "http://localhost:4000/jobs/doubletree-resort-by-hilton-penang-hotel-jobs-2021/",
+        "teaser": null
+      },{
+        "title": "Anantara Job Vacancies 2021 - Duty Engineer",
+        "excerpt":"Anantara job vacancies 2021 for Duty Engineer position which based in Johor. Jawatan kosong Anantara 2021 terkini untuk kekosongan Duty Engineer penempatan di Johor. Vacancy Duty Engineer Company Description A luxury hospitality brand for modern travellers, Anantara connects guests to genuine places, people and stories through personal experiences and providing...","categories": ["Jobs"],
+        "tags": ["Johor"],
+        "url": "http://localhost:4000/jobs/duty-enginer-anantara-5d6c8b217db25dcf/",
+        "teaser": null
+      },{
+        "title": "Bayview Hotel Melaka Job Vacancies 2021 - Duty Manager / Front Office Executive",
+        "excerpt":"Bayview Hotel Melaka job vacancies 2021 for Duty Manager / Front Office Executive position which based in Melaka. Jawatan kosong Bayview Hotel Melaka 2021 terkini untuk kekosongan Duty Manager / Front Office Executive penempatan di Melaka. Vacancy Duty Manager / Front Office Executive Job Descriptions &#183; Excellent skills in customer...","categories": ["Jobs"],
+        "tags": ["Melaka"],
+        "url": "http://localhost:4000/jobs/duty-manager-front-ofice-executive-bayview-hotel-melaka-4735d29314d04b4/",
+        "teaser": null
+      },{
+        "title": "SOFITEL Job Vacancies 2021 - EXECUTIVE CHEF",
+        "excerpt":"SOFITEL job vacancies 2021 for EXECUTIVE CHEF position which based in Kuala Lumpur. Jawatan kosong SOFITEL 2021 terkini untuk kekosongan EXECUTIVE CHEF penempatan di Kuala Lumpur. Vacancy EXECUTIVE CHEF Job Description Reporting to the General Manager, the Executive Chef is a key member of the hotel&#8217;s executive committee and is...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/executive-chef-sofitel-92ed60f010dc3cf6/",
+        "teaser": null
+      },{
+        "title": "Care Luxury Hotels & Resorts Job Vacancies 2021 - Food & Beverage Assistant",
+        "excerpt":"Care Luxury Hotels &amp; Resorts job vacancies 2021 for Food &amp; Beverage Assistant position which based in Malaysia. Jawatan kosong Care Luxury Hotels &amp; Resorts 2021 terkini untuk kekosongan Food &amp; Beverage Assistant penempatan di Malaysia. Vacancy Food &amp; Beverage Assistant Greet and seat guests Clearing and setting tables Assist...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/fod-beverage-asistant-care-luxury-hotels-resorts-258672c8e5273a/",
+        "teaser": null
+      },{
+        "title": "Care Luxury Hotels & Resorts Job Vacancies 2021 - Food & Beverage Captain",
+        "excerpt":"Care Luxury Hotels &amp; Resorts job vacancies 2021 for Food &amp; Beverage Captain position which based in Malaysia. Jawatan kosong Care Luxury Hotels &amp; Resorts 2021 terkini untuk kekosongan Food &amp; Beverage Captain penempatan di Malaysia. Vacancy Food &amp; Beverage Captain Assists in developing, planning, and ensuring the implementation of...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/fod-beverage-captain-care-luxury-hotels-resorts-e848fe0576934651/",
+        "teaser": null
+      },{
+        "title": "Grand Hyatt Kuala Lumpur Hotel Jobs Vacancies 2021",
+        "excerpt":"GRAND HYATT KUALA LUMPUR INVITING talents. Grand Hyatt Kuala Lumpur Hotel jobs vacancies for January 2021 for Front Office, Telephone Operator, Housekeeping, Bartender, Waiter/Waitress, Security Officer and IT Executive Vacancies Grand Hyatt Kuala Lumpur continue to build a dynamic, passionate and customer-focused team and are inviting applicants for the following...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Feature"],
+        "url": "http://localhost:4000/jobs/grand-hyatt-kuala-lumpur-jobs-vacancies-jan-2021/",
+        "teaser": null
+      },{
+        "title": "PARKROYAL Penang Resort Job Vacancies 2021 - Guest Experience Manager - Front Office",
+        "excerpt":"PARKROYAL Penang Resort job vacancies 2021 for Guest Experience Manager - Front Office position which based in Batu Ferringhi. Jawatan kosong PARKROYAL Penang Resort 2021 terkini untuk kekosongan Guest Experience Manager - Front Office penempatan di Batu Ferringhi. Vacancy Guest Experience Manager - Front Office Responsibilities: Responsible for creating memorable...","categories": ["Jobs"],
+        "tags": ["Batu Ferringhi"],
+        "url": "http://localhost:4000/jobs/guest-experience-manager-front-ofice-parkroyal-penang-resort-519d8a4e0c09879f/",
+        "teaser": null
+      },{
+        "title": "AMAN TIOMAN BEACH RESORT SDN. BHD. Job Vacancies 2021 - Guest Service Assistant (Hotel Industry)",
+        "excerpt":"AMAN TIOMAN BEACH RESORT SDN. BHD. is looking for new potential candidates to fill in for Guest Service Assistant (Hotel Industry) position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong AMAN TIOMAN BEACH RESORT SDN....","categories": ["Jobs"],
+        "tags": ["Pahang - Others"],
+        "url": "http://localhost:4000/jobs/guest-service-asistant-hotel-industry-aman-tioman-beach-resort-sdn-bhd-46858/",
+        "teaser": null
+      },{
+        "title": "Treasures Hotel and Suites Job Vacancies 2021 - Guest Service Associate",
+        "excerpt":"Treasures Hotel and Suites job vacancies 2021 for Guest Service Associate position which based in Melaka. Jawatan kosong Treasures Hotel and Suites 2021 terkini untuk kekosongan Guest Service Associate penempatan di Melaka. Vacancy Guest Service Associate Job Description Entry-level operations job at the hotel. Work with Guests to create great...","categories": ["Jobs"],
+        "tags": ["Melaka"],
+        "url": "http://localhost:4000/jobs/guest-service-asociate-treasures-hotel-and-suites-3ba1ca5423b0ce8d/",
+        "teaser": null
+      },{
+        "title": "Hard Rock Desaru Coast Hotel Jobs Vacancies 2021",
+        "excerpt":"Hard Rock Desaru Coast Hotel jobs vacancies 2021. Hard Rock Desaru Coast hotel is hiring for suitable candidates for Room Attendant, Chef de Partie (Western and Pastry), Commis 1, Front Office Attendant. About Hard Rock Desaru Coast A 15-minute walk from white sands at Desaru Beach, this upscale hotel is...","categories": ["Jobs"],
+        "tags": ["Johor","Feature"],
+        "url": "http://localhost:4000/jobs/hard-rock-hotel-desaru-coast-johor-jobs-2021/",
+        "teaser": null
+      },{
+        "title": "ORIENTAL CRYSTAL HOTEL Job Vacancies 2021 - HOUSEKEEPING ASSISTANT",
+        "excerpt":"ORIENTAL CRYSTAL HOTEL job vacancies 2021 for HOUSEKEEPING ASSISTANT position which based in Kajang. Jawatan kosong ORIENTAL CRYSTAL HOTEL 2021 terkini untuk kekosongan HOUSEKEEPING ASSISTANT penempatan di Kajang. Vacancy HOUSEKEEPING ASSISTANT To assist your Supervisor in the daily Housekeeping work.To be responsible &amp; maintain a high standard of Hotel Rooms...","categories": ["Jobs"],
+        "tags": ["Kajang"],
+        "url": "http://localhost:4000/jobs/housekeping-asistant-oriental-crystal-hotel-d91b39c2b3dcd2b2/",
+        "teaser": null
+      },{
+        "title": "Care Luxury Hotels & Resorts Job Vacancies 2021 - Housekeeping Room Attendant",
+        "excerpt":"Care Luxury Hotels &amp; Resorts job vacancies 2021 for Housekeeping Room Attendant position which based in Malaysia. Jawatan kosong Care Luxury Hotels &amp; Resorts 2021 terkini untuk kekosongan Housekeeping Room Attendant penempatan di Malaysia. Vacancy Housekeeping Room Attendant Respond promptly to requests from guests and other departments Fill cart with...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/housekeping-rom-atendant-care-luxury-hotels-resorts-369c8cbae4578a9/",
+        "teaser": null
+      },{
+        "title": "ORIENTAL CRYSTAL HOTEL Job Vacancies 2021 - KITCHEN HELPER",
+        "excerpt":"ORIENTAL CRYSTAL HOTEL job vacancies 2021 for KITCHEN HELPER position which based in Kajang. Jawatan kosong ORIENTAL CRYSTAL HOTEL 2021 terkini untuk kekosongan KITCHEN HELPER penempatan di Kajang. Vacancy KITCHEN HELPER 1)Performs any combination of following duties to maintain kitchen work areas and restaurant equipment and utensils in clean and...","categories": ["Jobs"],
+        "tags": ["Kajang"],
+        "url": "http://localhost:4000/jobs/kitchen-helper-oriental-crystal-hotel-5dbf172d7e6d04d/",
+        "teaser": null
+      },{
+        "title": "Esther Postpartum Care Sdn Bhd Job Vacancies 2021 - Operation Manager",
+        "excerpt":"Esther Postpartum Care Sdn Bhd is looking for new potential candidates to fill in for Operation Manager position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong Esther Postpartum Care Sdn Bhd 2021 terkini untuk kekosongan...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/operation-manager-esther-postpartum-care-sdn-bhd-45656/",
+        "teaser": null
+      },{
+        "title": "Senja Bay Resort Job Vacancies 2021 - Receptionist/Penyambut Tetamu",
+        "excerpt":"Senja Bay Resort job vacancies 2021 for Receptionist/Penyambut Tetamu position which based in Besut. Jawatan kosong Senja Bay Resort 2021 terkini untuk kekosongan Receptionist/Penyambut Tetamu penempatan di Besut. Vacancy Receptionist/Penyambut Tetamu List-ID: 87934909Yesterday 19:09 Job Description Prepare arrival and departure lists Coordinate with all departments regarding arrivals, meals, departures Check...","categories": ["Jobs"],
+        "tags": ["Besut"],
+        "url": "http://localhost:4000/jobs/receptionist-penyambut-tetamu-senja-bay-resort-c0e4327a47e82105/",
+        "teaser": null
+      },{
+        "title": "Care Luxury Hotels & Resorts Job Vacancies 2021 - Technician",
+        "excerpt":"Care Luxury Hotels &amp; Resorts job vacancies 2021 for Technician position which based in Malaysia. Jawatan kosong Care Luxury Hotels &amp; Resorts 2021 terkini untuk kekosongan Technician penempatan di Malaysia. Vacancy Technician Must perform task like repairing of various equipment&#8217;s and materials, replacement of electronics, painting, cleaning or wiring work....","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/technician-care-luxury-hotels-resorts-dab626d594ce8f02/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Job Vacancies 2021 - Assistant Tradesman",
+        "excerpt":"Genting Malaysia Berhad job vacancies 2021 for Assistant Tradesman position which based in Genting Highlands. Jawatan kosong Genting Malaysia Berhad 2021 terkini untuk kekosongan Assistant Tradesman penempatan di Genting Highlands. Vacancy Assistant Tradesman Genting Malaysia Berhad Genting Malaysia is a leading multinational conglomerate that is principally involved in the leisure...","categories": ["Jobs"],
+        "tags": ["Genting Highlands"],
+        "url": "http://localhost:4000/jobs/asistant-tradesman-genting-malaysia-berhad-369b1e68b8c3584/",
+        "teaser": null
+      },{
+        "title": "Bangi Resort Hotel Jobs Vacancies 2021 for Sales, Kitchen, Food and Beverage Teams",
+        "excerpt":"Bangi Resort Hotel jobs vacancies 2021 for Sales, Kitchen, Food and Beverage Teams. About Bangi Resort Hotel A picturesque 5-star conference resort, conveniently located midway between Kuala Lumpur International Airport and Kuala Lumpur city centre. Built atop Bandar Baru Bangi’s highest peak, it is surrounded by a 27-hole championship golf...","categories": ["Jobs"],
+        "tags": ["Selangor","Feature"],
+        "url": "http://localhost:4000/jobs/bangi-resort-hotel-jobs-vacancies-2021-sales-kitchen-fnb/",
+        "teaser": null
+      },{
+        "title": "Renaissance Kuala Lumpur Hotel Job Vacancies 2021 - Chef De Cuisine - Authentic Sichuan Food",
+        "excerpt":"Renaissance Kuala Lumpur Hotel job vacancies 2021 for Chef De Cuisine - Authentic Sichuan Food position which based in Kuala Lumpur. Jawatan kosong Renaissance Kuala Lumpur Hotel 2021 terkini untuk kekosongan Chef De Cuisine - Authentic Sichuan Food penempatan di Kuala Lumpur. Vacancy Chef De Cuisine - Authentic Sichuan Food...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/chef-de-cuisine-authentic-sichuan-fod-mariot-international-inc-327c59d5f4b417f/",
+        "teaser": null
+      },{
+        "title": "Renaissance Kuala Lumpur Hotel Job Vacancies 2021 - Chef De Cuisine - Modern Australian Cuisine",
+        "excerpt":"Renaissance Kuala Lumpur Hotel job vacancies 2021 for Chef De Cuisine - Modern Australian Cuisine position which based in Kuala Lumpur. Jawatan kosong Renaissance Kuala Lumpur Hotel 2021 terkini untuk kekosongan Chef De Cuisine - Modern Australian Cuisine penempatan di Kuala Lumpur. Vacancy Chef De Cuisine - Modern Australian Cuisine...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/chef-de-cuisine-modern-australian-cuisine-mariot-international-inc-ba9edf83ac8d929/",
+        "teaser": null
+      },{
+        "title": "Renaissance Kuala Lumpur Hotel Job Vacancies 2021 - Cluster Director of Marketing",
+        "excerpt":"Renaissance Kuala Lumpur Hoteljob vacancies 2021 for Cluster Director of Marketing position which based in Kuala Lumpur. Jawatan kosong Renaissance Kuala Lumpur Hotel 2021 terkini untuk kekosongan Cluster Director of Marketing penempatan di Kuala Lumpur. Vacancy Cluster Director of Marketing Posting Date Jan 04, 2021 Job Number 21000702 Job Category...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/cluster-director-of-marketing-mariot-international-inc-2818101fa20e2495/",
+        "teaser": null
+      },{
+        "title": "Renaissance Kuala Lumpur Hotel Job Vacancies 2021 - Cluster Director of Rooms",
+        "excerpt":"Renaissance Kuala Lumpur Hotel job vacancies 2021 for Cluster Director of Rooms position which based in Kuala Lumpur. Jawatan kosong Renaissance Kuala Lumpur Hotel 2021 terkini untuk kekosongan Cluster Director of Rooms penempatan di Kuala Lumpur. Vacancy Cluster Director of Rooms Posting Date Jan 04, 2021 Job Number 21000694 Job...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/cluster-director-of-roms-mariot-international-inc-d6b841fcec691e2/",
+        "teaser": null
+      },{
+        "title": "Renaissance Kuala Lumpur Hotel Job Vacancies 2021 - Cluster Director of Sales & Marketing",
+        "excerpt":"Renaissance Kuala Lumpur Hotel job vacancies 2021 for Cluster Director of Sales &amp; Marketing position which based in Kuala Lumpur. Jawatan kosong Renaissance Kuala Lumpur Hotel 2021 terkini untuk kekosongan Cluster Director of Sales &amp; Marketing penempatan di Kuala Lumpur. Vacancy Cluster Director of Sales &amp; Marketing Posting Date Jan...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/cluster-director-of-sales-marketing-mariot-international-inc-e4868f436de1df5/",
+        "teaser": null
+      },{
+        "title": "Renaissance Kuala Lumpur Hotel Job Vacancies 2021 - Cluster Hotel Manager",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Cluster Hotel Manager position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Cluster Hotel Manager penempatan di Kuala Lumpur. Vacancy Cluster Hotel Manager Posting Date Jan 04, 2021 Job Number 21000679 Job Category Property Leadership Location Renaissance...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/cluster-hotel-manager-mariot-international-inc-82f848af94e491a9/",
+        "teaser": null
+      },{
+        "title": "Four Points by Sheraton Kuala Lumpur Chinatown Job Vacancies 2021 - Commis II",
+        "excerpt":"Four Points by Sheraton Kuala Lumpur Chinatown job vacancies 2021 for Commis II position which based in Kuala Lumpur. Jawatan kosong Four Points by Sheraton Kuala Lumpur Chinatown 2021 terkini untuk kekosongan Commis II penempatan di Kuala Lumpur. Vacancy Commis II Posting Date Jan 05, 2021 Job Number 21001014 Job...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/comis-i-mariot-international-inc-215c86c06ca730/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Job Vacancies 2021 - Delivery Assistant",
+        "excerpt":"Genting Malaysia Berhad job vacancies 2021 for Delivery Assistant position which based in Genting Highlands. Jawatan kosong Genting Malaysia Berhad 2021 terkini untuk kekosongan Delivery Assistant penempatan di Genting Highlands. Vacancy Delivery Assistant Genting Malaysia Berhad Genting Malaysia is a leading multinational conglomerate that is principally involved in the leisure...","categories": ["Jobs"],
+        "tags": ["Genting Highlands"],
+        "url": "http://localhost:4000/jobs/delivery-asistant-genting-malaysia-berhad-34739cd152a349/",
+        "teaser": null
+      },{
+        "title": "Widebed Job Vacancies 2021 - Homestay Housekeeper",
+        "excerpt":"Widebed job vacancies 2021 for Homestay Housekeeper position which based in Kuala Lumpur. Jawatan kosong Widebed 2021 terkini untuk kekosongan Homestay Housekeeper penempatan di Kuala Lumpur. Vacancy Homestay Housekeeper You : Are you interested in the HOME SHARING &amp; short-term rental industry? Are you PASSIONATE about Hospitality? Can you work...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/homestay-housekeper-widebed-d027159403a6e56c/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Job Vacancies 2021 - Housekeeping Assistant",
+        "excerpt":"Genting Malaysia Berhad is looking for new potential candidates to fill in for Housekeeping Assistant position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong Genting Malaysia Berhad 2021 terkini untuk kekosongan Housekeeping Assistant. Job Description...","categories": ["Jobs"],
+        "tags": ["Pahang"],
+        "url": "http://localhost:4000/jobs/housekeping-asistant-genting-malaysia-berhad-45957/",
+        "teaser": null
+      },{
+        "title": "Le Meridien Putrajaya Jobs Vacancies 2021 - Guess Services Manager and Agent",
+        "excerpt":"Le Meridien Putrajaya jobs vacancies 2021. Hiring for Guess Services Manager and Guess Services Agent About Adjacent to the IOI City Mall off the E26 Highway, this sleek, modern high-rise hotel 7 km from Putrajaya Wetlands Park and 35 km from Kuala Lumpur International Airport. Vacancy Guess Services Manager Guess...","categories": ["Jobs"],
+        "tags": ["Putrajaya","Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/le-meridien-putrajaya-jobs-2021-guest-services/",
+        "teaser": null
+      },{
+        "title": "Raia Hotels Jobs Vacancy 2021 - Marketing & Communication Manager",
+        "excerpt":"Raia Hotel jobs vacancies 2021 - Marketing &amp; Communication Manager position. About Raia Hotels are located in the main cities of four States in Malaysia, Alor Setar, Kedah; Bayan Lepas, Pulau Pinang; Kuala Terengganu, Terengganu &amp; Kota Kinabalu, Sabah which foster a sense of local hospitality. Vacancy Marketing &amp; Communications...","categories": ["Jobs"],
+        "tags": ["Kedah","Penang","Terengganu","Sabah"],
+        "url": "http://localhost:4000/jobs/raia-hotel-kuala-lumpur-jobs-marcom-manager/",
+        "teaser": null
+      },{
+        "title": "The St. Regis Kuala Lumpur Job Vacancies 2021 - Room Attendant",
+        "excerpt":"The St. Regis Kuala Lumpur job vacancies 2021 for Room Attendant position which based in Kuala Lumpur. Jawatan kosong The St. Regis Kuala Lumpur 2021 terkini untuk kekosongan Room Attendant penempatan di Kuala Lumpur. Vacancy Room Attendant Posting Date Jan 05, 2021 Job Number 21000993 Job Category Housekeeping &amp; Laundry...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/rom-atendant-mariot-international-inc-41ab12034c4e081c/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Job Vacancies 2021 - Store Assistant",
+        "excerpt":"Genting Malaysia Berhad job vacancies 2021 for Store Assistant position which based in Genting Highlands. Jawatan kosong Genting Malaysia Berhad 2021 terkini untuk kekosongan Store Assistant penempatan di Genting Highlands. Vacancy Store Assistant Genting Malaysia Berhad Genting Malaysia is a leading multinational conglomerate that is principally involved in the leisure...","categories": ["Jobs"],
+        "tags": ["Genting Highlands"],
+        "url": "http://localhost:4000/jobs/store-asistant-genting-malaysia-berhad-e9a1565cfa6d6b4/",
+        "teaser": null
+      },{
+        "title": "The Ruma Hotel and Residences Kuala Lumpur Jobs Vacancies 2021",
+        "excerpt":"KUALA LUMPUR’S MOST LUXURIOUS HOTEL NOW HIRING! The Ruma Hotel and Residences Kuala Lumpur jobs vacancies 2021. About Located in one of the last few pockets of serenity in Kuala Lumpur, The RuMa Hotel &amp; Residences sits on Jalan Kia Peng, which is populated by stately houses and tree-lined with...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Feature"],
+        "url": "http://localhost:4000/jobs/the-ruma-hotel-and-residences-kuala-lumpur-jobs-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "Hotel Maya Kuala Lumpur Job Vacancies 2021 - Accounts Executive",
+        "excerpt":"Hotel Maya Kuala Lumpur job vacancies 2021 for Accounts Executive position which based in Kuala Lumpur. Jawatan kosong Hotel Maya Kuala Lumpur 2021 terkini untuk kekosongan Accounts Executive penempatan di Kuala Lumpur. Vacancy Accounts Executive We are looking for accounts executive, newly graduate with a degree in finance/accounting/banking/commerce, to fill...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/acounts-executive-hotel-maya-kuala-lumpur-1e05939579fd6e7/",
+        "teaser": null
+      },{
+        "title": "AVANTE Hotel Bandar Utama Job Vacancies 2021",
+        "excerpt":"AVANTE Hotel Bandar Utama job vacancies 2021. Many new positions available for your career opportunities this new year 2021. About AVANTÉ Hotel, another prestigious project by Bandar Utama City Assets Sdn Bhd is the up and coming hospitality game changer, set to deliver unique experiences. It exudes avant-garde yet chic...","categories": ["Jobs"],
+        "tags": ["Selangor","Feature"],
+        "url": "http://localhost:4000/jobs/avante-hotel-bandar-utama-jobs-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "Sandpiper Hotel Kuala Lumpur Job Vacancies 2021 - Chef",
+        "excerpt":"Sandpiper Hotel Kuala Lumpur job vacancies 2021 for Chef position which based in Bukit Bintang. Jawatan kosong Sandpiper Hotel Kuala Lumpur 2021 terkini untuk kekosongan Chef penempatan di Bukit Bintang. Vacancy Chef Job Requirement At least 2 years of experience as a North Indian ChefMulti Tasker (Required)Able to Communicate in...","categories": ["Jobs"],
+        "tags": ["Bukit Bintang"],
+        "url": "http://localhost:4000/jobs/chef-sandpiper-hotel-kuala-lumpur-6f139fec59e70b9b/",
+        "teaser": null
+      },{
+        "title": "CRYSTAL CROWN HOTEL PETALING JAYA Job Vacancies 2021 - FOOD AND BEVERAGE ASSISTANT",
+        "excerpt":"CRYSTAL CROWN HOTEL PETALING JAYA job vacancies 2021 for FOOD AND BEVERAGE ASSISTANT position which based in Petaling Jaya. Jawatan kosong CRYSTAL CROWN HOTEL PETALING JAYA 2021 terkini untuk kekosongan FOOD AND BEVERAGE ASSISTANT penempatan di Petaling Jaya. Vacancy FOOD AND BEVERAGE ASSISTANT Responsibilities: To provide good customer serviceRequired to...","categories": ["Jobs"],
+        "tags": ["Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/fod-and-beverage-asistant-crystal-crown-hotel-petaling-jaya-4f7c73c0f060db6/",
+        "teaser": null
+      },{
+        "title": "Prescott Hotel KL Bukit Bintang Job Vacancies 2021 - Front Office Assistant",
+        "excerpt":"Prescott Hotel KL Bukit Bintang job vacancies 2021 for Front Office Assistant position which based in Kuala Lumpur. Jawatan kosong Prescott Hotel KL Bukit Bintang 2021 terkini untuk kekosongan Front Office Assistant penempatan di Kuala Lumpur. Vacancy Front Office Assistant JOB DESCRIPTION Deliver the basic standards and provide exceptional guest...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/front-ofice-asistant-prescot-hotel-kl-bukit-bintang-70dc786e3c9c4a/",
+        "teaser": null
+      },{
+        "title": "Goodhope Hotel Penang Kelawai Job Vacancies 2021 - Head of Hotel",
+        "excerpt":"Goodhope Hotel Penang Kelawai job vacancies 2021 for Head of Hotel position which based in George Town. Jawatan kosong Goodhope Hotel Penang Kelawai 2021 terkini untuk kekosongan Head of Hotel penempatan di George Town. Vacancy Head of Hotel A person with passion, integrity is utmost important in this position. Adaptive...","categories": ["Jobs"],
+        "tags": ["George Town"],
+        "url": "http://localhost:4000/jobs/head-of-hotel-godhope-hotel-penang-kelawai-1f1ea368596bdca/",
+        "teaser": null
+      },{
+        "title": "Casuarina @ Kuala Kangsar Job Vacancies 2021 - Housekeeping Associate",
+        "excerpt":"Casuarina @ Kuala Kangsar job vacancies 2021 for Housekeeping Associate position which based in Kuala Kangsar. Jawatan kosong Casuarina @ Kuala Kangsar 2021 terkini untuk kekosongan Housekeeping Associate penempatan di Kuala Kangsar. Vacancy Housekeeping Associate Job Responsibilities: 1. Perform a variety of cleaning activities such as sweeping, mopping, dusting and...","categories": ["Jobs"],
+        "tags": ["Kuala Kangsar"],
+        "url": "http://localhost:4000/jobs/housekeping-asociate-casuarina-kuala-kangsar-2682e9e7f932b8d/",
+        "teaser": null
+      },{
+        "title": "Iconic Hotel Penang Jobs Vacancies 2021",
+        "excerpt":"Iconic Hotel Penang is inviting passionate and customer-focused team and are inviting applicants for the Maintenance, Kitchen, F&amp;B and Sales &amp; Marketing position below 2021. Vacancies Hiring for below positions: Maintenance Technician Kitchen Junior Sous Chef Commis Food &amp; Beverage F&amp;B Service Agent (Banquet) Sales &amp; Marketing Senior Sales Manager...","categories": ["Jobs"],
+        "tags": ["Penang","Feature"],
+        "url": "http://localhost:4000/jobs/iconic-hotel-penang-jobs-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "Moty Hotel Sdn Bhd Job Vacancies 2021 - Kitchen Steward",
+        "excerpt":"Moty Hotel Sdn Bhd job vacancies 2021 for Kitchen Steward position which based in Melaka. Jawatan kosong Moty Hotel Sdn Bhd 2021 terkini untuk kekosongan Kitchen Steward penempatan di Melaka. Vacancy Kitchen Steward Ensure the kitchen is clean, well maintained and organized at all times.Ensure floors are dry and clean...","categories": ["Jobs"],
+        "tags": ["Melaka"],
+        "url": "http://localhost:4000/jobs/kitchen-steward-moty-hotel-sdn-bhd-de1382c0d2950af/",
+        "teaser": null
+      },{
+        "title": "LaCrista Hotel Melaka Job Vacancies 2021",
+        "excerpt":"Join Our Team at LaCrista Hotel Melaka. We are a local boutique brand with personalised quality service and experiences to remember. With 230 fully refurbished rooms and facilities with team members eager to deliver, we invite you to join our dynamic team. About Situated in the heart of the well...","categories": ["Jobs"],
+        "tags": ["Mekala","Feature"],
+        "url": "http://localhost:4000/jobs/lacrista-hotel=melaka-jobs-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "Paya Beach Resort Tioman Job Vacancy 2021 Assistant Resort Manager",
+        "excerpt":"Paya Beach Resort Tioman job vacancy 2021 for Assistant Resort Manager position. Jawatan kosong Paya Beach Resort Tioman 2021 terkini. About Paya Beach Spa &amp; Dive Resort is centrally located at the central western shores of Tioman Island, Malaysia. Vacancy We are looking for Asst. Resort Manager for Paya Beach...","categories": ["Jobs"],
+        "tags": ["Tioman","Johor","Feature"],
+        "url": "http://localhost:4000/jobs/paya-beach-resort-tioman-job-assistant-resort-manager/",
+        "teaser": null
+      },{
+        "title": "Goodhope Hotel Penang Kelawai Job Vacancies 2021 - Receptionist",
+        "excerpt":"Goodhope Hotel Penang Kelawai job vacancies 2021 for Receptionist position which based in George Town. Jawatan kosong Goodhope Hotel Penang Kelawai 2021 terkini untuk kekosongan Receptionist penempatan di George Town. Vacancy Receptionist Customer service and willingness to do some housekeeping work if required Job Type: Full-time Salary: From RM1,300.00 per...","categories": ["Jobs"],
+        "tags": ["George Town"],
+        "url": "http://localhost:4000/jobs/receptionist-godhope-hotel-penang-kelawai-061a7a621e61e3f/",
+        "teaser": null
+      },{
+        "title": "Hotel Maya Kuala Lumpur Job Vacancies 2021 - Receptionist",
+        "excerpt":"Hotel Maya Kuala Lumpur job vacancies 2021 for Receptionist position which based in Kuala Lumpur. Jawatan kosong Hotel Maya Kuala Lumpur 2021 terkini untuk kekosongan Receptionist penempatan di Kuala Lumpur. Vacancy Receptionist A polite manner a high standard of personal presentation excellent verbal and written communication skills.Good telephone manner customer...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/receptionist-hotel-maya-kuala-lumpur-debf4a10a7e6d/",
+        "teaser": null
+      },{
+        "title": "Tamu Hotel & Suites Job Vacancies 2021 - Room Attendant (Housekeeping)",
+        "excerpt":"Tamu Hotel &amp; Suites job vacancies 2021 for Room Attendant (Housekeeping) position which based in Kuala Lumpur. Jawatan kosong Tamu Hotel &amp; Suites 2021 terkini untuk kekosongan Room Attendant (Housekeeping) penempatan di Kuala Lumpur. Vacancy Room Attendant (Housekeeping) DUTIES &amp; RESPONSIBILITIES Check room status physically and fill in Room attendant...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/rom-atendant-housekeping-tamu-hotel-suites-0e4ed27a2c49b28/",
+        "teaser": null
+      },{
+        "title": "Plaza Premium Group Job Vacancies 2021 - Sous Chef",
+        "excerpt":"Plaza Premium Group is looking for new potential candidates to fill in for Sous Chef position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong Plaza Premium Group 2021 terkini untuk kekosongan Sous Chef. Job Description...","categories": ["Jobs"],
+        "tags": ["Selangor - Others"],
+        "url": "http://localhost:4000/jobs/sous-chef-plaza-premium-group-453902/",
+        "teaser": null
+      },{
+        "title": "Sunway BigBox Hotel Job Vacancies 2021 at Sunway City Iskandar Puteri Johor",
+        "excerpt":"UNBOX YOUR POTENTIAL!!! Sunway BigBox Hotel is coming to Sunway City Iskandar Puteri, Johor Bahru as a brand new hotel - Opening in May 2021! Jawatan kosong Sunway BigBox Hotel 2021. Vacancies We’re recruiting now and hiring extra-ordinary people like you. Be part of the pre-opening team and get a...","categories": ["Jobs"],
+        "tags": ["Johor","Feature"],
+        "url": "http://localhost:4000/jobs/sunway-bixbox-hotel-jobs-vacancies-sunway-city-iskandar-puteri-johor/",
+        "teaser": null
+      },{
+        "title": "Tanjung Rhu Resort Langkawi Job Vacancies 2021 - Front Office and Reservation Officer / Executive",
+        "excerpt":"Tanjung Rhu Resort Langkawi job vacancies 2021 for Front Office and Reservation Officer / Executive Jawatan kosong Tanjung Rhu Resort Langkawi 2021 terkini. About Our 5-star accommodation stands at the northern tip of Langkawi, Malaysia. It is nestled in the cool shade of rustling Casuarina trees on a 2.5 km...","categories": ["Jobs"],
+        "tags": ["Langkawi","Feature"],
+        "url": "http://localhost:4000/jobs/tanjung-rhu-langkawi-resort-jobs-2021/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Job Vacancies 2021 - Tenancy A&P Executive",
+        "excerpt":"Genting Malaysia Berhad job vacancies 2021 for Tenancy A&amp;P Executive position which based in Genting Highlands. Jawatan kosong Genting Malaysia Berhad 2021 terkini untuk kekosongan Tenancy A&amp;P Executive penempatan di Genting Highlands. Vacancy Tenancy A&amp;P Executive Genting Malaysia Berhad Genting Malaysia is a leading multinational conglomerate that is principally involved...","categories": ["Jobs"],
+        "tags": ["Genting Highlands"],
+        "url": "http://localhost:4000/jobs/tenancy-a-p-executive-genting-malaysia-berhad-3d979a267ad202/",
+        "teaser": null
+      },{
+        "title": "Thistle Port Dickson Jobs Vacancy 2021 - PA to GM and Outlet Manager",
+        "excerpt":"Thistle Port Dickson jobs vacancies 2021 for PA to GM and Outlet Manager positions. About Thistle Port Dickson is located at KM16, Teluk Kemang, Port Dickson, Negeri Sembilan within a 36 hectares Tropical Paradise and only an hour’s drive from Kuala Lumpur International Airport, the Resort boasts a private 3KM...","categories": ["Jobs"],
+        "tags": ["Port Dickson","Feature"],
+        "url": "http://localhost:4000/jobs/thistle-port-dickson-jobs-vacancies-2021-pa-outlet-manager/",
+        "teaser": null
+      },{
+        "title": "Puri Pujangga Sdn Bhd Job Vacancies 2021 - Waiter / Waitress",
+        "excerpt":"Puri Pujangga Sdn Bhd job vacancies 2021 for Waiter / Waitress position which based in Bangi. Jawatan kosong Puri Pujangga Sdn Bhd 2021 terkini untuk kekosongan Waiter / Waitress penempatan di Bangi. Vacancy Waiter / Waitress EPF, SOCSO and meals providedPreferably having related experience in Coffee House / Banquet for...","categories": ["Jobs"],
+        "tags": ["Bangi"],
+        "url": "http://localhost:4000/jobs/waiter-waitres-puri-pujanga-sdn-bhd-04057eb8f6ceca3/",
+        "teaser": null
+      },{
+        "title": "The Zenith Hotel Putrajaya Jobs Vacancies 2021",
+        "excerpt":"The Zenith Hotel Putrajaya jobs vacancies 2021 for many positions available as below. About Ideally situated by the Putrajaya Lakeside, Zenith Putrajaya offers gracious Malaysian Hospitality and five-star facilities. Vacancy Job Opportunity at Zenith Hotel, Putrajaya for this 2021 year as below: Duty Manager Guest Service Assistant Bellmen / Valet...","categories": ["Jobs"],
+        "tags": ["Putrajaya","Feature"],
+        "url": "http://localhost:4000/jobs/zenith-hotel-putrajaya-jobs-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "Asia Hospitality Academy Job Vacancies 2021 - Assistant Manager Outlet (F&B Hotel)",
+        "excerpt":"Asia Hospitality Academy job vacancies 2021 for Assistant Manager Outlet (F&amp;B Hotel) position which based in Kuantan. Jawatan kosong Asia Hospitality Academy 2021 terkini untuk kekosongan Assistant Manager Outlet (F&amp;B Hotel) penempatan di Kuantan. Vacancy Assistant Manager Outlet (F&amp;B Hotel) Requirements Min SPM/Diploma with minimum 2 years experience in F&amp;BMain...","categories": ["Jobs"],
+        "tags": ["Kuantan"],
+        "url": "http://localhost:4000/jobs/asistant-manager-outlet-f-b-hotel-asia-hospitality-academy-cf01eceb3d85ac3/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Astor Bar Supervisor",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Astor Bar Supervisor position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Astor Bar Supervisor penempatan di Kuala Lumpur. Vacancy Astor Bar Supervisor Posting Date Jan 07, 2021 Job Number 21002515 Job Category Food and Beverage &amp;...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/astor-bar-supervisor-mariot-international-inc-d80ba4843931f5af/",
+        "teaser": null
+      },{
+        "title": "Attana Hotels & Resorts Kuala Lumpur Job Vacancy 2021 Chef de Partie",
+        "excerpt":"Attana Hotels &amp; Resorts jobs vacancy 2021 for Chef de Partie positions. About Attana Hotels &amp; Resorts (formerly known as PNB Management Services) is a Malaysian Hospitality Management Company that manages a portfolio of hotels and resorts, and golf clubs worth more than RM800 million. Taking forward the legacy of...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Feature"],
+        "url": "http://localhost:4000/jobs/attana-hotels-resorts-kuala-lumpur-job-chef-de-partie/",
+        "teaser": null
+      },{
+        "title": "VILLEA ROMPIN (fka LANJUT BEACH & GOLF RESORT) Job Vacancies 2021 - CHEF DE PARTIE",
+        "excerpt":"VILLEA ROMPIN (fka LANJUT BEACH &amp; GOLF RESORT) job vacancies 2021 for CHEF DE PARTIE position which based in Rompin. Jawatan kosong VILLEA ROMPIN (fka LANJUT BEACH &amp; GOLF RESORT) 2021 terkini untuk kekosongan CHEF DE PARTIE penempatan di Rompin. Vacancy CHEF DE PARTIE Responsible for coordinating the work of...","categories": ["Jobs"],
+        "tags": ["Rompin"],
+        "url": "http://localhost:4000/jobs/chef-de-partie-vilea-rompin-fka-lanjut-beach-golf-resort-79ebc6bfb1b1820/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Chief Baker",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Chief Baker position which based in Malaysia. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Chief Baker penempatan di Malaysia. Vacancy Chief Baker Posting Date Jan 07, 2021 Job Number 21002358 Job Category Food and Beverage &amp; Culinary Location Kota Kinabalu Marriott...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/chief-baker-mariot-international-inc-7c04b875aea347a/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Commis 3 - General",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Commis 3 - General position which based in Malaysia. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Commis 3 - General penempatan di Malaysia. Vacancy Commis 3 - General Posting Date Jan 07, 2021 Job Number 21002369 Job Category Food and Beverage...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/comis-3-general-mariot-international-inc-5c4cd49d8f4c4e13/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Commis 3 - Pastry",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Commis 3 - Pastry position which based in Malaysia. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Commis 3 - Pastry penempatan di Malaysia. Vacancy Commis 3 - Pastry Posting Date Jan 07, 2021 Job Number 21002360 Job Category Food and Beverage...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/comis-3-pastry-mariot-international-inc-25ab50b72cd189e8/",
+        "teaser": null
+      },{
+        "title": "AirAsia Job Vacancies 2021 - Data Automation Programmer",
+        "excerpt":"AirAsia job vacancies 2021 for Data Automation Programmer position which based in Kuala Lumpur. Jawatan kosong AirAsia 2021 terkini untuk kekosongan Data Automation Programmer penempatan di Kuala Lumpur. Vacancy Data Automation Programmer Job Description Big Loyalty Engineering &amp; Technology Team is a technology centre that designs and builds all-in-one travel...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/data-automation-programer-airasia-28b626a3b5269aef/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Food & Beverage Manager",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Food &amp; Beverage Manager position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Food &amp; Beverage Manager penempatan di Kuala Lumpur. Vacancy Food &amp; Beverage Manager Posting Date Jan 07, 2021 Job Number 21002604 Job Category Food...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/fod-beverage-manager-mariot-international-inc-1ef30309d96a018a/",
+        "teaser": null
+      },{
+        "title": "Marriott International Job Vacancies 2021 - Front Office Duty Manager",
+        "excerpt":"Marriott International job vacancies 2021 for Front Office Duty Manager position which based in Kuala Lumpur. Jawatan kosong Marriott International 2021 terkini untuk kekosongan Front Office Duty Manager penempatan di Kuala Lumpur. Vacancy Front Office Duty Manager Job Description : Job Category Rooms &amp; Guest Services Operations Location The St....","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/front-ofice-duty-manager-mariot-international-654fd5c164d0f5/",
+        "teaser": null
+      },{
+        "title": "Beds In Garden Hostel Sdn Bhd Job Vacancies 2021 - Hostel Marketting Staff",
+        "excerpt":"Beds In Garden Hostel Sdn Bhd job vacancies 2021 for Hostel Marketting Staff position which based in Ipoh. Jawatan kosong Beds In Garden Hostel Sdn Bhd 2021 terkini untuk kekosongan Hostel Marketting Staff penempatan di Ipoh. Vacancy Hostel Marketting Staff List-ID: 88002474Yesterday 19:15 Job DescriptionResponsibilities Front Desk Customer Service Receptionist...","categories": ["Jobs"],
+        "tags": ["Ipoh"],
+        "url": "http://localhost:4000/jobs/hostel-marketing-staf-beds-in-garden-hostel-sdn-bhd-b940dc83e2ba257/",
+        "teaser": null
+      },{
+        "title": "MTREE HOTEL | PUCHONG Job Vacancies 2021 - Housekeeping Assistant",
+        "excerpt":"MTREE HOTEL | PUCHONG job vacancies 2021 for Housekeeping Assistant position which based in Puchong. Jawatan kosong MTREE HOTEL | PUCHONG 2021 terkini untuk kekosongan Housekeeping Assistant penempatan di Puchong. Vacancy Housekeeping Assistant Duties and Responsibilities: To report duty punctually, wearing hotel uniform with name tag intact, and maintaining a...","categories": ["Jobs"],
+        "tags": ["Puchong"],
+        "url": "http://localhost:4000/jobs/housekeping-asistant-mtre-hotel-puchong-67ebcb837452d56/",
+        "teaser": null
+      },{
+        "title": "Impiana Hotel Senai Job Vacancies 2021",
+        "excerpt":"Impiana Hotel Senai Johor jobs vacancies 2021. Impiana Hotel Senai is looking for talents to join their team for Kitchen, SPA and Security department positions. About Impiana Hotel Senai is first business hotel in Senai which is 10 minutes driving distance to Senai International Airport. Along Federal Route 1, this...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Feature"],
+        "url": "http://localhost:4000/jobs/impiana-hotel-senai-johor-jobs-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "MTREE HOTEL | PUCHONG Job Vacancies 2021 - Kitchen Steward",
+        "excerpt":"MTREE HOTEL | PUCHONG job vacancies 2021 for Kitchen Steward position which based in Puchong. Jawatan kosong MTREE HOTEL | PUCHONG 2021 terkini untuk kekosongan Kitchen Steward penempatan di Puchong. Vacancy Kitchen Steward Job descriptions: To attain the highest levels of quality, safety and cleanliness in all areas of the...","categories": ["Jobs"],
+        "tags": ["Puchong"],
+        "url": "http://localhost:4000/jobs/kitchen-steward-mtre-hotel-puchong-74eacb569127/",
+        "teaser": null
+      },{
+        "title": "Hotel Continental Penang Job Vacancies 2021 - Maintenance",
+        "excerpt":"Hotel Continental Penang job vacancies 2021 for Maintenance position which based in George Town. Jawatan kosong Hotel Continental Penang 2021 terkini untuk kekosongan Maintenance penempatan di George Town. Vacancy Maintenance JOB SUMMARY Keep all equipment in good repair with a minimum of downtime by providing day-to-day maintenance of the hotel....","categories": ["Jobs"],
+        "tags": ["George Town"],
+        "url": "http://localhost:4000/jobs/maintenance-hotel-continental-penang-bd5c2fd9e475f30/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Pastry Chef",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Pastry Chef position which based in Kota Kinabalu. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Pastry Chef penempatan di Kota Kinabalu. Vacancy Pastry Chef Posting Date Jan 07, 2021 Job Number 21002357 Job Category Food and Beverage &amp; Culinary Location Kota...","categories": ["Jobs"],
+        "tags": ["Kota Kinabalu"],
+        "url": "http://localhost:4000/jobs/pastry-chef-mariot-international-inc-be89c3dbe78cef43/",
+        "teaser": null
+      },{
+        "title": "Taman Buaya Langkawi Sdn Bhd Job Vacancies 2021 - Sales And Marketing Executive",
+        "excerpt":"Taman Buaya Langkawi Sdn Bhd is looking for new potential candidates to fill in for Sales And Marketing Executive position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job. Jawatan kosong Taman Buaya Langkawi Sdn Bhd 2021 terkini...","categories": ["Jobs"],
+        "tags": ["Langkawi"],
+        "url": "http://localhost:4000/jobs/sales-and-marketing-executive-taman-buaya-langkawi-sdn-bhd-49235/",
+        "teaser": null
+      },{
+        "title": "St Regis Kuala Lumpur Job Vacancies 2021",
+        "excerpt":"The St. Regis Kuala Lumpur is looking for talents to join our team for below vacant positions. About The St. Regis Kuala Lumpur is located in KL Sentral, set against one of the most prestigious and scenic neighborhoods with Kuala Lumpur’s largest park. Vacancy Below are some of the openings...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur","Feature"],
+        "url": "http://localhost:4000/jobs/st-regis-kuala-lumpur-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Steward",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Steward position which based in Malaysia. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Steward penempatan di Malaysia. Vacancy Steward Posting Date Jan 07, 2021 Job Number 21002364 Job Category Food and Beverage &amp; Culinary Location Kota Kinabalu Marriott Hotel, Lot G-23A,...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/steward-mariot-international-inc-968c8fd9d47184/",
+        "teaser": null
+      },{
+        "title": "Sunway Velocity Hotel KL Job Vacancies 2021 - Technician",
+        "excerpt":"Sunway Velocity Hotel KL job vacancies 2021 for Technician position which based in Cheras. Jawatan kosong Sunway Velocity Hotel KL 2021 terkini untuk kekosongan Technician penempatan di Cheras. Vacancy Technician Carry out general rectification and repair works on building facilities to restore it's functionalityCarry out schedule inspection on building systems...","categories": ["Jobs"],
+        "tags": ["Cheras"],
+        "url": "http://localhost:4000/jobs/technician-sunway-velocity-hotel-kl-a4868035d3be6eb3/",
+        "teaser": null
+      },{
+        "title": "Asia Hospitality Academy Job Vacancies 2021 - Assistant Manager Outlet (F&B Hotel)",
+        "excerpt":"Asia Hospitality Academy job vacancies 2021 for Assistant Manager Outlet (F&amp;B Hotel) position which based in Kuantan. Jawatan kosong Asia Hospitality Academy 2021 terkini untuk kekosongan Assistant Manager Outlet (F&amp;B Hotel) penempatan di Kuantan. Vacancy Assistant Manager Outlet (F&amp;B Hotel) Requirements Min SPM/Diploma with minimum 2 years experience in F&amp;BMain...","categories": ["Jobs"],
+        "tags": ["Kuantan"],
+        "url": "http://localhost:4000/jobs/asistant-manager-outlet-f-b-hotel-asia-hospitality-academy-cf01eceb3d85ac3/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Bartender",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Bartender position which based in Malaysia. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Bartender penempatan di Malaysia. Vacancy Bartender Posting Date Jan 08, 2021 Job Number 21003011 Job Category Food and Beverage &amp; Culinary Location The Ritz-Carlton Langkawi, PO Box 199,...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/bartender-mariot-international-inc-18d769a8de09f61c/",
+        "teaser": null
+      },{
+        "title": "Dusit Thani Laguna Singapore Job Vacancies 2021",
+        "excerpt":"Dusit Thani Laguna Singapore jobs vacancies 2021. Dusit Thani Laguna Singapore is looking for talents to join our team for numerios positions such as Reservations Executive, Front Desk, Chefs, Waiter/s,Housekeeping, Technician, Golf Service, etc About Dusit Thani Laguna Singapore is located within the grounds of the acclaimed Laguna National Golf...","categories": ["Jobs"],
+        "tags": ["Singapore","Feature"],
+        "url": "http://localhost:4000/jobs/dusit-thani-laguna-singapore-jobs-vacancies-2021/",
+        "teaser": null
+      },{
+        "title": "Malayan Flour Mills Berhad Job Vacancies 2021 - Executive, Procurement & Admin",
+        "excerpt":"Malayan Flour Mills Berhad job vacancies 2021 for Executive, Procurement &amp; Admin position which based in Kuala Lumpur. Jawatan kosong Malayan Flour Mills Berhad 2021 terkini untuk kekosongan Executive, Procurement &amp; Admin penempatan di Kuala Lumpur. Vacancy Executive, Procurement &amp; Admin Company Description We are Malayan Flour Mills Berhad, an...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/executive-procurement-admin-malayan-flour-mils-berhad-725f7ca959e7a7/",
+        "teaser": null
+      },{
+        "title": "Anantara Job Vacancies 2021 - F&B Supervisor",
+        "excerpt":"Anantara job vacancies 2021 for F&amp;B Supervisor position which based in Pengerang. Jawatan kosong Anantara 2021 terkini untuk kekosongan F&amp;B Supervisor penempatan di Pengerang. Vacancy F&amp;B Supervisor Company Description A luxury hospitality brand for modern travellers, Anantara connects guests to genuine places, people and stories through personal experiences and providing...","categories": ["Jobs"],
+        "tags": ["Pengerang"],
+        "url": "http://localhost:4000/jobs/f-b-supervisor-anantara-2fe6edb6c8fb543/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Job Vacancies 2021 - Finance Executive",
+        "excerpt":"Genting Malaysia Berhad job vacancies 2021 for Finance Executive position which based in Kuala Lumpur. Jawatan kosong Genting Malaysia Berhad 2021 terkini untuk kekosongan Finance Executive penempatan di Kuala Lumpur. Vacancy Finance Executive Genting Malaysia Berhad Genting Malaysia is a leading multinational conglomerate that is principally involved in the leisure...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/finance-executive-genting-malaysia-berhad-e92050626392075d/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Food & Beverage Manager",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Food &amp; Beverage Manager position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Food &amp; Beverage Manager penempatan di Kuala Lumpur. Vacancy Food &amp; Beverage Manager Posting Date Jan 07, 2021 Job Number 21002604 Job Category Food...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/fod-beverage-manager-mariot-international-inc-1ef30309d96a018a/",
+        "teaser": null
+      },{
+        "title": "CRYSTAL CROWN HOTEL PETALING JAYA Job Vacancies 2021 - HEAD OF JAPANESE KITCHEN",
+        "excerpt":"CRYSTAL CROWN HOTEL PETALING JAYA job vacancies 2021 for HEAD OF JAPANESE KITCHEN position which based in Petaling Jaya. Jawatan kosong CRYSTAL CROWN HOTEL PETALING JAYA 2021 terkini untuk kekosongan HEAD OF JAPANESE KITCHEN penempatan di Petaling Jaya. Vacancy HEAD OF JAPANESE KITCHEN Exhibit Japanese culinary talent and expertise by...","categories": ["Jobs"],
+        "tags": ["Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/head-of-japanese-kitchen-crystal-crown-hotel-petaling-jaya-9dec2875e135e45e/",
+        "teaser": null
+      },{
+        "title": "Lifework Staffing Services Job Vacancies 2021 - Hotel Receptionist",
+        "excerpt":"Lifework Staffing Services job vacancies 2021 for Hotel Receptionist position which based in George Town. Jawatan kosong Lifework Staffing Services 2021 terkini untuk kekosongan Hotel Receptionist penempatan di George Town. Vacancy Hotel Receptionist -Perform all check-in and check-out tasks -Manage online and phone reservations -Inform customers about payment methods -Welcome...","categories": ["Jobs"],
+        "tags": ["George Town"],
+        "url": "http://localhost:4000/jobs/hotel-receptionist-lifework-stafing-services-d2052acb0ca5c2f0/",
+        "teaser": null
+      },{
+        "title": "Setia Awan Holdings Sdn Bhd Job Vacancies 2021 - House Chef / Cook",
+        "excerpt":"Setia Awan Holdings Sdn Bhd job vacancies 2021 for House Chef / Cook position which based in Ipoh. Jawatan kosong Setia Awan Holdings Sdn Bhd 2021 terkini untuk kekosongan House Chef / Cook penempatan di Ipoh. Vacancy House Chef / Cook Summary of the Role A house chef is someone...","categories": ["Jobs"],
+        "tags": ["Ipoh"],
+        "url": "http://localhost:4000/jobs/house-chef-cok-setia-awan-holdings-sdn-bhd-def29d38656d0c/",
+        "teaser": null
+      },{
+        "title": "goldrich group Job Vacancies 2021 - Housekeeping",
+        "excerpt":"goldrich group job vacancies 2021 for Housekeeping position which based in Kuala Terengganu. Jawatan kosong goldrich group 2021 terkini untuk kekosongan Housekeeping penempatan di Kuala Terengganu. Vacancy Housekeeping List-ID: 88025542Yesterday 21:24 Job Description 1. Berpengalaman dalam melakukan tugas2 housekeeping dan receptionist. 2. Boleh bekerja secara shif. 3. Tugasan housekeeping utk...","categories": ["Jobs"],
+        "tags": ["Kuala Terengganu"],
+        "url": "http://localhost:4000/jobs/housekeping-goldrich-group-c0bcd5aec5487d7/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Houseman",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Houseman position which based in Kuah. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Houseman penempatan di Kuah. Vacancy Houseman Posting Date Jan 08, 2021 Job Number 21003019 Job Category Housekeeping &amp; Laundry Location The Ritz-Carlton Langkawi, PO Box 199, Langkawi, Kedah,...","categories": ["Jobs"],
+        "tags": ["Kuah"],
+        "url": "http://localhost:4000/jobs/houseman-mariot-international-inc-63eb78db72ec235/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Houseman",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Houseman position which based in Malaysia. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Houseman penempatan di Malaysia. Vacancy Houseman Posting Date Jan 08, 2021 Job Number 21003019 Job Category Housekeeping &amp; Laundry Location The Ritz-Carlton Langkawi, PO Box 199, Langkawi, Kedah,...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/houseman-mariot-international-inc-e0dc3ef5e95737/",
+        "teaser": null
+      },{
+        "title": "Hotel Grand Continental Job Vacancies 2021 - HR OFFICER",
+        "excerpt":"Hotel Grand Continental job vacancies 2021 for HR OFFICER position which based in Kuala Terengganu. Jawatan kosong Hotel Grand Continental 2021 terkini untuk kekosongan HR OFFICER penempatan di Kuala Terengganu. Vacancy HR OFFICER 1. Establish Personnel policies and procedures and supervise implementation and interpretation of same 2. Application of provision...","categories": ["Jobs"],
+        "tags": ["Kuala Terengganu"],
+        "url": "http://localhost:4000/jobs/hr-oficer-hotel-grand-continental-21f165f4915ea76/",
+        "teaser": null
+      },{
+        "title": "Genting Malaysia Berhad Job Vacancies 2021 - Purchasing Officer",
+        "excerpt":"Genting Malaysia Berhad job vacancies 2021 for Purchasing Officer position which based in Kuala Lumpur. Jawatan kosong Genting Malaysia Berhad 2021 terkini untuk kekosongan Purchasing Officer penempatan di Kuala Lumpur. Vacancy Purchasing Officer Genting Malaysia Berhad Genting Malaysia is a leading multinational conglomerate that is principally involved in the leisure...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/purchasing-oficer-genting-malaysia-berhad-57ae694903cf1f/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Restaurant Server",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Restaurant Server position which based in Malaysia. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Restaurant Server penempatan di Malaysia. Vacancy Restaurant Server Posting Date Jan 08, 2021 Job Number 21003015 Job Category Food and Beverage &amp; Culinary Location The Ritz-Carlton Langkawi,...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/restaurant-server-mariot-international-inc-7fece7fe12f24b39/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - University Intern-Finance",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for University Intern-Finance position which based in Miri. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan University Intern-Finance penempatan di Miri. Vacancy University Intern-Finance Posting Date Jan 08, 2021 Job Number 21003087 Job Category Management Development Programs/Interns Location Miri Marriott Resort &amp; Spa,...","categories": ["Jobs"],
+        "tags": ["Miri"],
+        "url": "http://localhost:4000/jobs/university-intern-finance-mariot-international-inc-89e8e474a9cad317/",
+        "teaser": null
+      },{
+        "title": "CRYSTAL CROWN HOTEL PETALING JAYA Job Vacancies 2021 - WAITER / WAITRESS / CAPTAIN FOR CHINESE RESTAURANT",
+        "excerpt":"CRYSTAL CROWN HOTEL PETALING JAYA job vacancies 2021 for WAITER / WAITRESS / CAPTAIN FOR CHINESE RESTAURANT position which based in Petaling Jaya. Jawatan kosong CRYSTAL CROWN HOTEL PETALING JAYA 2021 terkini untuk kekosongan WAITER / WAITRESS / CAPTAIN FOR CHINESE RESTAURANT penempatan di Petaling Jaya. Vacancy WAITER / WAITRESS...","categories": ["Jobs"],
+        "tags": ["Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/waiter-waitres-captain-for-chinese-restaurant-crystal-crown-hotel-petaling-jaya-e9d3def06c58d7c/",
+        "teaser": null
+      },{
+        "title": "CRYSTAL CROWN HOTEL PETALING JAYA Job Vacancies 2021 - YAKITORI CHEF",
+        "excerpt":"CRYSTAL CROWN HOTEL PETALING JAYA job vacancies 2021 for YAKITORI CHEF position which based in Petaling Jaya. Jawatan kosong CRYSTAL CROWN HOTEL PETALING JAYA 2021 terkini untuk kekosongan YAKITORI CHEF penempatan di Petaling Jaya. Vacancy YAKITORI CHEF Minimum with 2 years of experience as Yakitori Chef.Able to prepare Japanese finger...","categories": ["Jobs"],
+        "tags": ["Petaling Jaya"],
+        "url": "http://localhost:4000/jobs/yakitori-chef-crystal-crown-hotel-petaling-jaya-891078c1580e426c/",
+        "teaser": null
+      },{
+        "title": "Marriott International Job Vacancies 2021 - Account Executive",
+        "excerpt":"Marriott International job vacancies 2021 for Account Executive position which based in Malaysia. Jawatan kosong Marriott International 2021 terkini untuk kekosongan Account Executive penempatan di Malaysia. Vacancy Account Executive Job Description : Job Category Finance &amp; Accounting Location Miri Marriott Resort &amp; Spa, Jalan Temenggong Datuk Oyong Lawai, Miri, Sarawak,...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/acount-executive-mariot-international-7c59d3708fc0e4e/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Cook II",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Cook II position which based in Bintulu. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Cook II penempatan di Bintulu. Vacancy Cook II Posting Date Jan 09, 2021 Job Number 21003286 Job Category Food and Beverage &amp; Culinary Location Fairfield by Marriott...","categories": ["Jobs"],
+        "tags": ["Bintulu"],
+        "url": "http://localhost:4000/jobs/cok-i-mariot-international-inc-a2141dbd579dbe25/",
+        "teaser": null
+      },{
+        "title": "Marriott International Job Vacancies 2021 - Commis II",
+        "excerpt":"Marriott International job vacancies 2021 for Commis II position which based in Kuala Lumpur. Jawatan kosong Marriott International 2021 terkini untuk kekosongan Commis II penempatan di Kuala Lumpur. Vacancy Commis II Job Description : Job Category Food and Beverage &amp; Culinary Location Four Points by Sheraton Kuala Lumpur Chinatown, No...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/comis-i-mariot-international-b5ba5734c90d9cb/",
+        "teaser": null
+      },{
+        "title": "Marriott International Job Vacancies 2021 - Housekeeping Attendant",
+        "excerpt":"Marriott International job vacancies 2021 for Housekeeping Attendant position which based in Kuala Lumpur. Jawatan kosong Marriott International 2021 terkini untuk kekosongan Housekeeping Attendant penempatan di Kuala Lumpur. Vacancy Housekeeping Attendant Job Description : Job Category Housekeeping &amp; Laundry Location The St. Regis Kuala Lumpur, Jalan Stesen Sentral &amp; Jalan...","categories": ["Jobs"],
+        "tags": ["Kuala Lumpur"],
+        "url": "http://localhost:4000/jobs/housekeping-atendant-mariot-international-a4c5e409f3ec1/",
+        "teaser": null
+      },{
+        "title": "Marriott International Job Vacancies 2021 - Human Resources Officer",
+        "excerpt":"Marriott International job vacancies 2021 for Human Resources Officer position which based in Malaysia. Jawatan kosong Marriott International 2021 terkini untuk kekosongan Human Resources Officer penempatan di Malaysia. Vacancy Human Resources Officer Job Description : Job Category Human Resources Location Miri Marriott Resort &amp; Spa, Jalan Temenggong Datuk Oyong Lawai,...","categories": ["Jobs"],
+        "tags": ["Malaysia"],
+        "url": "http://localhost:4000/jobs/human-resources-oficer-mariot-international-2e8d095a7313dcb/",
+        "teaser": null
+      },{
+        "title": "Marriott International, Inc Job Vacancies 2021 - Officer-Loss Prevention",
+        "excerpt":"Marriott International, Inc job vacancies 2021 for Officer-Loss Prevention position which based in Bintulu. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Officer-Loss Prevention penempatan di Bintulu. Vacancy Officer-Loss Prevention Posting Date Jan 09, 2021 Job Number 21003284 Job Category Loss Prevention &amp; Security Location Fairfield by Marriott Bintulu...","categories": ["Jobs"],
+        "tags": ["Bintulu"],
+        "url": "http://localhost:4000/jobs/oficer-los-prevention-mariot-international-inc-83c067b1980ce52/",
         "teaser": null
       }]
