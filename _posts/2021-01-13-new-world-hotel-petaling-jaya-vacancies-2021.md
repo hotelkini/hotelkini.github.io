@@ -13,7 +13,7 @@ New World Hotel Petaling Jaya jobs vacancies 2021. New World Hotel Petaling Jaya
 {% include link-adsense.html %} 
 
 ### About
-Impiana Hotel Senai is first business hotel in Senai which is 10 minutes driving distance to Senai International Airport. Along Federal Route 1, this upscale hotel is 31 km from Legoland Malaysia Resort.
+This luxury hotel in a modern high-rise building is next to the Paradigm Mall and 7 km from Skypark Terminal Sultan Abdul Aziz Shah Airport.
 
 ### Vacancies
 We are looking for aspiring hoteliers with extraordinary talent who are Engaging, Perceptive and Genuine,
