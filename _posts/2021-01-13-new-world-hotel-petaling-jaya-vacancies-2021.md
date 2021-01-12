@@ -28,7 +28,7 @@ We are looking for aspiring hoteliers with extraordinary talent who are Engaging
 **Culinary**
 * Chef De Partie - IRD / Western
 
-![New World Hotel Petaling Jaya Jobs Vacancies 2021!](/assets/images/2021-01/impiana-hotel-senai-jobs-vacancies-2021.jpg "New World Hotel Petaling Jaya Jobs Vacancies 2021")
+![New World Hotel Petaling Jaya Jobs Vacancies 2021!](/assets/images/2021-01/new-world-hotel-petaling-jaya-vacancies-2021.jpg "New World Hotel Petaling Jaya Jobs Vacancies 2021")
 
 ### Walk-in Interview
 Walk-in interview as per below:<br/>
