@@ -1,0 +1,22 @@
+---
+title: "Thistle Hotels & Resorts Job Vacancies 2021 - IT Manager" 
+category: Jobs 
+date: 2021-01-14 
+excerpt: "Thistle Hotels & Resorts job vacancies 2021 for IT Manager position which based in Johor Bahru. Jawatan kosong Thistle Hotels & Resorts 2021 terkini untuk kekosongan IT Manager penempatan di Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Thistle Hotels & Resorts job vacancies 2021 for IT Manager position which based in Johor Bahru. Jawatan kosong Thistle Hotels & Resorts 2021 terkini untuk kekosongan IT Manager penempatan di Johor Bahru. 
+{% include link-adsense.html %} 
+### Vacancy 
+- IT Manager 
+<div><p><b>Overall scope and purpose of job: </b></p><p>To ensure the smooth and efficient running and maintenance of Information Systems (IS) in the hotel.</p><p><b>Core Work Activities: </b></p><ul><li>Assists with the development and maintenance of a detailed Department Standard Operations Procedures that reflects policies and procedures, work processes and standards of performance within the Division and ensures annual review to accurately reflect any changes.</li><li>Ensures the availability of any stationery or consumables required by any I.S. systems.</li><li>Ensures that all licenses are complete and up-to-date.</li><li>Keeps software in the Property Management System up to the current release as instructed by the Area Director of Information Systems.</li><li>Conducts regular Departmental Communication Meetings.</li><li>Handles guest and employee enquiries in a courteous and efficient manner, reporting complaints or problems if no immediate solution can be found, whilst feeding back a prompt follow up.</li></ul><p><b>Specific Daily Tasks: </b></p><ul><li>Provides technical assistance, advices to hotel management so as to minimise overhead expenses and maximise productivity in all areas.</li><li>Assist authorised users in relation to operation of the hotel&#8217;s I.S. system hardware, various modules and supporting personal computers.</li><li>Coordinates timely repair and return to service any faulty systems or items of equipment.</li><li>Establishes and implements procedures to ensure backup of data in any I.S. system.</li><li>Rebuilds data corrupted by either hardware or software faults.</li><li>Coordinates the timely handling of any software fault reports or enhancement requests.</li><li>Sets up emergency procedures to continue the operation of the hotel in the event of system failure.</li><li>Provides manuals on the issue of I.S systems and incorporates those manuals into the relevant operating procedures of the hotel.</li><li>Establishes necessary security measures to prevent unauthorised access to the I.S. systems.</li><li>Provides technical assistance to internal and external audit employees.</li><li>Works with Sales and Marketing Department and Operational Departments to set up and maintain clean relevant databases for management purpose.</li><li>Conducts annual Performance Development Discussions with employees and supports them in their professional development goals.</li><li>Plans and implements effective training programmes for employees in coordination with the Training Department and Departmental Trainers.</li></ul><p>This job description is intended to illustrate the main duties and responsibilities of the job of Information Technology Manager. It is not intended to be exhaustive and you are advised that the duties and responsibilities may change from time to time.</p><p>Expected Start Date: 01/02/2021</p><p>Job Type: Full-time</p><p>Salary: From RM3,000.00 per month</p><p>Benefits:</p><ul><li>Dental insurance</li><li>Free parking</li><li>Health insurance</li><li>Meal provided</li></ul><p>Schedule:</p><ul><li>Monday to Friday</li></ul><p>Experience:</p><ul><li>Information Technology: 3 years (Preferred)</li></ul></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this IT Manager job online through Indeed Malaysia 
+<a href="https://malaysia.indeed.com/viewjob?jk=358a80dded16012e" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
