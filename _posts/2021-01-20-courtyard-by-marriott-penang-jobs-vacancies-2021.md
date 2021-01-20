@@ -3,7 +3,7 @@ title: "Courtyard by Marriot Penang Jobs Vacancies 2021"
 category: Jobs 
 date: 2021-01-20
 excerpt: "Courtyard by Marriot Penang jobs vacancies 2021 for Sales & Marketing, Housekeeping, Culinary, Front Office and F&B." 
-tags: [Selangor] 
+tags: [Penang] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
