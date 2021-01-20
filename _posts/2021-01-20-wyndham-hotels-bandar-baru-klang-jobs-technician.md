@@ -13,12 +13,12 @@ YES! You hear us. We are HIRING. Come join our aspiring Team Members because we 
 
 {% include link-adsense.html %} 
 ### About
-Wyndham Acmar Klang Hotel located at Bandar Baru Klang is an upscale business class 5-star hotel located in Bandar Baru Kiang.
+Wyndham Acmar Klang Hotel located at Bandar Baru Klang is an upscale business class 5-star hotel located in Bandar Baru Klang.
 
 Wyndham Hotels & Resorts 6 the champion of the everyday traveler. Through the largest and widest collection of hotel experiences in the world, we work to make hotet travel possible for ail. Wherever and however people travel, Wyndham will be there to welcome them.
 
 ### Vacancies
-We have opening and ;ooking for Malaysian talents for:
+We have opening and looking for Malaysian talents for:
 1. AV Technician
 2. Maintenance Technician
 
