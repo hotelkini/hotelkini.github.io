@@ -1,0 +1,22 @@
+---
+title: "Hotel Connections Job Vacancies 2021 - Hotel and Travel Consultant" 
+category: Jobs 
+date: 2021-01-21 
+excerpt: "Hotel Connections job vacancies 2021 for Hotel and Travel Consultant position which based in Kuala Lumpur. Jawatan kosong Hotel Connections 2021 terkini untuk kekosongan Hotel and Travel Consultant penempatan di Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Hotel Connections job vacancies 2021 for Hotel and Travel Consultant position which based in Kuala Lumpur. Jawatan kosong Hotel Connections 2021 terkini untuk kekosongan Hotel and Travel Consultant penempatan di Kuala Lumpur. 
+{% include link-adsense.html %} 
+### Vacancy 
+- Hotel and Travel Consultant 
+<div><p>Job Description</p><p>Hotel Connections, the leader in Hotel Accommodations &amp; Logistic for airlines and cruise lines is currently hiring and has an immediate opening. This is your chance to join a fast-paced employee driven company.</p><p>The Hotel &amp; Travel Consultant is responsible for the timely and efficient handling of inbound inquiries, to source hotel and transportation needs of clients and their passengers. The Hotel &amp; Travel Consultant will support the OCC team and associated clients with a variety of different issues system related in an efficient and timely manner by taking ownership of each case from beginning to end. In addition, the Hotel &amp; Travel Consultant will liaison with other departments to ensure a swift and consistent problem resolution.</p><p>SKILLS Requirements</p><p>To perform the job successfully, an individual should demonstrate the following:</p><ul><li>Passionate about customer service and must have relevant work experience</li><li>Excellent mental capacity to make quick, smart, and rational decisions using common sense and positive attitude</li><li>Effective communication skills and great listening skills</li><li>Commitment to continuous improvements, changes and has a willingness to learn</li><li>Thinks creativity and strong analytical and problem-solving skills</li><li>Self-motivated and able to work independently and as part of a team</li><li>Excellent negotiations skills using different channels and methods of communications (phone or email)</li><li>Excellent interpersonal and client relationship skills</li><li>Ability to work in a call centre / service desk environment</li><li>Powerful verbal and written communication skills</li><li>Ability to handle multiple tasks, priorities under pressures and challenging interactions in a high-volume, fast-paced, and target-based environment</li><li>Ability to follow complex and dynamic Standard Operating Procedures (SOPs)</li><li>Ability to manage and provide feedback to all types of individuals</li><li>Proficient with Microsoft Office (Word, Excel, Outlook)</li><li>Proficiency with SABRE (preferred)</li><li>Hours of Work: you will be required to work a basic 48 hours per week on a varying day and night shift rotation, as determined by the staffing and pattern of work published in the local staffing roster. This will include the requirement to work nights, weekends and public holidays according to the roster of work needed to meet the requirements of the business.</li></ul><p>Minimum Requirments</p><ul><li>High School Diploma or higher qualification is required with one years' experience of hotel/travel industry experience is necessary.</li><li>Fluent in English and at least one more languages (Italian, German, French, Spanish, Portuguese, Arabic, Greek, Turkish, Mandarin)</li><li>Proficiency in Microsoft Outlook, Word, Excel, and PowerPoint software</li></ul><p>Additional Application Instructions<br>application must include cv or will be automatically rejected This is a shift job, shift pattern is 4 on 4 off, 12 hours per shift - Day and night</p><p>Job Types: Full-time, Contract</p><p>Pay: RM2,600.00 - RM2,800.00 per month</p><p>Schedule:</p><ul><li>Flexible hours</li></ul><p>COVID-19 Precaution(s):</p><ul><li>Remote interview process</li></ul></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Hotel and Travel Consultant job online through Indeed Malaysia 
+<a href="https://malaysia.indeed.com/viewjob?jk=9e97882197244379" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
