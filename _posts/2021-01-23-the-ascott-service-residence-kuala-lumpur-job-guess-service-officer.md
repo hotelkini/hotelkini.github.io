@@ -1,7 +1,7 @@
 ---
 title: "The Ascott Kuala Lumpur Service Residence Jobs - Guess Service Officer" 
 category: Jobs 
-date: 2021-01-21
+date: 2021-01-23
 excerpt: "The Ascott Kuala Lumpur Service Residence jobs vacancy for Guess Service Officer positions." 
 tags: [Kuala Lumpur, Featured] 
 toc: true 
