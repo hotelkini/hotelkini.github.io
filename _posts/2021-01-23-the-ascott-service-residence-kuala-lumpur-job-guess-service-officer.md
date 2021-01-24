@@ -1,15 +1,15 @@
 ---
-title: "The Ascott Kuala Lumpur Service Residence Jobs - Guess Service Officer" 
+title: "The Ascott Kuala Lumpur Service Residence Jobs - Guest Service Officer" 
 category: Jobs 
 date: 2021-01-23
-excerpt: "The Ascott Kuala Lumpur Service Residence jobs vacancy for Guess Service Officer positions." 
+excerpt: "The Ascott Kuala Lumpur Service Residence jobs vacancy for Guest Service Officer positions." 
 tags: [Kuala Lumpur, Featured] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-The Ascott Kuala Lumpur Service Residence jobs vacancy for Guess Service Officer positions.
+The Ascott Kuala Lumpur Service Residence jobs vacancy for Guest Service Officer positions.
 
 ATTENTION to hotelier that have lost their jobs and similar industries. (URGENT HIRING 2021). JOB OPPORTUNITIES in Kuala Lumpur to work with International Brand Service Residence. 
 
