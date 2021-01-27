@@ -1,0 +1,22 @@
+---
+title: "Puri Pujangga Sdn Bhd Job Vacancies 2021 - Chef De Partie (Chinese Muslim Food Speacialist)" 
+category: Jobs 
+date: 2021-01-27 
+excerpt: "Puri Pujangga Sdn Bhd job vacancies 2021 for Chef De Partie (Chinese Muslim Food Speacialist) position which based in Bangi. Jawatan kosong Puri Pujangga Sdn Bhd 2021 terkini untuk kekosongan Chef De Partie (Chinese Muslim Food Speacialist) penempatan di Bangi" 
+tags: [Bangi] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Puri Pujangga Sdn Bhd job vacancies 2021 for Chef De Partie (Chinese Muslim Food Speacialist) position which based in Bangi. Jawatan kosong Puri Pujangga Sdn Bhd 2021 terkini untuk kekosongan Chef De Partie (Chinese Muslim Food Speacialist) penempatan di Bangi. 
+{% include link-adsense.html %} 
+### Vacancy 
+- Chef De Partie (Chinese Muslim Food Speacialist) 
+<div><ul><li>Helps to direct, control and co-ordinate the activities of all chefs and kitchen helpers, engaged in preparing and cooking food, to ensure an efficient, profitable and smooth food service at all times</li><li>Inspects storerooms, refrigerators and freezers daily to ensure no wastage</li><li>Assists the Sous Chef to control cost by minimising spoilage, utilising food surpluses and portion control</li><li>Checks the quality and quantity of food received from the markets and stores</li><li>Maximises employee productivity in order to minimise payroll costs</li><li>Monitors all kitchen operating costs and take corrective action, when necessary, to reduce expenses</li><li>Is in charge of the outlet in the absence of Sous Chef</li><li>Ensures that food is prepared and served according to the standard set by Sous Chef</li><li>Produces and checks preparation and presentation of all food</li><li>Ensures standard recipes are used, and food presented according to pictures</li><li>Ensures that all machine, furniture (fridge&#8217;s, benches, etc.), equipment and utensils are clean and in working condition at all times. Checks all areas assigned in regards to sanitation and hygiene contamination of any kind</li><li>Make sure the kitchen is always in a safe condition, so as prevent accidents</li><li>Is responsible in making the flow of information work, all the way to the helper&#8217;s level. Maintains good relationship with all departments to avoid frictions of any kind</li><li>Maximises personal and team members&#8217; productivity and morale, whilst consistently maintaining discipline, following hotel guidelines and local legislation</li><li>Motivates all employees through professionalism, organisational skills and team spirit to perform their duties</li><li>Ensures all supervised employees are in proper uniform, well groomed as set by culinary guidelines</li><li>Reports all accidents, health and safety hazards to the Sous Chef</li><li>Maintains all hotel records and forms prescribed by the hotel management and policies</li><li>Writes out maintenance requests if necessary, and check on completion</li><li>Attends/Conducts training as per required</li><li>To perform any other duties as directed by the Managemen</li></ul><p>Job Types: Full-time, Contract</p><p>Salary: Up to RM2,500.00 per month</p><p>Benefits:</p><ul><li>Free parking</li><li>Health insurance</li><li>Meal provided</li><li>Parental leave</li><li>Professional development</li></ul><p>Schedule:</p><ul><li>Rotational shift</li></ul><p>Experience:</p><ul><li>chinese kitchen: 3 years (Preferred)</li><li>Line Cook: 1 year (Preferred)</li></ul><p>Education:</p><ul><li>Malaysian Special Skills Certificate (Preferred)</li></ul><p>COVID-19 Precaution(s):</p><ul><li>Personal protective equipment provided or required</li><li>Plastic shield at work stations</li><li>Temperature screenings</li><li>Social distancing guidelines in place</li><li>Sanitizing, disinfecting, or cleaning procedures in place</li></ul></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Chef De Partie (Chinese Muslim Food Speacialist) job online through Indeed Malaysia 
+<a href="https://malaysia.indeed.com/viewjob?jk=1f818343e3476940" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
