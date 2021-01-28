@@ -2,7 +2,7 @@
 title: "Four Points by Sheraton Kuala Lumpur Job Vacancies 2021 - Room Attendant" 
 category: Jobs 
 date: 2021-01-28 
-excerpt: "MFour Points by Sheraton Kuala Lumpur job vacancies 2021 for Room Attendant position which based in Kuala Lumpur. Jawatan kosong Four Points by Sheraton Kuala Lumpur 2021 terkini untuk kekosongan Room Attendant penempatan di Kuala Lumpur" 
+excerpt: "Four Points by Sheraton Kuala Lumpur job vacancies 2021 for Room Attendant position which based in Kuala Lumpur. Jawatan kosong Four Points by Sheraton Kuala Lumpur 2021 terkini untuk kekosongan Room Attendant penempatan di Kuala Lumpur" 
 tags: [Kuala Lumpur] 
 toc: true 
 toc_label: TOC 
