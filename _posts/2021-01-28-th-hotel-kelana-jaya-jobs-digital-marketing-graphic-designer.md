@@ -1,7 +1,7 @@
 ---
 title: "Jawatan Kosong TH Hotel Kelana Jaya - Digital Marketing officer and Graphic Designer" 
 category: Jobs 
-date: 2021-01-27
+date: 2021-01-28
 excerpt: "TH Hotel Kelana Jaya jobs vacancies 2021 for Digital Marketing Offier / Executive and Graphic Designer. " 
 tags: [Selangor] 
 toc: true 
