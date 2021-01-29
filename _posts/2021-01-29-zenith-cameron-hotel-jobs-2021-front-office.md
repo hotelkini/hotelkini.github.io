@@ -1,7 +1,7 @@
 ---
 title: "Zenith Cameron Hotel Vacancies 2021 - Housekeeper and Security Manager / Assistant" 
 category: Jobs 
-date: 2021-01-04
+date: 2021-01-29
 excerpt: "Pre-opening positions at Zenith Cameron Hotel this January 2021 for Executive Housekeeper and Security Manager / Assistant Manager." 
 tags: [Pahang] 
 toc: true 
