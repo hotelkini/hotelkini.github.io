@@ -1,21 +1,21 @@
 ---
-title: "Dorsett Hospitality International Limited Job Vacancies 2021 - Asistant Room Sales Mgr / Room Sales Manager" 
+title: "DDorsett Putrajaya Job Vacancies 2021 - Asistant Room Sales Mgr / Room Sales Manager" 
 category: Jobs 
 date: 2021-01-29 
-excerpt: "Dorsett Hospitality International Limited job vacancies 2021 for Asistant Room Sales Mgr / Room Sales Manager position which based in Putrajaya. Jawatan kosong Dorsett Hospitality International Limited 2021 terkini untuk kekosongan Asistant Room Sales Mgr / Room Sales Manager penempatan di Putrajaya" 
+excerpt: "Dorsett Putrajaya job vacancies 2021 for Asistant Room Sales Mgr / Room Sales Manager position which based in Putrajaya. Jawatan kosong Dorsett Putrajaya 2021 terkini untuk kekosongan Asistant Room Sales Mgr / Room Sales Manager penempatan di Putrajaya" 
 tags: [Putrajaya] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-Dorsett Hospitality International Limited job vacancies 2021 for Asistant Room Sales Mgr / Room Sales Manager position which based in Putrajaya. Jawatan kosong Dorsett Hospitality International Limited 2021 terkini untuk kekosongan Asistant Room Sales Mgr / Room Sales Manager penempatan di Putrajaya. 
+Dorsett Putrajaya job vacancies 2021 for Asistant Room Sales Mgr / Room Sales Manager position which based in Putrajaya. Jawatan kosong Dorsett Putrajaya 2021 terkini untuk kekosongan Asistant Room Sales Mgr / Room Sales Manager penempatan di Putrajaya. 
 {% include link-adsense.html %} 
 ### Vacancy 
 - Asistant Room Sales Mgr / Room Sales Manager 
 <div>Job Details
 <br><br>
-Dorsett Putrajaya Dorsett Putrajaya is located in Malaysia&#8217;s federal administrative capital of Putrajaya, a modernly planned city that emphasizes the preservation of its eco-culture and environment.
+Dorsett Putrajaya is located in Malaysia&#8217;s federal administrative capital of Putrajaya, a modernly planned city that emphasizes the preservation of its eco-culture and environment.
 <br><br>
 Asistant Room Sales Mgr / Room Sales Manager 2021-01-28
 <br><br>
