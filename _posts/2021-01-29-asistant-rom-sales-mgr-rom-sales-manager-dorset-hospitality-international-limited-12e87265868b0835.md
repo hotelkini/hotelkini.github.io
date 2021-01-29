@@ -1,5 +1,5 @@
 ---
-title: "DDorsett Putrajaya Job Vacancies 2021 - Asistant Room Sales Mgr / Room Sales Manager" 
+title: "Dorsett Putrajaya Job Vacancies 2021 - Asistant Room Sales Mgr / Room Sales Manager" 
 category: Jobs 
 date: 2021-01-29 
 excerpt: "Dorsett Putrajaya job vacancies 2021 for Asistant Room Sales Mgr / Room Sales Manager position which based in Putrajaya. Jawatan kosong Dorsett Putrajaya 2021 terkini untuk kekosongan Asistant Room Sales Mgr / Room Sales Manager penempatan di Putrajaya" 
