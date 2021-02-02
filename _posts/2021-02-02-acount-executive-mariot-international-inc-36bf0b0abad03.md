@@ -2,7 +2,7 @@
 title: "Miri Marriott Resort &amp; Spa Job Vacancies 2021 - Account Executive" 
 category: Jobs 
 date: 2021-02-02 
-excerpt: "Miri Marriott Resort &amp; Spajob vacancies 2021 for Account Executive position which based in Miri. Jawatan kosong Miri Marriott Resort &amp; Spa 2021 terkini untuk kekosongan Account Executive penempatan di Miri" 
+excerpt: "Miri Marriott Resort &amp; Spa job vacancies 2021 for Account Executive position which based in Miri. Jawatan kosong Miri Marriott Resort &amp; Spa 2021 terkini untuk kekosongan Account Executive penempatan di Miri" 
 tags: [Miri] 
 toc: true 
 toc_label: TOC 
