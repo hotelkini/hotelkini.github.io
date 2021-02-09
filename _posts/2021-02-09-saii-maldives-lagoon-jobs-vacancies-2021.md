@@ -39,7 +39,7 @@ We are seeking a fun, friendly and enthusiastic individual to join our growing t
 
 The ideal candidate will be committed to ensuring that guests experience maximum satisfaction, presenting an excellent image of our hotel that leaves a lasting impression. 
 
-![SAii Lagoon Maldives Jobs 2021!](/assets/images/2021-01/saii-maldives-lagoon-jobs-vacancies-2021.jpg "SAii Lagoon MaldivesJobs 2021")
+![SAii Lagoon Maldives Jobs 2021!](/assets/images/2021-02/saii-maldives-lagoon-jobs-vacancies-2021.jpg "SAii Lagoon MaldivesJobs 2021")
 
 ### How To Apply
 Forward your updated CV with photo to: careers.lagoon@saiiresorts.com

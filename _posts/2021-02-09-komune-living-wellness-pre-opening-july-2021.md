@@ -23,7 +23,7 @@ We are inviting potential candidates to apply for the following positions:
 
 We are also offering INTERNSHIP EXPERIENCE for college and university students throughout the year.
 
-![Komune Living & Wellness Opening in July 2021!](/assets/images/2021-01/komune-living-wellness-vacancies-july-2021.jpg "Komune Living & Wellness Opening in July 2021")
+![Komune Living & Wellness Opening in July 2021!](/assets/images/2021-02/komune-living-wellness-vacancies-july-2021.jpg "Komune Living & Wellness Opening in July 2021")
 
 ### How To Apply
 Interested candidates may send your resume to:
