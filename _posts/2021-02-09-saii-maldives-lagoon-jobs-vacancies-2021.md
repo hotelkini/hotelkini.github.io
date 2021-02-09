@@ -1,18 +1,18 @@
 ---
-title: "SAii Lagoon Maldives, Curio Colleciton by Hilton Jobs Vacancies 2021" 
+title: "SAii Lagoon Maldives, Curio Collection by Hilton Jobs Vacancies 2021" 
 category: Jobs 
 date: 2021-02-09
-excerpt: "SAii Lagoon Maldives, Curio Colleciton by Hilton Jobs Vacancies 2021 for F&B, IT, Kitchen and Security Departments" 
+excerpt: "SAii Lagoon Maldives, Curio Collection by Hilton Jobs Vacancies 2021 for F&B, IT, Kitchen and Security Departments" 
 tags: [Maldives, Featured] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-SAii Lagoon Maldives, Curio Colleciton by Hilton Jobs Vacancies 2021.
+SAii Lagoon Maldives, Curio Collection by Hilton Jobs Vacancies 2021.
 
 ### About
-Discover the unique and inspiring wonders of SAii Lagoon Maldives, Curio Colleciton by Hilton.
+Discover the unique and inspiring wonders of SAii Lagoon Maldives, Curio Collection by Hilton.
 
 The island designed with cheerful explorers in mind with a boho-chic aesthetic that subtly reflects the destinations meritime heritage.
 
