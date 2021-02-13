@@ -1,18 +1,18 @@
 ---
-title: "Marriott International, Inc Job Vacancies 2021 - Housekeeping Manager - Fairfield by Marriott Kuala Lumpur, J..." 
+title: "Fairfield Inn &amp; Suites by Marriott Kuala Lumpur Job Vacancies 2021 - Housekeeping Manager"
 category: Jobs 
 date: 2021-02-13 
-excerpt: "Marriott International, Inc job vacancies 2021 for Housekeeping Manager - Fairfield by Marriott Kuala Lumpur, J... position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Housekeeping Manager - Fairfield by Marriott Kuala Lumpur, J... penempatan di Kuala Lumpur" 
+excerpt: "Fairfield Inn &amp; Suites by Marriott Kuala Lumpur job vacancies 2021 for Housekeeping Manager. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Housekeeping Manager - Fairfield by Marriott Kuala Lumpur." 
 tags: [Kuala Lumpur] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-Marriott International, Inc job vacancies 2021 for Housekeeping Manager - Fairfield by Marriott Kuala Lumpur, J... position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Housekeeping Manager - Fairfield by Marriott Kuala Lumpur, J... penempatan di Kuala Lumpur. 
+Fairfield Inn &amp; Suites by Marriott Kuala Lumpur job vacancies 2021 for Housekeeping Manager. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Housekeeping Manager - Fairfield by Marriott Kuala Lumpur.
 {% include link-adsense.html %} 
 ### Vacancy 
-- Housekeeping Manager - Fairfield by Marriott Kuala Lumpur, J... 
+- Housekeeping Manager
 <div><div><div><b>Posting Date</b> Feb 09, 2021<br>
 <b>Job Number</b> 21011195<br>
 <b>Job Category</b> Housekeeping &amp; Laundry<br>
