@@ -37,6 +37,8 @@ The Pullman Miri Waterfront subscribes wholeheartedly to AccorHotels’ trademar
 
 Applicable for Malaysians only.
 
+![Pullman Miri Waterfront Job 2021!](/assets/images/2021-02/pullman-miri-waterfront-job-vacancies-2021.jpg "Pullman Miri Waterfront Job 2021")
+
 ### How To Apply 
 Please send a detailed resume to:<br/>
 Talent & Culture Department<br/>
