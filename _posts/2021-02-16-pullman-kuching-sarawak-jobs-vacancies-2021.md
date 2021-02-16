@@ -45,6 +45,8 @@ range of trendy restaurant and bars, and high-end spa.
 
 Applicable for Malaysians only. 
 
+![Pullman Kuching Job 2021!](/assets/images/2021-02/oakwood-hotel-residence-kuala-lumpur-finance-controller.jpg "Pullman Kuching Job 2021")
+
 ### How To Apply 
 Please send a detailed resume to:
 Maggie Lee<br/>
