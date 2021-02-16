@@ -1,7 +1,7 @@
 ---
 title: "OAKWOOD Hotel & Residence Kuala Lumpur Job 2021 - Financial Controller" 
 category: Jobs 
-date: 2021-02-11
+date: 2021-02-16
 excerpt: "OAKWOOD Hotel & Residence Kuala Lumpur Job 2021 for Financial Controller. Jawatan kosong OAKWOOD Hotel & Residence Kuala Lumpur 2021." 
 tags: [Kuala Lumpur] 
 toc: true 
