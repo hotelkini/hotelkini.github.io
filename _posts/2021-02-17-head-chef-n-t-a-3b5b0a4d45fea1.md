@@ -1,0 +1,22 @@
+---
+title: "N Ō T A Job Vacancies 2021 - Head Chef" 
+category: Jobs 
+date: 2021-02-17 
+excerpt: "N Ō T A job vacancies 2021 for Head Chef position which based in Shah Alam. Jawatan kosong N Ō T A 2021 terkini untuk kekosongan Head Chef penempatan di Shah Alam" 
+tags: [Shah Alam] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+N Ō T A job vacancies 2021 for Head Chef position which based in Shah Alam. Jawatan kosong N Ō T A 2021 terkini untuk kekosongan Head Chef penempatan di Shah Alam. 
+{% include link-adsense.html %} 
+### Vacancy 
+- Head Chef 
+<div><p>We are looking for a creative and passionate individual to fill the role of <b>Head Chef </b>at N &#332; T A. Pertaining to high standards of personal hygiene and food preparation in the kitchen, we look forward to filling this position with talented personas with an immense desire to create remarkable flavours and memorable experiences for all our guests.</p><p><b>You&#8217;ll be in charge of: </b></p><ul><li>Create new and innovative menus</li></ul><ul><li>Planning and directing food preparation</li></ul><ul><li>Developing guidelines and control procedures for purchasing</li></ul><ul><li>Managing kitchen controllable expenses, including food cost, supplies, uniforms and equipments</li></ul><ul><li>Managing the kitchen team</li></ul><ul><li>Determines how food should be presented based on cafe standards</li></ul><ul><li>Keeping a sanitised and orderly environment in the kitchen and ensure compliance with food handling and sanitisation standards</li></ul><ul><li>Ensuring all food and other items are stored properly</li></ul><ul><li>Monitoring stock and place order when there are shortages</li></ul><ul><li>Establish effective controls to minimise food and supply waste</li></ul><ul><li>Enforcing strict health and hygiene standard and troubleshooting any problems that may arise</li></ul><ul><li>Managing day-to-day kitchen operations, ensuring the quality, standards and meeting the expectations of the customers on a daily basis</li></ul><ul><li>Be an awesome role model for junior staff members</li></ul><p><b>Qualifications</b></p><p><b>What we&#8217;re looking for: </b></p><ul><li>Minimum 3 years of kitchen experience</li></ul><ul><li>Possess at least Diploma in Culinary Arts / Hotel Management or equivalent certifications</li></ul><ul><li>Possess a comprehensive and diverse culinary background</li></ul><ul><li>Knowledge of various cooking procedures and methods</li></ul><ul><li>Passion for culinary excellence with skills to create exciting new dishes</li></ul><ul><li>A team player and results driven</li></ul><ul><li>Display passion for hospitality and guest experience</li></ul><p><b>About N &#332; T A</b></p><p>N &#332; T A operates like one big close-knit family who works hard and has the appetite for constant learning and growth. We take the time to get to know our people as individuals - their personality, interests and strength. That way we can arm them with necessary know-hows and create an environment for everyone to pursue their passion and goals, making it an incredibly fulfilling journey.</p><p>This role will be representing as the opening team of N &#332; T A (opening this September). Where neighbourhood locals can enjoy their morning coffee, brunch, and all-day plates, N &#332; T A serves simple, gourmet flavours created from heirloom agricultural produce by local farmers in Malaysia.</p><p>Application Deadline: 31/03/2021</p><p>Job Type: Full-time</p><p>Salary: From RM3,500.00 per month</p><p>Benefits:</p><ul><li>Health insurance</li><li>Meal provided</li><li>Professional development</li></ul><p>Schedule:</p><ul><li>Afternoon shift</li><li>Day shift</li><li>Evening shift</li><li>Rotational shift</li></ul><p>Supplemental Pay:</p><ul><li>Performance bonus</li></ul><p>Work Remotely:</p><ul><li>No</li></ul></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Head Chef job online through Indeed Malaysia 
+<a href="https://malaysia.indeed.com/viewjob?jk=3b5b0aa4d445fea1" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
