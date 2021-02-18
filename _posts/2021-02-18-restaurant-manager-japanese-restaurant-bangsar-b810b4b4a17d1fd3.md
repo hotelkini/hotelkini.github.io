@@ -1,0 +1,22 @@
+---
+title: "Japanese Restaurant @ Bangsar Job Vacancies 2021 - Restaurant Manager" 
+category: Jobs 
+date: 2021-02-18 
+excerpt: "Japanese Restaurant @ Bangsar job vacancies 2021 for Restaurant Manager position which based in Bangsar. Jawatan kosong Japanese Restaurant @ Bangsar 2021 terkini untuk kekosongan Restaurant Manager penempatan di Bangsar" 
+tags: [Bangsar] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Japanese Restaurant @ Bangsar job vacancies 2021 for Restaurant Manager position which based in Bangsar. Jawatan kosong Japanese Restaurant @ Bangsar 2021 terkini untuk kekosongan Restaurant Manager penempatan di Bangsar. 
+{% include link-adsense.html %} 
+### Vacancy 
+- Restaurant Manager 
+<div><p><b>Responsibilies: </b></p><p><b>1) Restaurant Operations</b></p><ul><li>Plan, review and execute inventory management, control and to make purchases and stocks based on sales volume</li><li>Oversee the execution of cash management through validation of accuracy by conducting check on cash float, change, documentation and collection</li><li>Plan and manage staff scheduling and deployment to maximize efficiencies</li><li>Plan, organize and execute a training system for all staff</li><li>Conduct Weekly ops meeting with section PIC to align and improve operations short-coming</li></ul><p><b>2) Day to Day Restaurant Management &amp; Planning</b></p><ul><li>Review service processes and provide recommendations for service enhancement with collaboration with Kitchen Operations to address service issues</li><li>Collaborate with Kitchen Operations to plan for manpower required per shift and to arrange back-ups as required</li><li>Preparation of long term plans such as scheduling and hiring plans by carrying out daily and mid-term manpower planning through forecast of demand fluctuation, holiday planning, employee movement and attrition and to advise Area Manager on the manpower projection for the restaurant</li><li>Execute marking efforts based on marketing plan developed for each concept</li><li>Support recruitment effort for restaurant staffs</li><li>Enforce standards and manage restaurant operating costs and profitability</li></ul><p><b>3) Business Development</b></p><ul><li>Build strong partnership with landlord, suppliers and relevant authorities</li></ul><p><b>4) Quality Assurance &amp; Control</b></p><ul><li>Monitor restaurant quality, service, cleanliness and value</li><li>Oversee operations to ensure compliance to SOPs, safety regulations, implementation policies and guidelines in the restaurant</li><li>Manage quality control activities in line with quality assurance standards and procedures</li><li>Investigate causes and reasons for customer complaints</li><li>Determine corrective actions to resolve unsafe and/or non-compliant conditions and behaviours regarding personal and food safety</li></ul><p><b>Requirement</b></p><ul><li><b>**OPEN TO MALAYSIAN ONLY**</b></li><li>Candidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma, Bachelor's Degree, Post Graduate Diploma, Professional Degree, Food &amp; Beverage Services Management, Hospitality/Tourism/Hotel Management or equivalent.</li><li>Required language(s): Chinese, English, Malay</li><li>At least 5 year(s) of working experience in the related field is required for this position.</li><li>Preferably Managers specializing in Food/Beverage/Restaurant Service or equivalent.</li><li>Loves working in a team</li><li>Able to multitask and perfom in a fast paced environment</li><li>Full-Time position(s) available.</li></ul><p>Job Type: Full-time</p><p>Salary: RM3,000.00 - RM5,000.00 per month</p><p>Benefits:</p><ul><li>Health insurance</li><li>Meal provided</li><li>Professional development</li></ul><p>Schedule:</p><ul><li>Holidays</li><li>Monday to Friday</li><li>Weekend jobs</li></ul><p>Supplemental Pay:</p><ul><li>Performance bonus</li></ul><p>Experience:</p><ul><li>Restaurant Management: 3 years (Preferred)</li><li>restaurant: 1 year (Preferred)</li></ul><p>Education:</p><ul><li>Diploma/Advanced Diploma (Preferred)</li></ul><p>Location:</p><ul><li>Bangsar (Preferred)</li></ul></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Restaurant Manager job online through Indeed Malaysia 
+<a href="https://malaysia.indeed.com/viewjob?jk=b810b4b4a17d1fd3" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include link-adsense.html %} 
