@@ -1,7 +1,7 @@
 ---
 title: "Cinta Sayang Resort Sungai Petani Kedah Job Vacancies 2021" 
 category: Jobs 
-date: 2022-02-20
+date: 2021-02-20
 excerpt: "Cinta Sayang Resort Sungai Petani Kedah job Vacancies 2021 for HR Manager, Sales Manager, F&B Admin Assistant and Steward" 
 tags: [Kedah] 
 toc: true 
