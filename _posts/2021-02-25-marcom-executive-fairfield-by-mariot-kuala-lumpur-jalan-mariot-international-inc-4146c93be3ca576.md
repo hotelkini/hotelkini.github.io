@@ -1,18 +1,18 @@
 ---
-title: "Marriott International, Inc Job Vacancies 2021 - Marcom Executive - Fairfield by Marriott Kuala Lumpur, Jalan..." 
+title: "Marriott International, Inc Job Vacancies 2021 - Marcom Executive - Fairfield by Marriott Kuala Lumpur" 
 category: Jobs 
 date: 2021-02-25 
-excerpt: "Marriott International, Inc job vacancies 2021 for Marcom Executive - Fairfield by Marriott Kuala Lumpur, Jalan... position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Marcom Executive - Fairfield by Marriott Kuala Lumpur, Jalan... penempatan di Kuala Lumpur" 
+excerpt: "Marriott International, Inc job vacancies 2021 for Marcom Executive - Fairfield by Marriott Kuala Lumpur position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Marcom Executive - Fairfield by Marriott Kuala Lumpur penempatan di Kuala Lumpur" 
 tags: [Kuala Lumpur] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-Marriott International, Inc job vacancies 2021 for Marcom Executive - Fairfield by Marriott Kuala Lumpur, Jalan... position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Marcom Executive - Fairfield by Marriott Kuala Lumpur, Jalan... penempatan di Kuala Lumpur. 
+Marriott International, Inc job vacancies 2021 for Marcom Executive - Fairfield by Marriott Kuala Lumpur position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Marcom Executive - Fairfield by Marriott Kuala Lumpur penempatan di Kuala Lumpur. 
 {% include 300-adsense.html %} 
 ### Vacancy 
-- Marcom Executive - Fairfield by Marriott Kuala Lumpur, Jalan... 
+- Marcom Executive - Fairfield by Marriott Kuala Lumpur 
 <div><div><div><b>Posting Date</b> Feb 24, 2021<br>
 <b>Job Number</b> 21012939<br>
 <b>Job Category</b> Sales &amp; Marketing<br>
@@ -29,6 +29,6 @@ Fairfield Inn &amp; Suites by Marriott allows guests to travel with confidence b
 {% include article-adsense.html %} 
 ### How To Apply 
 Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
-Just apply this Marcom Executive - Fairfield by Marriott Kuala Lumpur, Jalan... job online through Indeed Malaysia 
+Just apply this Marcom Executive - Fairfield by Marriott Kuala Lumpur job online through Indeed Malaysia 
 <a href="https://malaysia.indeed.com/viewjob?jk=4146cc93be3ca576" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
 {% include 300-adsense.html %} 

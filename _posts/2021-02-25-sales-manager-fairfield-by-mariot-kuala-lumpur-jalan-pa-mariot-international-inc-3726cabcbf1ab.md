@@ -1,18 +1,18 @@
 ---
-title: "Marriott International, Inc Job Vacancies 2021 - Sales Manager - Fairfield by Marriott Kuala Lumpur, Jalan Pa..." 
+title: "Marriott International, Inc Job Vacancies 2021 - Sales Manager - Fairfield by Marriott Kuala Lumpur" 
 category: Jobs 
 date: 2021-02-25 
-excerpt: "Marriott International, Inc job vacancies 2021 for Sales Manager - Fairfield by Marriott Kuala Lumpur, Jalan Pa... position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Sales Manager - Fairfield by Marriott Kuala Lumpur, Jalan Pa... penempatan di Kuala Lumpur" 
+excerpt: "Marriott International, Inc job vacancies 2021 for Sales Manager - Fairfield by Marriott Kuala Lumpur position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Sales Manager - Fairfield by Marriott Kuala Lumpur penempatan di Kuala Lumpur" 
 tags: [Kuala Lumpur] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-Marriott International, Inc job vacancies 2021 for Sales Manager - Fairfield by Marriott Kuala Lumpur, Jalan Pa... position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Sales Manager - Fairfield by Marriott Kuala Lumpur, Jalan Pa... penempatan di Kuala Lumpur. 
+Marriott International, Inc job vacancies 2021 for Sales Manager - Fairfield by Marriott Kuala Lumpur position which based in Kuala Lumpur. Jawatan kosong Marriott International, Inc 2021 terkini untuk kekosongan Sales Manager - Fairfield by Marriott Kuala Lumpur penempatan di Kuala Lumpur. 
 {% include 300-adsense.html %} 
 ### Vacancy 
-- Sales Manager - Fairfield by Marriott Kuala Lumpur, Jalan Pa... 
+- Sales Manager - Fairfield by Marriott Kuala Lumpur 
 <div><div><div><b>Posting Date</b> Feb 24, 2021<br>
 <b>Job Number</b> 21011185<br>
 <b>Job Category</b> Sales &amp; Marketing<br>
@@ -55,6 +55,6 @@ Fairfield Inn &amp; Suites by Marriott allows guests to travel with confidence b
 {% include article-adsense.html %} 
 ### How To Apply 
 Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
-Just apply this Sales Manager - Fairfield by Marriott Kuala Lumpur, Jalan Pa... job online through Indeed Malaysia 
+Just apply this Sales Manager - Fairfield by Marriott Kuala Lumpur job online through Indeed Malaysia 
 <a href="https://malaysia.indeed.com/viewjob?jk=37726cabbcbf1abb" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
 {% include 300-adsense.html %} 
