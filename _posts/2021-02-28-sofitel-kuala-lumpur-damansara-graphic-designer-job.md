@@ -34,7 +34,7 @@ SOFITEL Kuala Lumpur Damansara Job 2021 for Graphic Designer position which base
 * Talent development opportunities
 * Corporate social responsibility activities
 
-![SOFITEL Kuala Lumpur Damansara Job 2021!](/assets/images/2021-01/sofitel-kuala-lumpur-damansara-graphic-designer-job.jpg "SOFITEL Kuala Lumpur Damansara Job 2021")
+![SOFITEL Kuala Lumpur Damansara Job 2021!](/assets/images/2021-02/sofitel-kuala-lumpur-damansara-graphic-designer-job.jpg "SOFITEL Kuala Lumpur Damansara Job 2021")
 
 ### How To Apply 
 VISIT ACCOR CAREERS: careers.accor.com<br/>
