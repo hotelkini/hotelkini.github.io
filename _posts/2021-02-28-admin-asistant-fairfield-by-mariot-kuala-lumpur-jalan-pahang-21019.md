@@ -1,0 +1,21 @@
+---
+title: " Fairfield by Marriott Kuala Lumpur, Jalan Pahang Job Vacancies 2021 - Admin Assistant" 
+category: Jobs 
+date: 2021-02-28 
+excerpt: " Fairfield by Marriott Kuala Lumpur, Jalan Pahang job vacancies 2021 for Admin Assistant position. Jawatan kosong  Fairfield by Marriott Kuala Lumpur, Jalan Pahang terkini untuk kekosongan Admin Assistant." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+ Fairfield by Marriott Kuala Lumpur, Jalan Pahang job vacancies 2021 for Admin Assistant position. Jawatan kosong  Fairfield by Marriott Kuala Lumpur, Jalan Pahang terkini untuk kekosongan Admin Assistant. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Admin Assistant 
+<div><div><b>Posting Date</b> Feb 24, 2021<br><b>Job Number</b> 21011199<br><b>Job Category</b> Administrative<br><b>Location</b> Kuala Lumpur Jalan Pahang FFI, One Marriott Drive, Kuala Lumpur, Wilayah Persekutuan, Malaysia VIEW ON MAP<br><b>Brand</b> Fairfield Inn &amp; Suites<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><br><p>Fairfield Inn &amp; Suites by Marriott allows guests to travel with confidence by giving them just what they need at an exceptional value. As a member of our team you'll deliver outstanding service so travel is easy, comfortable and productive for our guests. Find Your World&#8482; at Fairfield Inn &amp; Suites by Marriott.</p><br></div><div> <p> <strong>POSITION SUMMARY</strong> </p> <p></p> <p>Greet persons entering the office, determine nature and purpose of visit, and direct/escort to destination. Open, read, and prepare answers to routine letters. Locate and attach appropriate files to incoming correspondence requiring replies. Take and distribute meeting minutes to appropriate individuals. Handle and distribute incoming and outgoing mail. Create and maintain computer- and paper-based filing and organization systems for records, reports, documents, etc. Transmit information or documents using a computer, mail, or facsimile machine. Prepare letters, memos, and other documents using word processing, spreadsheet, database, or presentation software. Enter and retrieve information contained in computer databases using a keyboard, mouse, or trackball to update records, files, reservations, and answer inquiries from guests. Operate standard office equipment other than computers such as telephone, typewriter, fax, photocopier, calculator, and electronic peripherals. Document and communicate all guest requests/complaints to appropriate personnel. </p> <p></p> <p>Follow all company policies and procedures, ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Welcome and acknowledge all guests according to company standards, anticipate and address guests&#8217; service needs, assist individuals with disabilities, and thank guests with genuine appreciation. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p></p> <p> <strong> </strong> </p> </div> <div>  &#160; </div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Admin Assistant job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21011199?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

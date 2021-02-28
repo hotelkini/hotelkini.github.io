@@ -1,0 +1,21 @@
+---
+title: " Fairfield by Marriott Kuala Lumpur, Jalan Pahang Job Vacancies 2021 - Marcom Executive" 
+category: Jobs 
+date: 2021-02-28 
+excerpt: " Fairfield by Marriott Kuala Lumpur, Jalan Pahang job vacancies 2021 for Marcom Executive position. Jawatan kosong  Fairfield by Marriott Kuala Lumpur, Jalan Pahang terkini untuk kekosongan Marcom Executive." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+ Fairfield by Marriott Kuala Lumpur, Jalan Pahang job vacancies 2021 for Marcom Executive position. Jawatan kosong  Fairfield by Marriott Kuala Lumpur, Jalan Pahang terkini untuk kekosongan Marcom Executive. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Marcom Executive 
+<div><div><b>Posting Date</b> Feb 24, 2021<br><b>Job Number</b> 21012939<br><b>Job Category</b> Sales &amp; Marketing<br><b>Location</b> Kuala Lumpur Jalan Pahang FFI, One Marriott Drive, Kuala Lumpur, Wilayah Persekutuan, Malaysia VIEW ON MAP<br><b>Brand</b> Fairfield Inn &amp; Suites<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><br><p>Fairfield Inn &amp; Suites by Marriott allows guests to travel with confidence by giving them just what they need at an exceptional value. As a member of our team you'll deliver outstanding service so travel is easy, comfortable and productive for our guests. Find Your World&#8482; at Fairfield Inn &amp; Suites by Marriott.</p><br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Manage the day-to-day activities for social media channels. Establish long-range objectives and specify the strategies and actions to achieve them. Manage active and engaged communities around a defined topic or topics by managing long-lead editorial calendars, monitoring online conversations. Participate in online conversations to build brand visibility, customer satisfaction and marketing/ecommerce support. Establish a positive online presence for the hotel(s) by integrating property-specific and brand messaging in a compelling and valuable way for participants. Provide measurement of the impact of online presence to the hotel&#8217;s overall business.</p> <p>&#160;</p> <p>Report accidents, injuries, and unsafe work conditions to manager. Follow all company policies and procedures; ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge all guests according to company standards; anticipate and address guests&#8217; service needs; thank guests with genuine appreciation. Speak with others using clear and professional language; answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others; listen and respond appropriately to the concerns of other employees. Comply with quality assurance expectations and standards. Read and visually verify information in a variety of formats; move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance; stand, sit, or walk for an extended period of time. Perform other reasonable job duties as requested.</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Marcom Executive job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21012939?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
