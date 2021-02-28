@@ -51,7 +51,7 @@ GET IN TOUCH WITH US IF YOU ARE KEEN IN ANY OF THE ROLES BELOW:
 **SAFETY & SECURITY**
 - Security Assistant
 
-![Swiss Belhotel Kuantan Pahang Jobs!](/assets/images/2021-02/swiss-belhotel-kuantan-pahang-jobs-vacancies-2021.jpg.jpg "Swiss Belhotel Kuantan Pahang Jobs")
+![Swiss Belhotel Kuantan Pahang Jobs!](/assets/images/2021-02/swiss-belhotel-kuantan-pahang-jobs-vacancies-2021.jpg "Swiss Belhotel Kuantan Pahang Jobs")
 
 ### How To Apply
 Send your resume with a recent photograph of yourself to recruitmentsbkt@swiss-belhotel.com and please specify the position you are applying in your email subject line.
