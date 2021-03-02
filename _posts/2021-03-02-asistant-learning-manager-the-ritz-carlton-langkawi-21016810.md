@@ -1,0 +1,21 @@
+---
+title: "The Ritz-Carlton Langkawi Job Vacancies 2021 - Assistant Learning Manager" 
+category: Jobs 
+date: 2021-03-02 
+excerpt: "The Ritz-Carlton Langkawi job vacancies 2021 for Assistant Learning Manager position. Jawatan kosong The Ritz-Carlton Langkawi terkini untuk kekosongan Assistant Learning Manager." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+The Ritz-Carlton Langkawi job vacancies 2021 for Assistant Learning Manager position. Jawatan kosong The Ritz-Carlton Langkawi terkini untuk kekosongan Assistant Learning Manager. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Assistant Learning Manager 
+<div><div><b>Posting Date</b> Mar 02, 2021<br><b>Job Number</b> 21016810<br><b>Job Category</b> Human Resources<br><b>Location</b> The Ritz-Carlton Langkawi, PO Box 199, Langkawi, Kedah, Malaysia VIEW ON MAP<br><b>Brand</b> The Ritz-Carlton<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><br><div>    At more than 80 award-winning properties worldwide, The Ritz-Carlton Ladies and Gentlemen create experiences so exceptional that long after a guest stays with us, the experience stays with them. As the premier worldwide provider of luxury experiences, we set the standard for rare and special luxury service the world over. We invite you to explore The Ritz-Carlton.    </div><br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Meet with managers, department and division heads to discuss staffing needs, recruitment needs, open requisitions, and required/desirable qualifications. Develop learning strategies and plans with management based upon deficiencies identified in a Needs Assessment. Design, develop, and produce training materials (e.g., facilitator/participant workbooks, manuals, brochures, job aids, posters). Prepare for training classes (e.g., materials, setup classes, breakdown classes). Design and create interactive training in various formats. Conduct stand-up training to groups of employees. Monitor and ensure departments are conducting safety training and orientation.</p> <p>&#160;</p> <p>Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees. Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager. Ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information. Speak with others using clear and professional language; prepare and review written documents accurately and completely; answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Welcome and acknowledge all guests according to company standards; anticipate and address guests&#8217; service needs; assist individuals with disabilities; thank guests with genuine appreciation. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time or for an entire work shift. Enter and locate work-related information using computers and/or point of sale systems. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Assistant Learning Manager job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21016810?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

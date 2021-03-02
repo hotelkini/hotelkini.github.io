@@ -1,0 +1,21 @@
+---
+title: "The Ritz-Carlton Langkawi Job Vacancies 2021 - Assistant Human Resources Manager" 
+category: Jobs 
+date: 2021-03-02 
+excerpt: "The Ritz-Carlton Langkawi job vacancies 2021 for Assistant Human Resources Manager position. Jawatan kosong The Ritz-Carlton Langkawi terkini untuk kekosongan Assistant Human Resources Manager." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+The Ritz-Carlton Langkawi job vacancies 2021 for Assistant Human Resources Manager position. Jawatan kosong The Ritz-Carlton Langkawi terkini untuk kekosongan Assistant Human Resources Manager. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Assistant Human Resources Manager 
+<div><div><b>Posting Date</b> Mar 02, 2021<br><b>Job Number</b> 21016750<br><b>Job Category</b> Human Resources<br><b>Location</b> The Ritz-Carlton Langkawi, PO Box 199, Langkawi, Kedah, Malaysia VIEW ON MAP<br><b>Brand</b> The Ritz-Carlton<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><br><div>    At more than 80 award-winning properties worldwide, The Ritz-Carlton Ladies and Gentlemen create experiences so exceptional that long after a guest stays with us, the experience stays with them. As the premier worldwide provider of luxury experiences, we set the standard for rare and special luxury service the world over. We invite you to explore The Ritz-Carlton.    </div><br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Assist in monitoring/tracking employee relations issues including resolution and follow-up. Assist and support management and the leadership team with handling and resolving Human Resources issues. Monitor all hiring and recruitment processes for compliance with all local, state, and federal laws and company policies and standards. Inform Human Resources management of issues related to employee relations. Respond to questions, requests, and concerns from employees and management regarding company and Human Resources programs, policies and guidelines. Disseminate information to employees related to employer-employee relations, employee activities, and personnel policies and programs. Review and ensure accurate maintenance of all employee records and files (e.g., interview documents, I-9's). Assist in logistics, administration, and scheduling of annual employee surveys. Answer phone calls and record messages.</p> <p>&#160;</p> <p>Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees. Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager. Maintain confidentiality of proprietary information. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language; answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Enter and locate work-related information using computers and/or point of sale systems. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Assistant Human Resources Manager job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21016750?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
