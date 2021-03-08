@@ -25,14 +25,11 @@ Be part of our extraordinary EQ family as:
 - Commis 
 - Security Officer
 
-### BENEFUPS
+### BENEFITS
 - Medical Benefits
 - Meal Provided
 - EPF & SOCSO
 - Uniforms Provided
-
-### BENEFITS
-- Attractive hourly rates, uniform & meals provided.
 
 ![EQ Kuala Lumpur Hotel Jobs 2021!](/assets/images/2021-03/eq-kuala-lumpur-jobs-mar-2021.jpg "EQ Kuala Lumpur Jobs 2021")
 
