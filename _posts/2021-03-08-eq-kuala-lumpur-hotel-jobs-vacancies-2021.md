@@ -21,7 +21,7 @@ As an award-wining 5-star hotel, we continue to inspire our people every day in 
 Be part of our extraordinary EQ family as:
 - Restaurant Manager
 - Assistant Restaurant Manager 
-- &B Server
+- F&B Server
 - Commis 
 - Security Officer
 
