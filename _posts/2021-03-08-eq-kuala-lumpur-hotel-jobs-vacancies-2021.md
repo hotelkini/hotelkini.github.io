@@ -38,7 +38,7 @@ Be part of our extraordinary EQ family as:
 
 ### How To Apply
 Sean the QR code or type the link below and upload your credential.
-CLICK ON THE LINK: (https://qrgo.page.link/73Jxr)[https://qrgo.page.link/73Jxr]
+CLICK ON THE LINK: [https://qrgo.page.link/73Jxr](https://qrgo.page.link/73Jxr)
 
 Only shortlisted candidates will be notified.
 {% include 300-adsense.html %} 
