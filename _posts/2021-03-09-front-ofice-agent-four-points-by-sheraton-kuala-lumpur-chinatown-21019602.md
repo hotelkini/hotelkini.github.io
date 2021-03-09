@@ -1,0 +1,21 @@
+---
+title: "Four Points by Sheraton Kuala Lumpur Chinatown Job Vacancies 2021 - Front Office Agent" 
+category: Jobs 
+date: 2021-03-09 
+excerpt: "Four Points by Sheraton Kuala Lumpur Chinatown job vacancies 2021 for Front Office Agent position. Jawatan kosong Four Points by Sheraton Kuala Lumpur Chinatown terkini untuk kekosongan Front Office Agent." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Four Points by Sheraton Kuala Lumpur Chinatown job vacancies 2021 for Front Office Agent position. Jawatan kosong Four Points by Sheraton Kuala Lumpur Chinatown terkini untuk kekosongan Front Office Agent. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Front Office Agent 
+<div><div><b>Posting Date</b> Mar 09, 2021<br><b>Job Number</b> 21019602<br><b>Job Category</b> Rooms &amp; Guest Services Operations<br><b>Location</b> Four Points by Sheraton Kuala Lumpur Chinatown, No 2 Jalan Balai Polis, Kuala Lumpur, Wilayah Persekutuan, Malaysia VIEW ON MAP<br><b>Brand</b> Four Points<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><br>Where timeless classics are woven with modern details. Where business meets pleasure. Where even when you&#8217;re global, you can experience the local. Designed for the independent traveler seeking balance, there&#8217;s Four Points.<br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Answer, record, and process all guest requests, questions, or concerns via telephone, email, chat, and mobile communication devices. Operate telephone switchboard, process guest requests for wake-up calls, and connecting and directing calls to the appropriate extension. Receive, record, and relay messages accurately. Log all guest requests or issues into computer, contact appropriate individual or department (e.g., Bellperson, Housekeeping), and follow up with guest to ensure their request has been resolved to their satisfaction. Provide information to guests about room features, property amenities, and local areas of interest. May process room service orders, answer questions on menu selection and record transactions in point-of-sale system. Assist guests with accessing internet and guestroom entertainment.</p> <p>&#160;</p> <p>Follow all company policies and procedures; ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; and protect company assets. Welcome and acknowledge all guests according to company standards, anticipate and address guests&#8217; service needs, assist individuals with disabilities, and thank guests with genuine appreciation. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others, and support team to reach common goals. Comply with quality assurance expectations and standards. Read and visually verify information in a variety of formats; stand, sit, or walk for an extended period of time or for an entire work shift. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include 300-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Front Office Agent job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21019602?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
