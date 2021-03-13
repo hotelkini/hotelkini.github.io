@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-NEXUS REGENCY SUITES & HOTEL Subang Jaya jobs vacancies for Hotel Assistant, Room Attendant, Front Office Assistant, Commis (Kitchen).
+ION Delemen Hotel Genting Highlands jobs vacancies for Sous Chef, Demi Chef, Commis, Steward, Reservation, Finance, Technician, Maintenance.
 
 ### Vacancies
 𝖶𝖾 𝖺𝗋𝖾 𝗂𝗇𝗏𝗂𝗍𝗂𝗇𝗀 𝗍𝖺𝗅𝖾𝗇𝗍𝗌 𝗍𝗈 𝗃𝗈𝗂𝗇 𝗈𝗎𝗋 𝖨𝗈𝗇 𝖣𝖾𝗅𝖾𝗆𝖾𝗇 𝖧𝗈𝗍𝖾𝗅𝗌, 𝖦𝖾𝗇𝗍𝗂𝗇𝗀 𝖧𝗂𝗀𝗁𝗅𝖺𝗇𝖽𝗌 𝗍𝖾𝖺𝗆 for below vacancies:
