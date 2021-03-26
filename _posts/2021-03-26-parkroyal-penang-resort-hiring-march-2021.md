@@ -13,7 +13,7 @@ PARKROYAL Penang Resort job vacancies 2021. We are hiring new member to join our
 
 ### About
 PARKROYAL Penang Resort is the ideal tropical Penang hotel located along the Batu Ferringhi beach. This upscale resort is 9 km from Penang Butterfly Farm and 12 km from the lively Gurney Drive promenade.
-
+{% include 300-adsense.html %} 
 ### Vacancies
 - Head Chef
 - Senior Sales Manager (Government Corporate)

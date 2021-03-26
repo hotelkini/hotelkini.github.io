@@ -13,7 +13,7 @@ SUASANA ALL SUITES JOHOR BAHRU Jobs Vacancies 2021 for Waiter/s, Restaurant Assi
 
 ### About
 Conveniently located only a short drive from Singapore with easy access via Rapid Transport System and with the CIQ within walking distance, travelling has never been so effortless. An address of affluence just next to the Zenith Lifestyle Centre, Johor Bahru’s premier entertainment hub and within walking distance to malls, department stores and Johor Bahru’s Heritage Trail; Suasana All Suites Hotel Johor Bahru provides an unforgettable stay for leisure and business travellers.
-
+{% include 300-adsense.html %} 
 ### Vacancies
 SUASANA ALL SUITES JOHOR BAHRU is hiring for below positions:
 
@@ -32,3 +32,4 @@ grace.liam@umland.com.my<br/>
 +6011-10042043 / +6014-9893446
 <br/><br/>
 Address: 82C, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor
+

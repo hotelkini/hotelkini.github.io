@@ -12,7 +12,7 @@ toc_icon: "fire"
 We are looking for a dynamic, energetic, self motivated and experienced Food and Beverage Manager to join our team and be able to lead a diverse range of people, and manage a multitude of tasks including the current COVID 19 SOPs and be able to adapt in an ever changing environment.
 
 If you feel this is you, we invite you to apply.
-
+{% include 300-adsense.html %} 
 ### Vacancy
 - Food and Beverage Manager
 

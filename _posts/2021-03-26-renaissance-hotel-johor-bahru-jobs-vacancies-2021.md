@@ -11,7 +11,7 @@ toc_icon: "fire"
 **Renaissance Hotel Johor Bahru** jobs vacancies 2021. What does living fully mean to you? Whether you are seeking to grow with hew opportunities, work beside teammates that feel tike famity, or make a difference in the wortd, Marriott helps you live tife to its fullest, no matter how you define it.
 
 Join the #1 leader in hospitality worldwide and be inspired by what, tomorrow brings.
-
+{% include 300-adsense.html %} 
 ### About Renaissance Hotel Johor Bahru
 At Renaissance Hotels, we believe inspiration comes from the unexpected. We create a work environment that values diversity, inclusion, spontaneity and discovery, with unmatched growth opportunities. Join a welcoming and motivated team of Ambassadors who embody the spirit and style of the local neighborhood.
 

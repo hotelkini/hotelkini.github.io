@@ -17,7 +17,7 @@ Raia Hotels are located in the main cities of four States in Malaysia, Alor Seta
 ### Vacancies
 Raia Hotel & Convention Centre Kuching Jobs Vacancies 2021
 - Information Technology (IT) Executive
-
+{% include 300-adsense.html %} 
 ### REQUIREMENT
 - Candidate must possess at least a bachelors degree in IT or equivalent
 - At least 2 years of working experience in related field
