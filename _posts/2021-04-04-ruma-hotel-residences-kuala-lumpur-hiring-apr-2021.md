@@ -1,8 +1,8 @@
 ---
-title: "The Ruma Hotel and Residences Kuala Lumpur Jobs Vacancies 2021" 
+title: "The Ruma Hotel and Residences Kuala Lumpur Hiring April 2021" 
 category: Jobs 
-date: 2021-01-06
-excerpt: "The Ruma Hotel and Residences Kuala Lumpur Jobs Vacancies 2021" 
+date: 2021-04-04
+excerpt: "The Ruma Hotel and Residences Kuala Lumpur Hiring April 2021" 
 tags: [Kuala Lumpur, Feature] 
 toc: true 
 toc_label: TOC 
