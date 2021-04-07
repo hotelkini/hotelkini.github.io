@@ -3,7 +3,7 @@ title: "Komune Living Co-Living Concept Hotel is Hiring 2021"
 category: Jobs 
 date: 2021-04-08
 excerpt: "Komune Living Co-Living Concept Hotel is Hiring for Front Office and Human Resource. Internship experience for college and university students" 
-tags: [Kuala Lumpur, Featured] 
+tags: [Kuala Lumpur, Feature] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 

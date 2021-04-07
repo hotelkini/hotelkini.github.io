@@ -1,9 +1,9 @@
 ---
-title: "The Zenith Hotel Kuantan Hiring April 2021" 
+title: "Best Western i-City Shah Alam Walk-in Interview Vacancies April 2021" 
 category: Jobs 
 date: 2021-04-08
-excerpt: "The Zenith Hotel Kuantan is hiring." 
-tags: [Kuantan] 
+excerpt: "Best Western i-City Shah Alam Walk-in Interview Vacancies 13-17 April 2021 for Front Office, F&B, Kitchen, Housekeeping and Sales & Marketing departments" 
+tags: [Selangor, Feature] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
