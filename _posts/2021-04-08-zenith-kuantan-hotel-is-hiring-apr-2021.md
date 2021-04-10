@@ -3,7 +3,7 @@ title: "The Zenith Hotel Kuantan Hiring April 2021"
 category: Jobs 
 date: 2021-04-08
 excerpt: "The Zenith Hotel Kuantan is hiring." 
-tags: [Kuantan] 
+tags: [Kuantan, Feature] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
