@@ -39,7 +39,7 @@ Gordon Ramsay Restaurants and Sunway Resort are proud to announce the opening of
 - Related certificated
 - Latest 3 months pay slip
 
-![Gordon Ramsay Bar & Grill Restaurant Jobs 2021 Sunway 2021!](/assets/images/2021-04/cinta-rasa-sayang-kedah-resort-vacancies-april-2021.jpg "Gordon Ramsay Bar & Grill Restaurant Jobs 2021 Sunway 2021")
+![Gordon Ramsay Bar & Grill Restaurant Jobs 2021 Sunway 2021!](/assets/images/2021-04/gordon-ramsay-restaurants-sunway-resort-jobs-2021.jpg "Gordon Ramsay Bar & Grill Restaurant Jobs 2021 Sunway 2021")
 
 ### How To Apply
 Interested applicants are required to email to srhs.jobs@sunwayhotels.com
