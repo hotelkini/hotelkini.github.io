@@ -39,7 +39,7 @@ The St. Regis Kuala Lumpur is hiring for the following positions:
 ![The St. Regis Kuala Lumpur Jobs Vacancies 2021!](/assets/images/2021-04/the-st-regis-kuala-lumpur-vacancies-april-2021.jpg "The St. Regis Kuala Lumpur Jobs Vacancies 2021")
 
 ### How to apply
-Candidates who are interested may apply via Marriott Careers <a href="https://marriott.com/careers" class="btn btn--info" target="_blank" rel="nofollow noopenner">marriott.com/careers/a> 
+Candidates who are interested may apply via Marriott Careers <a href="https://marriott.com/careers" class="btn btn--info" target="_blank" rel="nofollow noopenner">marriott.com/careers</a> 
 <br/>
 Limited to Malaysians only. 
 **The St. Regis Kuala Lumpur**<br/>
