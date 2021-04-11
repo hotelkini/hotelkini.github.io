@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-<p>Holiday Inn Express Kota Kinabalu City Centre is looking for new potential candidates to fill in below roles. 
+Holiday Inn Express Kota Kinabalu City Centre is looking for new potential candidates to fill in below roles. 
 
 {% include 300-adsense.html %} 
 
