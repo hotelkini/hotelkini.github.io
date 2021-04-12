@@ -1,14 +1,14 @@
 ---
-title: "Kuala Lumpur Jalan Pahang FFI Job Vacancies 2021 - HR Executive" 
+title: "Fairfield Inn &amp; Suites by Marriott Kuala Lumpur Jalan Pahang FFI Job Vacancies 2021 - HR Executive" 
 category: Jobs 
 date: 2021-04-12 
-excerpt: "Kuala Lumpur Jalan Pahang FFI job vacancies 2021 for HR Executive position. Jawatan kosong Kuala Lumpur Jalan Pahang FFI terkini untuk kekosongan HR Executive." 
+excerpt: "Fairfield Inn &amp; Suites by Marriott Kuala Lumpur Jalan Pahang FFI job vacancies 2021 for HR Executive position. Jawatan kosong Kuala Lumpur Jalan Pahang FFI terkini untuk kekosongan HR Executive." 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-Kuala Lumpur Jalan Pahang FFI job vacancies 2021 for HR Executive position. Jawatan kosong Kuala Lumpur Jalan Pahang FFI terkini untuk kekosongan HR Executive. 
+Fairfield Inn &amp; Suites by Marriott job vacancies 2021 for HR Executive position. Jawatan kosong Fairfield Inn &amp; Suites by Marriott terkini untuk kekosongan HR Executive. 
 {% include 300-adsense.html %} 
 ### Vacancy 
 - HR Executive 
