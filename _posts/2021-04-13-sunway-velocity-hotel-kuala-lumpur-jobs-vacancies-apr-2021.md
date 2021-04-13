@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-Sunway Velocity Hotel KL job vacancies 2021 for Security Officer position which based in Cheras. Jawatan kosong Sunway Velocity Hotel KL 2021 terkini untuk kekosongan Security Officer penempatan di Cheras. 
+Sunway Velocity Hotel Kuala Lumpur job vacancies 2021 to fill in Front Office, Reservation, Housekeeping, Security, Sales and Engineering department.
 {% include 300-adsense.html %} 
 ### Vacancies
 AVAILABLE POSITIONS
