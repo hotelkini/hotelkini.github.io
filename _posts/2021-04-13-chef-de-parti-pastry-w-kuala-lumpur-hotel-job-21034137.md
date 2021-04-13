@@ -1,14 +1,14 @@
 ---
-title: " Pastry Job Vacancies 2021 - Chef De Parti" 
+title: "W Kuala Lumpur Pastry Job Vacancies 2021 - Chef De Parti" 
 category: Jobs 
 date: 2021-04-13 
-excerpt: " Pastry job vacancies 2021 for Chef De Parti position. Jawatan kosong  Pastry terkini untuk kekosongan Chef De Parti." 
+excerpt: "W Kuala Lumpur Pastry job vacancies 2021 for Chef De Parti position. Jawatan kosong  Pastry terkini untuk kekosongan Chef De Parti." 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
- Pastry job vacancies 2021 for Chef De Parti position. Jawatan kosong  Pastry terkini untuk kekosongan Chef De Parti. 
+W Kuala Lumpur Pastry job vacancies 2021 for Chef De Parti position. Jawatan kosong  Pastry terkini untuk kekosongan Chef De Parti. 
 {% include 300-adsense.html %} 
 ### Vacancy 
 - Chef De Parti 
