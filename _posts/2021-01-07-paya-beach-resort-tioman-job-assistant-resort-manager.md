@@ -10,7 +10,7 @@ toc_icon: "fire"
 --- 
 
 Paya Beach Resort Tioman job vacancy 2021 for Assistant Resort Manager position. Jawatan kosong Paya Beach Resort Tioman 2021 terkini.
-{% include link-adsense.html %} 
+{% include 300-adsense.html %} 
 ### About
 Paya Beach Spa & Dive Resort is centrally located at the central western shores of Tioman Island, Malaysia. 
 

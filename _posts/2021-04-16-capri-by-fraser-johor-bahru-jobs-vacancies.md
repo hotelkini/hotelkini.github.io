@@ -1,7 +1,7 @@
 ---
 title: "Capri by Fraser Johor Bahru Jobs Vacancies 2021" 
 category: Jobs 
-date: 2021-03-19
+date: 2021-04-16
 excerpt: "Capri by Fraser Johor Bahru jobs vacancies 2021 for Engineering, F&B, Front Office, Kitchen, Reservation and Security department" 
 tags: [Johor Bahru] 
 toc: true 
@@ -40,7 +40,7 @@ We are hiring exceptional, energetic, and passionate individuals in key position
 **SECURITY**
 - Security Manager
 
-![Capri by Fraser Johor Bahru Jobs 2021!](/assets/images/2021-03/capri-by-fraser-johor-bahru-vacancies.jpg "Capri by Fraser Johor Bahru Jobs 2021")
+![Capri by Fraser Johor Bahru Jobs 2021!](/assets/images/2021-04/capri-by-fraser-johor-bahru-jobs-vacancies.jpg "Capri by Fraser Johor Bahru Jobs 2021")
 
 ### How To Apply
 Email us at arifin.abdghani@capribyfraser.com or contact our HR department at: +607 277 0888 for more information.<br/>
