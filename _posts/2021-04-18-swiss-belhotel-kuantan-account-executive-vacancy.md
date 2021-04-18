@@ -1,14 +1,14 @@
 ---
-title: "Swiss-Bellhotel Kuantan Pahang Jobs Vacancies 2021 - Food & Beverage Manager" 
+title: "Swiss-Bellhotel Kuantan Pahang Jobs Vacancies 2021 - ACCOUNTS EXECUTIVE / OFFICER / SUPERVISOR" 
 category: Jobs 
 date: 2021-04-18
-excerpt: "Swiss-Bellhotel Kuantan Pahang jobs vacancies 2021 for Food and Beverage Manager role."
+excerpt: "Swiss-Bellhotel Kuantan Pahang jobs vacancies 2021 for ACCOUNTS EXECUTIVE / OFFICER / SUPERVISOR role."
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
 
-Swiss-Bellhotel Kuantan Pahang is hiring ! Swiss-Bellhotel Kuantan Pahang jobs vacancies 2021 for Food and Beverage Manager role.
+Swiss-Bellhotel Kuantan Pahang is hiring ! Swiss-Bellhotel Kuantan Pahang jobs vacancies 2021 for ACCOUNTS EXECUTIVE / OFFICER / SUPERVISOR role.
 
 ### About
 Swiss-Belhotel Kuantan is a four-star property directly on the seafront at Tanjung Lumpur in Malaysia's Pahang State.
