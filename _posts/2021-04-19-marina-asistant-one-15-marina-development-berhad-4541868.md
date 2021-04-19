@@ -1,0 +1,21 @@
+---
+title: "ONE˚15 Marina Development Berhad Job Vacancies 2021 - Marina Assistant" 
+category: Jobs 
+date: 2021-04-19 
+excerpt: "ONE˚15 Marina Development Berhad is currently looking for suitable person to fill in the Marina Assistant which positioned at Johor Bahru" 
+tags: [Johor Bahru] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>ONE˚15 Marina Development Berhad is looking for new potential candidates to fill in for <b>Marina Assistant</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>Jawatan kosong ONE˚15 Marina Development Berhad 2021 terkini untuk kekosongan <b>Marina Assistant</b>. 
+<div><div><h4>Job Description</h4></div><div><div><span><div><ul><li>Assist the Marina Supervisor in the maintenance of pontoons, ramp, slipway, dry stack and any other marina related areas and equipment.</li><li>Maintain cleanliness and orderliness of dry stack area, pontoons, marina basin, broadwalk, promenade, etc.</li><li>Assist with administrative support and process.</li><li>Ensure safety and security of the Marina areas.</li><li>Maintain that the grounds of the designated area clean and orderly.</li><li>Ensure that rescue boats are on station (Standby)</li><li>Provide directions and berthing assistance to crafts</li><li>Assist in the maintenance of pontoons, ramps, slipway, hardstand, dry boat stack, forklift, trailers other marines related equipment belonging to ONE15 Marina.</li><li>Provide helpful and polite assistance to club members, guests and visiting yachtsmen on the waterfront.</li><li>Perform basic maintenance and cleaning of club boats, facilities as needed.</li><li>Perform any other projects and duties as assigned by the marina supervisor from time to time.</li></ul></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><p>Listed on the SGX Mainboard (SGX: BHU) and headquartered in Singapore, SUTL Enterprise develops and operates marinas, and also provides marina consultancy, marina development and yacht chartering services. It has three business segments namely Marina Ownership, Consultancy &amp; Management Services, and Luxury Yacht Chartering.</p><p>SUTL Enterprise aims to tap into Asia&#8217;s rising affluence and burgeoning demand for the waterfront lifestyle by establishing infrastructure that will support a buzzing yachting community here. This includes building integrated marinas that become lifestyle hubs with retail and F&amp;B options, facilities and accommodation, while at the same time addressing the huge shortage of berths in the region.</p><p>The Group owns the ONE&#176;15 brand and one of its goals is to establish it as the leading and premium brand for well-operated and world-class marinas around the world.</p><p>The ONE&#176;15 Marina Puteri Harbour project is the latest addition to the group, located at the heart of Iskandar Puteri, Johor. Consisting of ONE&#176;15 Estuari Sports Centre and the upcoming Marina Clubhouse, the club offers dual membership privilege to its members. </p><p>With its extensive network, ONE&#176;15 provides a platform for Members to interact and be in contact with like-minded people worldwide.</p><p>With the ONE&#176;15 Membership, one can also enjoy access to all ONE&#176;15 marina clubs worldwide*, including the flagship club, ONE&#176;15 Marina Sentosa Cove, Singapore, ONE&#176;15 Marina Brooklyn, USA and the upcoming ONE&#176;15 Marina Guishan, China, ONE&#176;15 Marina Suzhou, China, ONE&#176;15 Marina Puteri Harbour, Malaysia, ONE&#176;15 Marina Makham Bay Phuket, Thailand and Indonesia Navy Club managed by ONE&#176;15.</p></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Johor Bahru. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/marina-assistant-4541868?jobId=jobstreet-my-job-4541868" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
