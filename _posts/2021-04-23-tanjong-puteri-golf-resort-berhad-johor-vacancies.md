@@ -9,7 +9,7 @@ toc_label: TOC
 toc_icon: "fire" 
 --- 
 
-Tanjong Puteri Golf Resort jobs vacancies for Sales Manager & Sales Cooridinator position.
+Tanjong Puteri Golf Resort Berhad jobs vacancies 2021. Temuduga terbuka kekosongan F&B, Human Resource, Welcome Desk, Golfing, Sales & Marketing, Security, Finance, Housekeeping, Maintennace, Engineering.
 
 #### About
 Ideal for fun and relaxation, Tanjong Puteri Golf Resort is located in the Pasir Gudang area of Johor Bahru, Malaysia. The resort is located approximately 42km from Senai International Airport and 53km from Singapore Changi Airport. With its convenient location, the hotel offers easy access to the city's must-see destinations.
