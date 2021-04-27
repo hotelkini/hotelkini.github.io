@@ -1,0 +1,21 @@
+---
+title: "Courtyard Penang Job Vacancies 2021 - Front Office Supervisor" 
+category: Jobs 
+date: 2021-04-27 
+excerpt: "Courtyard Penang job vacancies 2021 for Front Office Supervisor position. Jawatan kosong Courtyard Penang terkini untuk kekosongan Front Office Supervisor." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Courtyard Penang job vacancies 2021 for Front Office Supervisor position. Jawatan kosong Courtyard Penang terkini untuk kekosongan Front Office Supervisor. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Front Office Supervisor 
+<div><div><b>Posting Date</b> Apr 27, 2021<br><b>Job Number</b> 21040126<br><b>Job Category</b> Rooms &amp; Guest Services Operations<br><b>Location</b> Courtyard Penang, 218D Jalan Macalister, George Town, Penang, PG, Malaysia VIEW ON MAP<br><b>Brand</b> Courtyard by Marriott<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><b>Located Remotely?</b> N<br><br><div>    With more than 330 managed locations in more than 20 countries Courtyard by Marriott offers a refreshing environment that helps guests stay connected and balanced. Working at Courtyard, you'll ensure guests have a smooth, productive stay that meets their personal and business needs. Find Your World&#8482; at Courtyard by Marriott.    </div><br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Assist staff with expediting problem payments (e.g., problems processing credit card). Follow up with guest regarding satisfaction with guest-related issues. Process all guest check-ins by confirming reservations, assigning room, and issuing and activating room key. Process all payment types such as room charges, cash, checks, debit, or credit. Anticipate sold-out situations and obtain satisfactory alternative accommodations when the property cannot accommodate guests with reservations. Process all check-outs including resolving any late and disputed charges. Answer, record, and process all guest calls, messages, requests, questions, or concerns. Coordinate with Housekeeping to track readiness of rooms for check-in. Run daily reports (number of arrivals, departures), identify any special requests, and check reports for accuracy. Cash guests' personal checks and traveler's checks. Review shift logs/daily memo books and document pertinent information in logbooks. Count bank at the beginning and end of shift. Balance and drop receipts according to Accounting specifications.</p> <p>&#160;</p> <p>Assist management in training, motivating, and coaching employees; serve as a role model. Report accidents, injuries, and unsafe work conditions to manager; complete safety training and certifications. Follow all company policies and procedures; ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information. Anticipate and address guests&#8217; service needs. Speak with others using clear and professional language; prepare and review written documents accurately and completely; answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others. Ensure adherence to quality expectations and standards. Stand, sit, or walk for an extended period of time. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include article-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Front Office Supervisor job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21040126?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
