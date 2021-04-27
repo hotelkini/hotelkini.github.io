@@ -1,35 +1,54 @@
 ---
-title: "Vivatel Hotel Kuala Lumpur Jobs Vacancies 2021" 
+title: "OZO Georgetown Penang Hotel Manager Job Vacancy 2021" 
 category: Jobs 
 date: 2021-04-27
-excerpt: "Vivatel Hotel Kuala Lumpur jobs vacancies 2021. Many roles available such as HR Manager, Maintenance Manager, Commis and Demi Chef." 
+excerpt: "OZO Georgetown Penang Hotel Manager Job Vacancy 2021. Ozo Hotel & Resorts Penang is hiring right now" 
 tags: [Penang, Feature] 
 toc: true 
 toc_label: TOC 
 toc_icon: "fire" 
 --- 
-Vivatel Hotel Kuala Lumpur jobs vacancies 2021. Many roles available such as HR Manager, Maintenance Manager, Commis and Demi Chef.
+OZO Georgetown Penang Hotel Manager Job Vacancy 2021. Ozo Hotel & Resorts Penang is hiring right now
 
 ### About
-A modern city hotel in KL with an ideal address and easy access to Klang Valley. Adjoining the Viva Home Shopping Mall, this modern, upmarket hotel is an 8-minute walk from a tram station and 9 km from the 88-storey Petronas Twin Towers.
+OZO Georgetown Penang is a 141-room, an addition to our mid-scale brand in the centre of Malaysia’s colourful
+and multicultural city of Georgetown - the location of one of Asia’s UNESCO World Heritage Sitestel.
 
 {% include article-adsense.html %} 
 
-### Vacancies
-𝗪𝗘'𝗥𝗘 𝗛𝗜𝗥𝗜𝗡𝗚
-1. Human Resources Manager
-2. Maintenance Manager
-3. Commis
-4. Demi Chef
+### Vacancy
+- Hotel Manager
 
-![Vivatel Hotel Kuala Lumpur Hiring 2021!](/assets/images/2021-04/ozo-hotels-resorts-jobs-as-hotel-manager.jpg "Vivatel Hotel Kuala Lumpur  2021")
+### Main Description
+- To lead and supervise relevant activities within all departments of the hotel operations,
+- Responsible forthe commercial results of the operations.
+- A strong understanding of Profit & Loss (P&L) statements and ability to react with impact
+strategies.
+- To develop an operational strategy that is aligned with the brand's standards.
+- To ensure full compliance of Policies & Procedures {P&P}. Standard Operating Procedures
+{SOP}. Property Audit and local regulations.
+
+### Qualifications & Experience
+- Candidate must possess at least a Bachelor's Degree in Business Administration. Hotel and Property Management orrelevant discipline.
+- Minimum 3-5 years experience in similar capacity at a 4 storinternational hotel.
+- Strong financial acumen and commercial knowledge.
+- Ability to lead and engage the team to achieve a high level of performance.
+- Excellent communication skills and the ability to communicate with a range of stakeholders.
+
+![OZO Georgetown Penang Hotel Hiring 2021!](/assets/images/2021-04/ozo-hotels-resorts-jobs-as-hotel-manager.jpg "OZO Georgetown Penang Hotel 2021")
 
 ### How To Apply
-Interested candidates who wish to join our team are invited to submit in a detailed resume stating current and expected salary along with recent passport photo and relevant supporting documents via email / write in / walk in to:
+Kindly forward your complete resume with a recent photograph and expected salary to the
+following address :
 
-Vivatel Kuala Lumpur
-85 Jalan Loke Yew 55200 Kuala Lumpur
-Tel : 03-9205 8888
-Email: hr@vivatel.com.my
+Komathi Goonaseram (Ms}
+Director, Human Resources
+0OZO George Town Penang
+166 Jalan Argyll, 10050 Pulau Pinang
+
+T +604 226 3737 F +604 2262488
+E komathi.g@ozohotels.com
+
+Please note that only shortlisted candidates will be contacted.
 
 {% include 300-adsense.html %} 
