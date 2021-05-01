@@ -1,0 +1,21 @@
+---
+title: " Four Points by Sheraton Desaru Job Vacancies 2021 - Duty Engineer" 
+category: Jobs 
+date: 2021-04-29 
+excerpt: " Four Points by Sheraton Desaru job vacancies 2021 for Duty Engineer position. Jawatan kosong  Four Points by Sheraton Desaru terkini untuk kekosongan Duty Engineer." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+ Four Points by Sheraton Desaru job vacancies 2021 for Duty Engineer position. Jawatan kosong  Four Points by Sheraton Desaru terkini untuk kekosongan Duty Engineer. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Duty Engineer 
+<div><div><b>Posting Date</b> Apr 28, 2021<br><b>Job Number</b> 21040752<br><b>Job Category</b> Engineering &amp; Facilities<br><b>Location</b> Four Points by Sheraton Desaru, Jalan Kempas 2, Bandar Penawar, Johor, Malaysia VIEW ON MAP<br><b>Brand</b> Four Points<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><b>Located Remotely?</b> N<br><br>Where timeless classics are woven with modern details. Where business meets pleasure. Where even when you&#8217;re global, you can experience the local. Designed for the independent traveler seeking balance, there&#8217;s Four Points.<br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Install, maintain, perform preventative maintenance on, and recommend replacement of tools, appliances, and equipment. Calibrate all controls, gauges, meters, etc. Identify, locate, and operate all shut-off valves. Order, mark, and stock parts and supplies as needed. Maintain inventory and purchase orders log. Inspect tools, equipment, or machines. Enter and locate work-related information using computers. Operate power lift. Complete the life safety checklist, including the fire-pump run test and generator run test. Inspect fire sprinkler valves and alarm systems. Assist in development of disaster response protocols. Respond and attend to guest repair requests.</p> <p>&#160;</p> <p>Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees. Follow all company and safety and security policies and procedures; report maintenance problems, safety hazards, accidents, or injuries; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional and maintain confidentiality of proprietary information. Welcome and acknowledge all guests according to company standards, anticipate and address guests&#8217; service needs, and assist individuals with disabilities. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards; and identify, recommend, develop, and implement new ways to increase organizational efficiency, productivity, quality, safety, and/or cost-savings. Speak with others using clear and professional language. Visually inspect tools, equipment, or machines. Reach overhead and below the knees, including bending, twisting, pulling, and stooping. Move, lift, carry, push, pull, and place objects weighing less than or equal to 50 pounds without assistance. Grasp, turn, and manipulate objects of varying size and weight. Stand, sit, or walk for an extended period of time. Move up and down stairs and/or service ramps. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include article-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Duty Engineer job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21040752?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
