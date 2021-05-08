@@ -1,0 +1,21 @@
+---
+title: "Le Méridien Putrajaya Job Vacancies 2021 - Technician" 
+category: Jobs 
+date: 2021-05-08 
+excerpt: "Le Méridien Putrajaya job vacancies 2021 for Technician position. Jawatan kosong Le Méridien Putrajaya terkini untuk kekosongan Technician." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Le Méridien Putrajaya job vacancies 2021 for Technician position. Jawatan kosong Le Méridien Putrajaya terkini untuk kekosongan Technician. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Technician 
+<div><div><b>Posting Date</b> May 07, 2021<br><b>Job Number</b> 21043957<br><b>Job Category</b> Engineering &amp; Facilities<br><b>Location</b> Le M&#233;ridien Putrajaya, Lebuh IRC, Putrajaya, Selangor, Malaysia VIEW ON MAP<br><b>Brand</b> Le M&#233;ridien<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><b>Located Remotely?</b> N<br><br>At Le M&#233;ridien, we believe in helping guests unlock the unexpected and engaging experiences each destination has to offer. Our guests are curious and creative, cosmopolitan, culture seekers that appreciate sophisticated, timeless service. We provide original, chic and memorable service and experiences that inspire guests to unlock the destination. We&#8217;re looking for curious, creative and well-informed people to join our team. If you appreciate connecting with like-minded guests and have a deep desire to create unexpected experiences, we invite you to explore career opportunities with Le M&#233;ridien.<br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Inspect, repair, and maintain HVAC, air quality control, and refrigeration equipment. Maintain and conduct daily inspections of the mechanical plant. Monitor and control property temperature. Monitor and analyze energy and utilities usage. Calibrate all controls, gauges, meters, and other equipment. Assemble, install, test, repair, and maintain electrical systems or electronic wiring. Assemble, install, and maintain pipe assemblies, fittings, valves, etc. Perform routine pool and spa maintenance.</p> <p>&#160;</p> <p>Follow all company and safety and security policies and procedures; report maintenance problems, safety hazards, accidents, or injuries; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards and anticipate and address guests&#8217; service needs. Speak with others using clear and professional language. Develop and maintain positive working relationships with others and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards; and identify, recommend, develop, and implement new ways to increase organizational efficiency, productivity, quality, safety, and/or cost-savings. Reach overhead and below the knees. Move in confined or elevated spaces. Move over sloping, uneven, or slippery surfaces. Move up and down stairs, service ramps and/or a ladder. Grasp, turn, and manipulate objects of varying size and weight. Assist with moving, lifting, carrying, and placing of objects weighing in excess of 100 pounds. Move, lift, carry, push, pull, and place objects weighing less than or equal to 50 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include article-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Technician job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21043957?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
