@@ -1,0 +1,25 @@
+---
+title: "Sim Leisure Group Ltd Job Vacancies 2021 - Financial Controller" 
+category: Jobs 
+date: 2021-05-10 
+excerpt: "Sim Leisure Group Ltd is currently looking for suitable person to fill in the Financial Controller which positioned at Kuala Lumpur" 
+tags: [Kuala Lumpur] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Sim Leisure Group Ltd is looking for new potential candidates to fill in for <b>Financial Controller</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>Jawatan kosong Sim Leisure Group Ltd 2021 terkini untuk kekosongan <b>Financial Controller</b>. 
+<div><div><h4>Job Description</h4></div><div><div><span><div><p><strong>Job Responsibilities</strong></p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Managing all finance&#160;and accounting operations</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordinating and directing the preparation of the budget and financial forecasts and report variances</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Preparing and publishing timely monthly financial statements</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Manage all accounting operations including Billing, A/R, A/P, GL and Counsel, Cost Accounting, Inventory Accounting and Revenue Recognition</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordinate and direct the preparation of the budget and financial forecasts and report variances</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Advise on investment activities and provide strategies that the company should take</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Prepare and publish timely monthly financial statements</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Coordinate the preparation of regulatory reporting in accordance with both Malaysia and Singapore requirements</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Research technical accounting issues for compliance</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Familiar with listed company requirements especially Singapore-listed entity&#160;</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Support month-end and year-end close process</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Ensure quality control over financial transactions and financial reporting</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Manage and comply with local, state, and federal government reporting requirements and tax filings</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Develop and document business processes and accounting policies to maintain and strengthen internal controls</p><p>&#183;&#160;&#160;&#160;&#160;&#160;&#160;Additional&#160;controller duties as necessary</p></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>Sim Leisure Group is a well-established developer and operator of theme parks listed on the Singapore Exchange since March 2019. The Group&#8217;s founder, Sim Choo Kheng, has more than 30 years of experience in the theme park industry, having designed, built and managed theme parks in Europe, the Middle East and ASEAN region.&#160;</div>
+<div>A sister company of the Group, Sim Leisure Gulf currently based in Dubai, provides theming design and construction services to major international clients including The Lost Paradise of Dilmun in Bahrain, Bollywood Theme Park in Dubai, Yas Waterworld in Abu Dhabi, Ski Egypt in Cairo, Ski Dubai, the Motiongate Theme Park in Dubai, Aquapolis in Bulgaria, Ulynovsk Park in Russia, and the Egypt and Jurassic Park zones of Universal Studios Singapore.</div>
+<div>The Group is the owner of ESCAPE brand of theme parks, showcasing ESCAPE outdoor theme park in Penang, Malaysia since 2012 and the ESCAPE Challenge indoor park at Paradigm Mall, Petaling Jaya which launched in 2020. ESCAPE&#8217;s business model disrupts longstanding convention of movie-based themes and mechanical roller-coaster rides in the theme park industry.</div>
+<div>The Group has also signed MOUs to expand the ESCAPE brand internationally in Sri Lanka and China, currently these projects are delayed due to the COVID-19 pandemic. The Group also recently acquired KidZania Kuala Lumpur.</div>
+<div>Sim Leisure Group constantly strives for excellence and does not settle for anything less. This mantra stems from the founder&#8217;s obsession for upholding the highest quality &amp; standards, consistently pushing boundaries and adopting an international global mindset. At Sim Leisure Group, it&#8217;s never business as usual.</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Kuala Lumpur. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/financial-controller-4562185?jobId=jobstreet-my-job-4562185" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
