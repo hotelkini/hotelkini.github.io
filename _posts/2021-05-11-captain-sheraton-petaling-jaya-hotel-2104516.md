@@ -1,0 +1,21 @@
+---
+title: "Sheraton Petaling Jaya Hotel Job Vacancies 2021 - Captain" 
+category: Jobs 
+date: 2021-05-11 
+excerpt: "Sheraton Petaling Jaya Hotel job vacancies 2021 for Captain position. Jawatan kosong Sheraton Petaling Jaya Hotel terkini untuk kekosongan Captain." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Sheraton Petaling Jaya Hotel job vacancies 2021 for Captain position. Jawatan kosong Sheraton Petaling Jaya Hotel terkini untuk kekosongan Captain. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Captain 
+<div><div><b>Posting Date</b> May 11, 2021<br><b>Job Number</b> 21045516<br><b>Job Category</b> Food and Beverage &amp; Culinary<br><b>Location</b> Sheraton Petaling Jaya Hotel, Jalan Utara C, Petaling Jaya, Selangor, Malaysia VIEW ON MAP<br><b>Brand</b> Sheraton Hotels &amp; Resorts<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><b>Located Remotely?</b> N<br><br>At Sheraton, we go above and beyond in everything we do. We are inspired by our guests and one another &#8211; and are driven to make things better. We love what we do, and we give it all we&#8217;ve got &#8211; on property and off. When guests stay with us, it&#8217;s not just a room with a bed that they&#8217;re buying. It&#8217;s an experience. We&#8217;re looking for someone who is ready to go beyond in everything they do. If you are someone with a genuine drive to improve your life and the lives of those around you, we encourage you to explore careers with Sheraton.<br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Communicate service needs to chefs and stewards throughout functions. Total charges for group functions, and prepare and present checks to group contacts for payment. Ensure banquet rooms, restaurants, and coffee breaks are ready for service. Ensure proper centerpieces are displayed on every table. Inspect the cleanliness and presentation of all china, glass, and silver prior to use. Check in with guests to ensure satisfaction. Set tables according to type of event and service standards. Communicate additional meal requirements, allergies, dietary needs, and special requests to the kitchen. Maintain cleanliness of work areas throughout the day.</p> <p>&#160;</p> <p>Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager; and complete safety training and certifications. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others, support team to reach common goals, and listen and respond appropriately to the concerns of other employees. Ensure adherence to quality expectations and standards. Move, lift, carry, push, pull, and place objects weighing less than or equal to 25 pounds without assistance. Stand, sit, or walk for an extended period of time. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include article-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Captain job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21045516?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
