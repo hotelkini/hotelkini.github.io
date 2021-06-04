@@ -1,0 +1,21 @@
+---
+title: "Kuala Lumpur Jalan Pahang FFI Job Vacancies 2021 - Procurement and Receiving Clerk" 
+category: Jobs 
+date: 2021-05-31 
+excerpt: "Kuala Lumpur Jalan Pahang FFI job vacancies 2021 for Procurement and Receiving Clerk position. Jawatan kosong Kuala Lumpur Jalan Pahang FFI terkini untuk kekosongan Procurement and Receiving Clerk." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Kuala Lumpur Jalan Pahang FFI job vacancies 2021 for Procurement and Receiving Clerk position. Jawatan kosong Kuala Lumpur Jalan Pahang FFI terkini untuk kekosongan Procurement and Receiving Clerk. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Procurement and Receiving Clerk 
+<div><div><b>Posting Date</b> May 31, 2021<br><b>Job Number</b> 21053766<br><b>Job Category</b> Finance &amp; Accounting<br><b>Location</b> Kuala Lumpur Jalan Pahang FFI, One Marriott Drive, Kuala Lumpur, Wilayah Persekutuan, Malaysia VIEW ON MAP<br><b>Brand</b> Fairfield Inn &amp; Suites<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><b>Located Remotely?</b> N<br><br><p>Fairfield Inn &amp; Suites by Marriott allows guests to travel with confidence by giving them just what they need at an exceptional value. As a member of our team you'll deliver outstanding service so travel is easy, comfortable and productive for our guests. Find Your World&#8482; at Fairfield Inn &amp; Suites by Marriott.</p><br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes. Organize, secure, and maintain all files, records, cash and cash equivalents in accordance with policies and procedures. Record, store, access, and/or analyze computerized financial information. Maintain accurate electronic spreadsheets for financial and accounting data. Classify, code, and summarize numerical and financial data to compile and keep financial records, using journals, ledgers, and/or computers. Prepare, maintain, and distribute statistical, financial, accounting, auditing, or payroll reports and tables. Complete period-end closing procedures and reports as specified. Prepare, review, reconcile, and issue bills, invoices, and account statements according to company procedures.</p> <p>&#160;</p> <p>Follow all company policies and procedures; ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets; protect the privacy and security of guests and coworkers. Address guests' service needs in a professional, positive, and timely manner. Speak with others using clear and professional language; prepare and review written documents accurately and completely; answer telephones and emails using appropriate etiquette. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include article-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Procurement and Receiving Clerk job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21053766?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

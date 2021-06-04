@@ -1,0 +1,21 @@
+---
+title: "Kuala Lumpur Jalan Pahang FFI Job Vacancies 2021 - Duty Manager" 
+category: Jobs 
+date: 2021-05-31 
+excerpt: "Kuala Lumpur Jalan Pahang FFI job vacancies 2021 for Duty Manager position. Jawatan kosong Kuala Lumpur Jalan Pahang FFI terkini untuk kekosongan Duty Manager." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+Kuala Lumpur Jalan Pahang FFI job vacancies 2021 for Duty Manager position. Jawatan kosong Kuala Lumpur Jalan Pahang FFI terkini untuk kekosongan Duty Manager. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Duty Manager 
+<div><div><b>Posting Date</b> May 31, 2021<br><b>Job Number</b> 21053775<br><b>Job Category</b> Rooms &amp; Guest Services Operations<br><b>Location</b> Kuala Lumpur Jalan Pahang FFI, One Marriott Drive, Kuala Lumpur, Wilayah Persekutuan, Malaysia VIEW ON MAP<br><b>Brand</b> Fairfield Inn &amp; Suites<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><b>Located Remotely?</b> N<br><br><p>Fairfield Inn &amp; Suites by Marriott allows guests to travel with confidence by giving them just what they need at an exceptional value. As a member of our team you'll deliver outstanding service so travel is easy, comfortable and productive for our guests. Find Your World&#8482; at Fairfield Inn &amp; Suites by Marriott.</p><br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Process all guest check-ins, verifying guest identity, form of payment, assigning room, and activating/issuing room key. Set up accurate accounts for each guest according to their requirements. Enter Marriott Rewards information. Ensure rates match market codes, document exceptions. Secure payment prior to issuing room key, verify/adjust billing. Compile and review daily reports/logs/contingency lists. Complete cashier and closing reports. Supply guests with directions and property information. Accommodate guest requests, contacting appropriate staff if necessary. Follow up to ensure requests have been met. Process all payment types, vouchers, paid-outs, and charges. Balance and drop receipts. Count and secure bank at beginning and end of shift. Obtain manual authorizations and follow all Accounting procedures. Notify Loss Prevention/Security of any guest reports of theft.</p> <p>&#160;</p> <p>Assist management in training, evaluating, counseling, motivating and coaching employees; serve as a role model and first point of contact of the Guarantee of Fair Treatment/Open Door Policy process. Develop/maintain positive working relationships; support team to reach common goals; listen and respond appropriately to employee concerns. Follow company policies and procedures; report accidents, injuries, and unsafe work conditions to manager; complete safety training and certifications; ensure personal appearance is clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge guests; anticipate and address guests&#8217; service needs; assist individuals with disabilities; thank guests with genuine appreciation. Speak using clear and professional language; prepare and review written documents accurately and completely; answer telephones using appropriate etiquette. Ensure adherence to quality standards. Enter and locate information using computers/POS systems. Stand, sit, or walk for an extended period of time. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include article-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Duty Manager job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21053775?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
