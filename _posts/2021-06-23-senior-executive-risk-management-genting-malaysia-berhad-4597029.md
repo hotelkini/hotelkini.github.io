@@ -1,0 +1,31 @@
+---
+title: "Genting Malaysia Berhad Job Vacancies 2021 - Senior Executive - Risk Management" 
+category: Jobs 
+date: 2021-06-23 
+excerpt: "Genting Malaysia Berhad is currently looking for suitable person to fill in the Senior Executive - Risk Management which positioned at Pahang" 
+tags: [Pahang] 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+<p>Genting Malaysia Berhad is looking for new potential candidates to fill in for <b>Senior Executive - Risk Management</b> position. If you currently looking for new hotel job opportunities and qualified with the job desc, feel free to apply this job.
+</p>Jawatan kosong Genting Malaysia Berhad 2021 terkini untuk kekosongan <b>Senior Executive - Risk Management</b>. 
+<div><div><h4>Job Description</h4></div><div><div><span><div><div><div><strong>Job Description</strong></div><div><br>1. Half Yearly Risk Assessment Review &amp; Reporting<br>a. Assist in coordinating and monitoring the progress of the half yearly risk assessment review exercise<br>b. Provide the necessary support and guidance to users on how to conduct the risk assessment review.<br>c. Assist to compile risk assessment related information for quarterly reporting to RBCMC.<br>d. Assist to monitor and report on the risk assessment review status and follow up.<br>e. Coordinate the submission of signed Letter of Assurance and Risk Assessment Review Checklist from all Business Area heads.</div><div>2. Risk Analysis &#8211; SAS Modeling<br>a. Assist in performing risk analysis for reporting.<br>b. Assist to coordinate analysis works post half yearly risk assessment review period<br>c. Assist in compiling and maintenance of all the Key Risk Indicators including incident statistics for reporting.<br>d. Assist in risk analysis and projection on incidents.<br>e. Assist in building model for insurance renewals</div>3. Analytics and Systems Administration (iRisk and SAS)<br>a. Qlikview is expiring and requires to build the report in SAS.<br>b. System Administrator for iRisk.<br>c. Manage all iRisk system related requests from users.<br>d. Assist in coordinating and conducting system related training to users.<div>4. Conduct Loss Control Survey<br>a. Develop/ Enhance the SOP and check list for Loss Control Survey exercise<br>b. Arrange the Loss Control Survey with Fire Unit, Engineering and User Dept<br>c. Report the gaps identified during the Loss Control Survey and follow through with User Dept in the progress of their rectification works</div><div>5. Business Continuity Management<br>a. Assist to review and assessment on BCPs for effectiveness of the relevant department.<br>b. Assist in coordinate the development and execution of BCM simulations/ drills etc at CMT and ERP levels.<br>c. Identify gaps in BCP simulation and follow through with respective department on revise plan.<br>d. Assist to coordination and reporting of GENM&#8217;s BCM program effectiveness (i.e. implementations Assess effectiveness of GENM&#8217;s overall and individual components of</div><div>6. Insurance Claim Management<br>a. Assist the WG team should there any claims arises upon user notification i.e.&#160; notification to WG team; submission of Statement of Claims together with full particulars and supporting documentation as soon as possible.<br>b. Assist in coordinating the Loss Adjuster&#8217;s site visit.</div><div>7. Others<br>a. Assist in coordinating and conducting risk management related training to users.<br>b. Assist in conducting risk facilitation workshop with users.<br>c. Assist in ad-hoc projects as assigned.</div><div><strong>Education and Work Experience Requirements</strong><br>a. Possess a Degree or its equivalent from a recognized university;<br>b. Minimum of 5 years of working experience in the related fields;<br>c. Experience in Compliance or Audit, Risk Management &amp; BCM would be an added advantage;<br>d. SAS knowledge will be an added advantage;<br>e. Posses safety certificate in related field will be an added advantage;<br>f. Good in using Microsoft Office &#8211; Word, Excel, Power Point</div><div><strong>Personal Competency</strong><br>a. Innovative, analytical, and resourceful and result- orientated;<br>b. Being initiative and always wanted to learn more;<br>c. Ability to work independently and lead a team;<br>d. Excellent interpersonal and communication skills;<br>e. Possess good time management, organizing and planning skills;</div></div></div></span></div></div></div> 
+{% include article-adsense.html %} 
+<div><div><h4>Company Overview</h4></div><div><div><span><div><div>
+<div>
+<div>
+<div>
+				Genting Malaysia is a leading multinational conglomerate that is principally involved in the leisure and hospitality business, covering theme parks, casinos, hotels, seaside resorts and entertainment venues in Malaysia, the UK, and the US. It is one of the largest listed companies in Malaysia.</div>
+<div>
+				With over 50 years of experience and milestones, Genting Malaysia is currently expanding and transforming Resorts World Genting into the leading tourism and entertainment hub via the Genting Integrated Resort Transformation Plan. Under this plan, flagship projects include Skytropolis Indoor Theme Park, the outdoor theme park - Genting SkyWorlds - and the adjacent shopping complex - SkyAvenue, which houses some of the most prestigious lifestyle brands from around the world.&#160; The plaza also features a state-of-the-art cable car system, which connects SkyAvenue to the mid-hill Genting Highlands Premium Outlets, carrying up to 3,600 passengers per hour per way.</div>
+			
+			If you are searching for a dynamic career full of exciting growth opportunities; look no further and join us today!</div>
+</div>
+</div></div></span></div></div></div> 
+#### How To Apply 
+If you confident and feel that this job is suitable to you, go ahead take your action now. <br/> 
+Hope you find your dream hotel job in Pahang. <br/> 
+<a href="https://www.jobstreet.com.my/en/job/senior-executive-risk-management-4597029?jobId=jobstreet-my-job-4597029" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
