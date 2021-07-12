@@ -1,0 +1,21 @@
+---
+title: "The Ritz-Carlton Langkawi Job Vacancies 2021 - Guest Experience Agent" 
+category: Jobs 
+date: 2021-07-12 
+excerpt: "The Ritz-Carlton Langkawi job vacancies 2021 for Guest Experience Agent position. Jawatan kosong The Ritz-Carlton Langkawi terkini untuk kekosongan Guest Experience Agent." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+The Ritz-Carlton Langkawi job vacancies 2021 for Guest Experience Agent position. Jawatan kosong The Ritz-Carlton Langkawi terkini untuk kekosongan Guest Experience Agent. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Guest Experience Agent 
+<div><div><b>Posting Date</b> Jul 12, 2021<br><b>Job Number</b> 21073859<br><b>Job Category</b> Rooms &amp; Guest Services Operations<br><b>Location</b> The Ritz-Carlton Langkawi, Jalan Pantai Kok, Teluk Nibung, Langkawi, Kedah, Malaysia VIEW ON MAP<br><b>Brand</b> The Ritz-Carlton<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><b>Located Remotely?</b> N<br><br><div>    At more than 80 award-winning properties worldwide, The Ritz-Carlton Ladies and Gentlemen create experiences so exceptional that long after a guest stays with us, the experience stays with them. As the premier worldwide provider of luxury experiences, we set the standard for rare and special luxury service the world over. We invite you to explore The Ritz-Carlton.    </div><br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Answer, record, log, and process all guest calls, requests, questions, or concerns. Operate telephone switchboard station. Process guest requests for wake-up calls, screening calls, do not disturb, call forwarding, conference calls, TDD relay calls, and non-registered guest calls. Advise guest of any messages received. Monitor busy or unanswered lines, check back with callers on hold to update status, and offer to take a message. Receive, record, and relay messages accurately, completely, and legibly. Activate/deactivate guest room message lights as appropriate. Instruct guests on how to access the internet; transfer guests with problems to provider's customer support line. Test communications equipment to ensure it works properly. Respond to special requests from guests with unique needs. Contact appropriate individual or department as necessary to resolve guest call, request, or problem. Follow up with guests to ensure their requests or problems have been met to their satisfaction. Dispatch bell staff or valet staff as needed.</p> <p>&#160;</p> <p>Follow all company policies and procedures; report accidents, injuries, and unsafe work conditions to manager; ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge all guests according to company standards; anticipate and address guests&#8217; service needs; assist individuals with disabilities; thank guests with genuine appreciation. Speak with others using clear and professional language; answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others; support team to reach common goals. Comply with quality assurance expectations and standards. Stand, sit, or walk for an extended period of time. Enter and locate information using computers and/or POS systems. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include article-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Guest Experience Agent job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21073859?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 

@@ -1,0 +1,21 @@
+---
+title: "The Ritz-Carlton Langkawi Job Vacancies 2021 - Front Office Agent" 
+category: Jobs 
+date: 2021-07-12 
+excerpt: "The Ritz-Carlton Langkawi job vacancies 2021 for Front Office Agent position. Jawatan kosong The Ritz-Carlton Langkawi terkini untuk kekosongan Front Office Agent." 
+toc: true 
+toc_label: TOC 
+toc_icon: "fire" 
+--- 
+
+The Ritz-Carlton Langkawi job vacancies 2021 for Front Office Agent position. Jawatan kosong The Ritz-Carlton Langkawi terkini untuk kekosongan Front Office Agent. 
+{% include 300-adsense.html %} 
+### Vacancy 
+- Front Office Agent 
+<div><div><b>Posting Date</b> Jul 12, 2021<br><b>Job Number</b> 21073860<br><b>Job Category</b> Rooms &amp; Guest Services Operations<br><b>Location</b> The Ritz-Carlton Langkawi, Jalan Pantai Kok, Teluk Nibung, Langkawi, Kedah, Malaysia VIEW ON MAP<br><b>Brand</b> The Ritz-Carlton<br><b>Schedule</b> Full-Time<br><b>Relocation?</b> N<br><b>Position Type</b> Non-Management<br><b>Located Remotely?</b> N<br><br><div>    At more than 80 award-winning properties worldwide, The Ritz-Carlton Ladies and Gentlemen create experiences so exceptional that long after a guest stays with us, the experience stays with them. As the premier worldwide provider of luxury experiences, we set the standard for rare and special luxury service the world over. We invite you to explore The Ritz-Carlton.    </div><br></div><div> <p><strong>POSITION SUMMARY</strong></p> <p>&#160;</p> <p>Process all guest check-ins, check-outs, room assignments, and room change/late check-out requests. Secure payment; activate/reissue room keys. Ensure rates match market codes, document exceptions. Verify/adjust billing for guests. Communicate to appropriate staff when guests are waiting for an available room. Advise guest of messages. Clear departures in computer system. Coordinate with Housekeeping to track room status and guest concerns. File guest paperwork or documentation. Operate telephone switchboard station. Run and check daily reports, contingency lists, and credit card authorization reports. Supply guests with directions and information. Answer, record, and process all guest calls, requests, questions, or concerns; follow up to ensure each has been met to guests&#8217; satisfaction. Arrange transportation for guests/visitors. Count and secure bank at beginning and end of shift. Cash-guests' checks, process all payment types, vouchers, paid-outs, charges, and provide change. Notify Loss Prevention/Security of any reports of theft.</p> <p>&#160;</p> <p>Follow company policies and procedures; report accidents, injuries, and unsafe work conditions to manager; ensure uniform and personal appearance are clean and professional; maintain confidentiality of proprietary information; protect company assets. Welcome and acknowledge guests according to company standards; anticipate and address guests&#8217; service needs; assist individuals with disabilities; thank guests with genuine appreciation. Speak using clear and professional language; answer telephones using appropriate etiquette. Develop and maintain positive working relationships; support team to reach common goals; listen and respond appropriately to the concerns of employees. Comply with quality assurance standards. Stand, sit, or walk for an extended period of time. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.</p> <p>&#160;</p> <p>&#160;</p> </div> <div> &#160;</div> <em>Marriott International is an equal opportunity employer.&#160;We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture.&#160;We are committed to non-discrimination on&#160;any&#160;protected&#160;basis, such as disability and veteran status, or any other basis covered under applicable law.</em><br></div> 
+{% include article-adsense.html %} 
+### How To Apply 
+Are you looking for new challenge and job opportunity in hotel industry this 2021 ?
+Just apply this Front Office Agent job online through Marriott Jobs website 
+<a href="https://jobs.marriott.com/marriott/jobs/21073860?lang=en-us" class="btn btn--info" target="_blank" rel="nofollow noopenner">Apply Online</a> 
+{% include 300-adsense.html %} 
